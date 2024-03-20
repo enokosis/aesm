@@ -1,0 +1,67 @@
+Scenario:
+  name: "Advanced Energy Mix Scenario"
+  nSmpl: 720
+  LHV_H2: 0.0333
+  demand:
+    D_Elec:
+      get_value_mode: "Cos"
+      value: 100
+    D_H2:
+      get_value_mode: "Const"
+      value: 30
+  technologies:
+    NuclearPowerPlant:
+      type: "technologies.powerPlants.Nuclear"
+      CAPEX_G: 1600000
+      R: 0.004
+      FC_G: 1800
+      VC_G: 9
+      RampU: 0.05
+      RampD: 0.05
+      AF_max: 0.94
+      AF_min: 0
+      C_Gmin: 20
+      name: "Nuclear power plant"
+    OffshoreWindPowerPlant:
+      type: "technologies.powerPlants.WindPower"
+      CAPEX_G: 1100000
+      R: 0.005
+      FC_G: 1200
+      VC_G: 0
+      name: "Offshore Wind power plant"
+      AF_config:
+        get_value_mode: "Arch"
+        value: 0.8
+    SolarPowerPlant:
+      type: "technologies.powerPlants.SolarPower"
+      CAPEX_G: 600000
+      R: 0.005
+      FC_G: 400
+      VC_G: 0
+      name: "Solar power plant"
+      AF_config:
+        get_value_mode: "Sin"
+        value: 0.8
+      C_Gmax: 30
+    BatterySystem:
+      type: "technologies.storage.Battery"
+      CAPEX_S: 320000
+      CAPEX_G: 240000
+      R: 0.0012
+      FC_S: 500
+      FC_G: 400
+      eta_discharge: 0.927
+      eta_charge: 0.927
+      eta_selfDischarge: 0.000071
+      DOD: 0.8
+      name: "Battery 1"
+    Electrolyzer:
+      type: "technologies.electrolyzer.AWE"
+      CAPEX_G: 500000
+      R: 0.01
+      FC_G: 900
+      VC_G: 0
+      RampU: 1
+      RampD: 1
+      eta_elec: 0.67
+      name: "AWE electrolyzer"

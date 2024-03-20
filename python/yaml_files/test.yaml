@@ -1,0 +1,127 @@
+Scenario Nuclear:
+  name: "Scenario Nuclear"
+  nSmpl: 10
+  LHV_H2: 0.0333
+  demand:
+    D_Elec:
+      get_value_mode: "Sin"
+      value: 1000
+    D_H2:
+      get_value_mode: "Const"
+      value: 1000
+  technologies:
+    Nuce:
+      type: "technologies.powerPlants.Nuclear"
+      CAPEX_G: 10
+      R: 0.5
+      FC_G: 100
+      RampU: 0.05
+      RampD: 0.05
+      AF_min: 0.4
+      AF_max: 0.9
+      VC_G: 0.00
+      name: "Nuce"
+    AWE1:
+      type: "technologies.electrolyzer.AWE"
+      CAPEX_G: 600
+      R: 0.15
+      FC_G: 10
+      VC_G: 1
+      RampU: 0.5
+      RampD: 0.5
+      eta_elec: 0.6
+      eta_heat: 0
+      name: "AWE1"
+    Battery1:
+      type: "technologies.storage.Battery"
+      CAPEX_G: 200
+      CAPEX_S: 200
+      R: 0.35
+      FC_G: 10
+      FC_S: 10
+      eta_charge: 0.98
+      eta_discharge: 0.98
+      eta_selfDischarge: 0.02
+      name: "Battery1"
+    H2Storage1:
+      type: "technologies.storage.H2Storage"
+      CAPEX_G: 100
+      CAPEX_S: 30
+      R: 0.2
+      FC_G: 10
+      FC_S: 10
+      eta_charge: 1
+      eta_discharge: 0.98
+      eta_selfDischarge: 0.02
+      name: "H2Storage1"
+
+
+Scenario Australia:
+  name: Scenario Australia
+  nSmpl: 20
+  LHV_H2: 0.0333
+  demand:
+    D_Elec:
+      get_value_mode: Excel
+      file: "./data/electricityDemand_AU.xlsx"
+      column: B
+    D_H2:
+      get_value_mode: Const
+      value: 16600
+  technologies:
+    RealSolar1:
+      type: "technologies.powerPlants.SolarPower"
+      CAPEX_G: 761000
+      R: 0.0640
+      FC_G: 7610
+      AF_config:
+        get_value_mode: Excel
+        file: "./data/solar_AU.xlsx"
+        column: B
+        sheet: Ark1
+      name: RealSolar1
+    RealWind1:
+      type: "technologies.powerPlants.WindPower"
+      CAPEX_G: 1180000
+      R: 0.0736
+      FC_G: 23500
+      AF_config:
+        get_value_mode: Excel
+        file: "./data/wind_AU.xlsx"
+        column: B
+      name: RealWind1
+    AWE1:
+      type: "technologies.electrolyzer.AWE"
+      CAPEX_G: 600
+      R: 0.15
+      FC_G: 10
+      VC_G: 1
+      RampU: 0.5
+      RampD: 0.5
+      eta_elec: 0.6
+      eta_heat: 0
+      name: "AWE1"
+    Battery1:
+      type: "technologies.storage.Battery"
+      CAPEX_G: 200
+      CAPEX_S: 200
+      R: 0.35
+      FC_G: 10
+      FC_S: 10
+      eta_charge: 0.98
+      eta_discharge: 0.98
+      eta_selfDischarge: 0.02
+      name: "Battery1"
+    H2Storage1:
+      type: "technologies.storage.H2Storage"
+      CAPEX_G: 100
+      CAPEX_S: 30
+      R: 0.2
+      FC_G: 10
+      FC_S: 10
+      eta_charge: 1
+      eta_discharge: 0.98
+      eta_selfDischarge: 0.02
+      name: "H2Storage1"
+
+       

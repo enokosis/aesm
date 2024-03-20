@@ -1,0 +1,4334 @@
+Technology,Variable,Hour,Value
+Objective,Obj,1,1795069.6105413882
+Nuclear power plant,C_G,1,115.61075569609748
+Offshore Wind power plant,C_G,1,29.122211389974993
+Solar power plant,C_G,1,30.0
+Battery 1,C_G,1,19.10484894006279
+AWE electrolyzer,C_G,1,1.491044776119403
+Battery 1,C_S,1,130.43608006928554
+Nuclear power plant,Cost,1,1360703.9991974395
+Offshore Wind power plant,Cost,1,195118.81631283244
+Solar power plant,Cost,1,102000.0
+Battery 1,Cost,1,128449.63085201161
+AWE electrolyzer,Cost,1,8797.164179104479
+Nuclear power plant,G_elec,1,108.67411035433162
+Nuclear power plant,G_elec,2,108.67411035433162
+Nuclear power plant,G_elec,3,108.67411035433162
+Nuclear power plant,G_elec,4,104.6777341181357
+Nuclear power plant,G_elec,5,98.89719633333083
+Nuclear power plant,G_elec,6,93.11665854852595
+Nuclear power plant,G_elec,7,87.33612076372107
+Nuclear power plant,G_elec,8,81.55558297891619
+Nuclear power plant,G_elec,9,75.77504519411131
+Nuclear power plant,G_elec,10,69.99450740930644
+Nuclear power plant,G_elec,11,64.21396962450156
+Nuclear power plant,G_elec,12,58.43343183969668
+Nuclear power plant,G_elec,13,52.6528940548918
+Nuclear power plant,G_elec,14,46.872356270086925
+Nuclear power plant,G_elec,15,41.09181848528205
+Nuclear power plant,G_elec,16,35.31128070047717
+Nuclear power plant,G_elec,17,34.623652356931174
+Nuclear power plant,G_elec,18,37.72980817403879
+Nuclear power plant,G_elec,19,42.59497904347319
+Nuclear power plant,G_elec,20,48.375516828278066
+Nuclear power plant,G_elec,21,54.156054613082944
+Nuclear power plant,G_elec,22,59.93659239788782
+Nuclear power plant,G_elec,23,65.7171301826927
+Nuclear power plant,G_elec,24,71.49766796749758
+Nuclear power plant,G_elec,25,77.27820575230245
+Nuclear power plant,G_elec,26,83.05874353710733
+Nuclear power plant,G_elec,27,88.83928132191221
+Nuclear power plant,G_elec,28,94.61981910671709
+Nuclear power plant,G_elec,29,100.40035689152197
+Nuclear power plant,G_elec,30,106.18089467632684
+Nuclear power plant,G_elec,31,108.67411035433162
+Nuclear power plant,G_elec,32,108.67411035433162
+Nuclear power plant,G_elec,33,108.67411035433162
+Nuclear power plant,G_elec,34,107.56093638457813
+Nuclear power plant,G_elec,35,101.78039859977325
+Nuclear power plant,G_elec,36,95.99986081496837
+Nuclear power plant,G_elec,37,90.2193230301635
+Nuclear power plant,G_elec,38,84.43878524535862
+Nuclear power plant,G_elec,39,78.65824746055374
+Nuclear power plant,G_elec,40,72.87770967574886
+Nuclear power plant,G_elec,41,67.09717189094398
+Nuclear power plant,G_elec,42,61.3166341061391
+Nuclear power plant,G_elec,43,55.53609632133423
+Nuclear power plant,G_elec,44,49.75555853652936
+Nuclear power plant,G_elec,45,43.97502075172448
+Nuclear power plant,G_elec,46,38.1944829669196
+Nuclear power plant,G_elec,47,32.633752769445685
+Nuclear power plant,G_elec,48,30.31174219799273
+Nuclear power plant,G_elec,49,31.08532710182928
+Nuclear power plant,G_elec,50,36.86586488663416
+Nuclear power plant,G_elec,51,42.646402671439034
+Nuclear power plant,G_elec,52,48.42694045624391
+Nuclear power plant,G_elec,53,54.20747824104879
+Nuclear power plant,G_elec,54,59.98801602585367
+Nuclear power plant,G_elec,55,65.76855381065855
+Nuclear power plant,G_elec,56,71.54909159546342
+Nuclear power plant,G_elec,57,77.3296293802683
+Nuclear power plant,G_elec,58,83.11016716507318
+Nuclear power plant,G_elec,59,88.89070494987806
+Nuclear power plant,G_elec,60,94.67124273468293
+Nuclear power plant,G_elec,61,100.45178051948781
+Nuclear power plant,G_elec,62,106.23231830429269
+Nuclear power plant,G_elec,63,108.67411035433162
+Nuclear power plant,G_elec,64,108.67411035433162
+Nuclear power plant,G_elec,65,108.67411035433162
+Nuclear power plant,G_elec,66,108.67411035433162
+Nuclear power plant,G_elec,67,107.54609745099049
+Nuclear power plant,G_elec,68,101.76555966618561
+Nuclear power plant,G_elec,69,95.98502188138073
+Nuclear power plant,G_elec,70,90.20448409657585
+Nuclear power plant,G_elec,71,84.42394631177098
+Nuclear power plant,G_elec,72,78.6434085269661
+Nuclear power plant,G_elec,73,72.86287074216122
+Nuclear power plant,G_elec,74,67.08233295735634
+Nuclear power plant,G_elec,75,61.301795172551465
+Nuclear power plant,G_elec,76,55.52125738774659
+Nuclear power plant,G_elec,77,49.74071960294171
+Nuclear power plant,G_elec,78,43.96018181813683
+Nuclear power plant,G_elec,79,38.179644033331954
+Nuclear power plant,G_elec,80,41.61576971789433
+Nuclear power plant,G_elec,81,47.39630750269921
+Nuclear power plant,G_elec,82,53.17684528750409
+Nuclear power plant,G_elec,83,58.957383072308964
+Nuclear power plant,G_elec,84,64.73792085711383
+Nuclear power plant,G_elec,85,70.51845864191871
+Nuclear power plant,G_elec,86,76.29899642672359
+Nuclear power plant,G_elec,87,82.07953421152847
+Nuclear power plant,G_elec,88,87.86007199633335
+Nuclear power plant,G_elec,89,93.64060978113822
+Nuclear power plant,G_elec,90,99.4211475659431
+Nuclear power plant,G_elec,91,105.20168535074798
+Nuclear power plant,G_elec,92,108.67411035433162
+Nuclear power plant,G_elec,93,108.67411035433162
+Nuclear power plant,G_elec,94,108.67411035433162
+Nuclear power plant,G_elec,95,108.67411035433162
+Nuclear power plant,G_elec,96,108.67411035433162
+Nuclear power plant,G_elec,97,108.67411035433162
+Nuclear power plant,G_elec,98,108.67411035433162
+Nuclear power plant,G_elec,99,108.67411035433162
+Nuclear power plant,G_elec,100,102.89357256952674
+Nuclear power plant,G_elec,101,97.11303478472186
+Nuclear power plant,G_elec,102,91.33249699991698
+Nuclear power plant,G_elec,103,85.5519592151121
+Nuclear power plant,G_elec,104,79.77142143030723
+Nuclear power plant,G_elec,105,73.99088364550235
+Nuclear power plant,G_elec,106,68.21034586069747
+Nuclear power plant,G_elec,107,62.4298080758926
+Nuclear power plant,G_elec,108,56.649270291087724
+Nuclear power plant,G_elec,109,50.868732506282846
+Nuclear power plant,G_elec,110,45.08819472147797
+Nuclear power plant,G_elec,111,39.30765693667309
+Nuclear power plant,G_elec,112,33.52711915186821
+Nuclear power plant,G_elec,113,38.36909605565961
+Nuclear power plant,G_elec,114,44.14963384046449
+Nuclear power plant,G_elec,115,49.93017162526937
+Nuclear power plant,G_elec,116,55.710709410074244
+Nuclear power plant,G_elec,117,61.49124719487912
+Nuclear power plant,G_elec,118,67.271784979684
+Nuclear power plant,G_elec,119,73.05232276448888
+Nuclear power plant,G_elec,120,78.83286054929376
+Nuclear power plant,G_elec,121,84.61339833409863
+Nuclear power plant,G_elec,122,90.39393611890351
+Nuclear power plant,G_elec,123,96.17447390370839
+Nuclear power plant,G_elec,124,101.95501168851327
+Nuclear power plant,G_elec,125,107.73554947331814
+Nuclear power plant,G_elec,126,108.67411035433162
+Nuclear power plant,G_elec,127,105.36143191382293
+Nuclear power plant,G_elec,128,99.58089412901805
+Nuclear power plant,G_elec,129,93.80035634421317
+Nuclear power plant,G_elec,130,88.0198185594083
+Nuclear power plant,G_elec,131,82.23928077460342
+Nuclear power plant,G_elec,132,76.45874298979854
+Nuclear power plant,G_elec,133,70.67820520499366
+Nuclear power plant,G_elec,134,64.89766742018878
+Nuclear power plant,G_elec,135,59.11712963538391
+Nuclear power plant,G_elec,136,53.33659185057903
+Nuclear power plant,G_elec,137,47.556054065774156
+Nuclear power plant,G_elec,138,41.77551628096928
+Nuclear power plant,G_elec,139,35.9949784961644
+Nuclear power plant,G_elec,140,30.21444071135952
+Nuclear power plant,G_elec,141,24.433902926554644
+Nuclear power plant,G_elec,142,18.65336514174977
+Nuclear power plant,G_elec,143,20.661771181532313
+Nuclear power plant,G_elec,144,24.235464962274882
+Nuclear power plant,G_elec,145,29.007333637552073
+Nuclear power plant,G_elec,146,34.78787142235695
+Nuclear power plant,G_elec,147,40.56840920716183
+Nuclear power plant,G_elec,148,46.348946991966706
+Nuclear power plant,G_elec,149,52.129484776771584
+Nuclear power plant,G_elec,150,57.91002256157646
+Nuclear power plant,G_elec,151,63.69056034638134
+Nuclear power plant,G_elec,152,69.47109813118622
+Nuclear power plant,G_elec,153,75.2516359159911
+Nuclear power plant,G_elec,154,81.03217370079598
+Nuclear power plant,G_elec,155,86.81271148560086
+Nuclear power plant,G_elec,156,92.59324927040574
+Nuclear power plant,G_elec,157,96.41579599105063
+Nuclear power plant,G_elec,158,97.0398246225676
+Nuclear power plant,G_elec,159,96.41707006041577
+Nuclear power plant,G_elec,160,91.40583329060351
+Nuclear power plant,G_elec,161,85.62529550579863
+Nuclear power plant,G_elec,162,79.84475772099375
+Nuclear power plant,G_elec,163,74.06421993618888
+Nuclear power plant,G_elec,164,68.283682151384
+Nuclear power plant,G_elec,165,62.50314436657912
+Nuclear power plant,G_elec,166,56.722606581774244
+Nuclear power plant,G_elec,167,50.942068796969366
+Nuclear power plant,G_elec,168,45.16153101216449
+Nuclear power plant,G_elec,169,39.38099322735961
+Nuclear power plant,G_elec,170,33.60045544255473
+Nuclear power plant,G_elec,171,27.81991765774986
+Nuclear power plant,G_elec,172,22.039379872944984
+Nuclear power plant,G_elec,173,17.751126057658237
+Nuclear power plant,G_elec,174,15.582806851624543
+Nuclear power plant,G_elec,175,19.25816405454864
+Nuclear power plant,G_elec,176,25.038701839353514
+Nuclear power plant,G_elec,177,30.81923962415839
+Nuclear power plant,G_elec,178,36.59977740896327
+Nuclear power plant,G_elec,179,42.38031519376815
+Nuclear power plant,G_elec,180,48.160852978573025
+Nuclear power plant,G_elec,181,53.9413907633779
+Nuclear power plant,G_elec,182,59.72192854818278
+Nuclear power plant,G_elec,183,65.50246633298765
+Nuclear power plant,G_elec,184,71.28300411779253
+Nuclear power plant,G_elec,185,77.06354190259741
+Nuclear power plant,G_elec,186,82.84407968740229
+Nuclear power plant,G_elec,187,88.62461747220716
+Nuclear power plant,G_elec,188,94.40515525701204
+Nuclear power plant,G_elec,189,100.18569304181692
+Nuclear power plant,G_elec,190,105.8135291989091
+Nuclear power plant,G_elec,191,100.03299141410422
+Nuclear power plant,G_elec,192,94.25245362929934
+Nuclear power plant,G_elec,193,88.47191584449446
+Nuclear power plant,G_elec,194,82.69137805968958
+Nuclear power plant,G_elec,195,76.9108402748847
+Nuclear power plant,G_elec,196,71.13030249007983
+Nuclear power plant,G_elec,197,65.34976470527495
+Nuclear power plant,G_elec,198,59.56922692047007
+Nuclear power plant,G_elec,199,53.788689135665194
+Nuclear power plant,G_elec,200,48.00815135086032
+Nuclear power plant,G_elec,201,42.22761356605544
+Nuclear power plant,G_elec,202,36.44707578125056
+Nuclear power plant,G_elec,203,30.666537996445683
+Nuclear power plant,G_elec,204,24.88600021164081
+Nuclear power plant,G_elec,205,19.10546242683593
+Nuclear power plant,G_elec,206,23.379658371459755
+Nuclear power plant,G_elec,207,29.16019615626463
+Nuclear power plant,G_elec,208,34.94073394106951
+Nuclear power plant,G_elec,209,40.72127172587439
+Nuclear power plant,G_elec,210,46.501809510679266
+Nuclear power plant,G_elec,211,52.28234729548414
+Nuclear power plant,G_elec,212,58.06288508028902
+Nuclear power plant,G_elec,213,63.8434228650939
+Nuclear power plant,G_elec,214,69.62396064989878
+Nuclear power plant,G_elec,215,75.40449843470365
+Nuclear power plant,G_elec,216,81.18503621950853
+Nuclear power plant,G_elec,217,86.96557400431341
+Nuclear power plant,G_elec,218,92.74611178911829
+Nuclear power plant,G_elec,219,98.52664957392317
+Nuclear power plant,G_elec,220,104.30718735872804
+Nuclear power plant,G_elec,221,108.67411035433162
+Nuclear power plant,G_elec,222,103.82902978939835
+Nuclear power plant,G_elec,223,98.04849200459347
+Nuclear power plant,G_elec,224,92.26795421978859
+Nuclear power plant,G_elec,225,86.48741643498371
+Nuclear power plant,G_elec,226,80.70687865017884
+Nuclear power plant,G_elec,227,74.92634086537396
+Nuclear power plant,G_elec,228,69.1458030805691
+Nuclear power plant,G_elec,229,63.36526529576422
+Nuclear power plant,G_elec,230,57.58472751095934
+Nuclear power plant,G_elec,231,51.80418972615446
+Nuclear power plant,G_elec,232,46.023651941349584
+Nuclear power plant,G_elec,233,40.243114156544706
+Nuclear power plant,G_elec,234,34.462576371739836
+Nuclear power plant,G_elec,235,28.68203858693497
+Nuclear power plant,G_elec,236,22.90150080213009
+Nuclear power plant,G_elec,237,17.120963017325217
+Nuclear power plant,G_elec,238,22.90150080213009
+Nuclear power plant,G_elec,239,28.68203858693497
+Nuclear power plant,G_elec,240,34.462576371739836
+Nuclear power plant,G_elec,241,40.24311415654471
+Nuclear power plant,G_elec,242,46.02365194134959
+Nuclear power plant,G_elec,243,51.80418972615447
+Nuclear power plant,G_elec,244,57.58472751095935
+Nuclear power plant,G_elec,245,63.365265295764225
+Nuclear power plant,G_elec,246,69.14580308056911
+Nuclear power plant,G_elec,247,74.92634086537399
+Nuclear power plant,G_elec,248,80.70687865017887
+Nuclear power plant,G_elec,249,86.48741643498374
+Nuclear power plant,G_elec,250,92.26795421978862
+Nuclear power plant,G_elec,251,98.0484920045935
+Nuclear power plant,G_elec,252,98.95190333566697
+Nuclear power plant,G_elec,253,93.17136555086209
+Nuclear power plant,G_elec,254,87.39082776605721
+Nuclear power plant,G_elec,255,81.61028998125234
+Nuclear power plant,G_elec,256,75.82975219644746
+Nuclear power plant,G_elec,257,70.04921441164258
+Nuclear power plant,G_elec,258,64.2686766268377
+Nuclear power plant,G_elec,259,58.48813884203283
+Nuclear power plant,G_elec,260,52.707601057227954
+Nuclear power plant,G_elec,261,46.92706327242308
+Nuclear power plant,G_elec,262,41.1465254876182
+Nuclear power plant,G_elec,263,35.36598770281332
+Nuclear power plant,G_elec,264,29.58544991800844
+Nuclear power plant,G_elec,265,23.804912133203565
+Nuclear power plant,G_elec,266,18.02437434839869
+Nuclear power plant,G_elec,267,12.243836563593817
+Nuclear power plant,G_elec,268,8.88990079844021
+Nuclear power plant,G_elec,269,11.859294295984661
+Nuclear power plant,G_elec,270,15.910776422237483
+Nuclear power plant,G_elec,271,21.39726894940335
+Nuclear power plant,G_elec,272,27.177806734208225
+Nuclear power plant,G_elec,273,32.958344519013096
+Nuclear power plant,G_elec,274,38.738882303817974
+Nuclear power plant,G_elec,275,44.51942008862285
+Nuclear power plant,G_elec,276,50.29995787342773
+Nuclear power plant,G_elec,277,56.08049565823261
+Nuclear power plant,G_elec,278,61.861033443037485
+Nuclear power plant,G_elec,279,67.64157122784236
+Nuclear power plant,G_elec,280,73.42210901264724
+Nuclear power plant,G_elec,281,79.20264679745212
+Nuclear power plant,G_elec,282,84.983184582257
+Nuclear power plant,G_elec,283,87.67771985254352
+Nuclear power plant,G_elec,284,87.93947000813242
+Nuclear power plant,G_elec,285,86.67833011302524
+Nuclear power plant,G_elec,286,80.89779232822036
+Nuclear power plant,G_elec,287,75.11725454341548
+Nuclear power plant,G_elec,288,69.3367167586106
+Nuclear power plant,G_elec,289,63.556178973805736
+Nuclear power plant,G_elec,290,57.77564118900086
+Nuclear power plant,G_elec,291,51.99510340419598
+Nuclear power plant,G_elec,292,46.2145656193911
+Nuclear power plant,G_elec,293,40.434027834586225
+Nuclear power plant,G_elec,294,34.65349004978135
+Nuclear power plant,G_elec,295,28.872952264976472
+Nuclear power plant,G_elec,296,23.0924144801716
+Nuclear power plant,G_elec,297,17.311876695366724
+Nuclear power plant,G_elec,298,12.241101751409367
+Nuclear power plant,G_elec,299,9.004159915470627
+Nuclear power plant,G_elec,300,7.646606744900038
+Nuclear power plant,G_elec,301,13.427144529704911
+Nuclear power plant,G_elec,302,19.207682314509785
+Nuclear power plant,G_elec,303,24.98822009931466
+Nuclear power plant,G_elec,304,30.768757884119537
+Nuclear power plant,G_elec,305,36.549295668924415
+Nuclear power plant,G_elec,306,42.32983345372929
+Nuclear power plant,G_elec,307,48.11037123853417
+Nuclear power plant,G_elec,308,53.89090902333905
+Nuclear power plant,G_elec,309,59.671446808143926
+Nuclear power plant,G_elec,310,65.4519845929488
+Nuclear power plant,G_elec,311,71.23252237775368
+Nuclear power plant,G_elec,312,77.01306016255856
+Nuclear power plant,G_elec,313,82.79359794736344
+Nuclear power plant,G_elec,314,88.57413573216832
+Nuclear power plant,G_elec,315,94.3546735169732
+Nuclear power plant,G_elec,316,97.47566718968785
+Nuclear power plant,G_elec,317,91.69512940488298
+Nuclear power plant,G_elec,318,85.9145916200781
+Nuclear power plant,G_elec,319,80.13405383527322
+Nuclear power plant,G_elec,320,74.35351605046834
+Nuclear power plant,G_elec,321,68.57297826566347
+Nuclear power plant,G_elec,322,62.79244048085859
+Nuclear power plant,G_elec,323,57.01190269605371
+Nuclear power plant,G_elec,324,51.23136491124883
+Nuclear power plant,G_elec,325,45.450827126443954
+Nuclear power plant,G_elec,326,39.67028934163908
+Nuclear power plant,G_elec,327,33.8897515568342
+Nuclear power plant,G_elec,328,28.109213772029324
+Nuclear power plant,G_elec,329,22.32867598722445
+Nuclear power plant,G_elec,330,16.548138202419572
+Nuclear power plant,G_elec,331,13.528143045905937
+Nuclear power plant,G_elec,332,19.30868083071081
+Nuclear power plant,G_elec,333,25.089218615515687
+Nuclear power plant,G_elec,334,30.86975640032056
+Nuclear power plant,G_elec,335,36.65029418512544
+Nuclear power plant,G_elec,336,42.43083196993032
+Nuclear power plant,G_elec,337,48.211369754735195
+Nuclear power plant,G_elec,338,53.99190753954007
+Nuclear power plant,G_elec,339,59.77244532434495
+Nuclear power plant,G_elec,340,65.55298310914982
+Nuclear power plant,G_elec,341,71.3335208939547
+Nuclear power plant,G_elec,342,77.11405867875958
+Nuclear power plant,G_elec,343,82.89459646356445
+Nuclear power plant,G_elec,344,88.67513424836933
+Nuclear power plant,G_elec,345,94.45567203317421
+Nuclear power plant,G_elec,346,100.23620981797909
+Nuclear power plant,G_elec,347,103.19434974451563
+Nuclear power plant,G_elec,348,97.41381195971076
+Nuclear power plant,G_elec,349,91.63327417490588
+Nuclear power plant,G_elec,350,85.852736390101
+Nuclear power plant,G_elec,351,80.07219860529612
+Nuclear power plant,G_elec,352,74.29166082049124
+Nuclear power plant,G_elec,353,68.51112303568637
+Nuclear power plant,G_elec,354,62.7305852508815
+Nuclear power plant,G_elec,355,56.95004746607662
+Nuclear power plant,G_elec,356,51.16950968127174
+Nuclear power plant,G_elec,357,45.38897189646686
+Nuclear power plant,G_elec,358,39.608434111661985
+Nuclear power plant,G_elec,359,33.82789632685711
+Nuclear power plant,G_elec,360,28.04735854205223
+Nuclear power plant,G_elec,361,22.266820757247356
+Nuclear power plant,G_elec,362,16.48628297244248
+Nuclear power plant,G_elec,363,15.402566831239136
+Nuclear power plant,G_elec,364,21.183104616044012
+Nuclear power plant,G_elec,365,26.963642400848887
+Nuclear power plant,G_elec,366,32.74418018565376
+Nuclear power plant,G_elec,367,38.52471797045864
+Nuclear power plant,G_elec,368,44.30525575526352
+Nuclear power plant,G_elec,369,50.085793540068394
+Nuclear power plant,G_elec,370,55.86633132487327
+Nuclear power plant,G_elec,371,61.64686910967815
+Nuclear power plant,G_elec,372,67.42740689448303
+Nuclear power plant,G_elec,373,73.2079446792879
+Nuclear power plant,G_elec,374,78.98848246409278
+Nuclear power plant,G_elec,375,84.76902024889766
+Nuclear power plant,G_elec,376,90.54955803370254
+Nuclear power plant,G_elec,377,96.33009581850742
+Nuclear power plant,G_elec,378,94.55085533792007
+Nuclear power plant,G_elec,379,88.77031755311519
+Nuclear power plant,G_elec,380,82.98977976831031
+Nuclear power plant,G_elec,381,77.20924198350544
+Nuclear power plant,G_elec,382,71.42870419870056
+Nuclear power plant,G_elec,383,65.64816641389568
+Nuclear power plant,G_elec,384,59.867628629090795
+Nuclear power plant,G_elec,385,54.08709084428592
+Nuclear power plant,G_elec,386,48.30655305948104
+Nuclear power plant,G_elec,387,42.52601527467616
+Nuclear power plant,G_elec,388,36.745477489871284
+Nuclear power plant,G_elec,389,30.964939705066406
+Nuclear power plant,G_elec,390,25.184401920261532
+Nuclear power plant,G_elec,391,19.403864135456658
+Nuclear power plant,G_elec,392,13.623326350651784
+Nuclear power plant,G_elec,393,7.8427885658469085
+Nuclear power plant,G_elec,394,7.81100236540629
+Nuclear power plant,G_elec,395,11.133684693866648
+Nuclear power plant,G_elec,396,15.655875913006506
+Nuclear power plant,G_elec,397,21.335287295108802
+Nuclear power plant,G_elec,398,27.115825079913677
+Nuclear power plant,G_elec,399,32.896362864718554
+Nuclear power plant,G_elec,400,38.67690064952343
+Nuclear power plant,G_elec,401,44.45743843432831
+Nuclear power plant,G_elec,402,50.23797621913319
+Nuclear power plant,G_elec,403,56.018514003938066
+Nuclear power plant,G_elec,404,61.79905178874294
+Nuclear power plant,G_elec,405,67.57958957354782
+Nuclear power plant,G_elec,406,73.3601273583527
+Nuclear power plant,G_elec,407,79.14066514315758
+Nuclear power plant,G_elec,408,84.92120292796245
+Nuclear power plant,G_elec,409,86.9167869977872
+Nuclear power plant,G_elec,410,86.8277617112571
+Nuclear power plant,G_elec,411,84.82838856689699
+Nuclear power plant,G_elec,412,79.04785078209211
+Nuclear power plant,G_elec,413,73.26731299728723
+Nuclear power plant,G_elec,414,67.48677521248236
+Nuclear power plant,G_elec,415,61.70623742767747
+Nuclear power plant,G_elec,416,55.925699642872594
+Nuclear power plant,G_elec,417,50.145161858067716
+Nuclear power plant,G_elec,418,44.36462407326284
+Nuclear power plant,G_elec,419,38.58408628845796
+Nuclear power plant,G_elec,420,32.80354850365308
+Nuclear power plant,G_elec,421,27.023010718848212
+Nuclear power plant,G_elec,422,21.242472934043334
+Nuclear power plant,G_elec,423,15.461935149238462
+Nuclear power plant,G_elec,424,10.839207215426729
+Nuclear power plant,G_elec,425,8.256662025082864
+Nuclear power plant,G_elec,426,10.071773834497122
+Nuclear power plant,G_elec,427,15.852311619301997
+Nuclear power plant,G_elec,428,21.63284940410687
+Nuclear power plant,G_elec,429,27.413387188911745
+Nuclear power plant,G_elec,430,33.19392497371662
+Nuclear power plant,G_elec,431,38.9744627585215
+Nuclear power plant,G_elec,432,44.755000543326375
+Nuclear power plant,G_elec,433,50.53553832813125
+Nuclear power plant,G_elec,434,56.31607611293613
+Nuclear power plant,G_elec,435,62.09661389774101
+Nuclear power plant,G_elec,436,67.87715168254589
+Nuclear power plant,G_elec,437,73.65768946735076
+Nuclear power plant,G_elec,438,79.43822725215564
+Nuclear power plant,G_elec,439,85.21876503696052
+Nuclear power plant,G_elec,440,90.9993028217654
+Nuclear power plant,G_elec,441,96.77984060657027
+Nuclear power plant,G_elec,442,97.44722006222625
+Nuclear power plant,G_elec,443,91.66668227742137
+Nuclear power plant,G_elec,444,85.8861444926165
+Nuclear power plant,G_elec,445,80.10560670781162
+Nuclear power plant,G_elec,446,74.32506892300674
+Nuclear power plant,G_elec,447,68.54453113820186
+Nuclear power plant,G_elec,448,62.76399335339698
+Nuclear power plant,G_elec,449,56.9834555685921
+Nuclear power plant,G_elec,450,51.20291778378722
+Nuclear power plant,G_elec,451,45.42237999898234
+Nuclear power plant,G_elec,452,39.641842214177466
+Nuclear power plant,G_elec,453,33.86130442937259
+Nuclear power plant,G_elec,454,28.080766644567714
+Nuclear power plant,G_elec,455,22.30022885976284
+Nuclear power plant,G_elec,456,16.519691074957965
+Nuclear power plant,G_elec,457,20.410031315910338
+Nuclear power plant,G_elec,458,26.190569100715212
+Nuclear power plant,G_elec,459,31.971106885520086
+Nuclear power plant,G_elec,460,37.751644670324964
+Nuclear power plant,G_elec,461,43.53218245512984
+Nuclear power plant,G_elec,462,49.31272023993472
+Nuclear power plant,G_elec,463,55.0932580247396
+Nuclear power plant,G_elec,464,60.873795809544475
+Nuclear power plant,G_elec,465,66.65433359434935
+Nuclear power plant,G_elec,466,72.43487137915423
+Nuclear power plant,G_elec,467,78.21540916395911
+Nuclear power plant,G_elec,468,83.99594694876399
+Nuclear power plant,G_elec,469,89.77648473356886
+Nuclear power plant,G_elec,470,95.55702251837374
+Nuclear power plant,G_elec,471,101.33756030317862
+Nuclear power plant,G_elec,472,107.1180980879835
+Nuclear power plant,G_elec,473,102.91081193700221
+Nuclear power plant,G_elec,474,97.13027415219733
+Nuclear power plant,G_elec,475,91.34973636739245
+Nuclear power plant,G_elec,476,85.56919858258757
+Nuclear power plant,G_elec,477,79.7886607977827
+Nuclear power plant,G_elec,478,74.00812301297782
+Nuclear power plant,G_elec,479,68.22758522817294
+Nuclear power plant,G_elec,480,62.447047443368064
+Nuclear power plant,G_elec,481,56.666509658563186
+Nuclear power plant,G_elec,482,50.88597187375831
+Nuclear power plant,G_elec,483,45.10543408895343
+Nuclear power plant,G_elec,484,39.32489630414855
+Nuclear power plant,G_elec,485,33.544358519343675
+Nuclear power plant,G_elec,486,27.763820734538797
+Nuclear power plant,G_elec,487,21.983282949733923
+Nuclear power plant,G_elec,488,16.20274516492905
+Nuclear power plant,G_elec,489,21.983282949733923
+Nuclear power plant,G_elec,490,27.763820734538797
+Nuclear power plant,G_elec,491,33.544358519343675
+Nuclear power plant,G_elec,492,39.32489630414855
+Nuclear power plant,G_elec,493,45.10543408895343
+Nuclear power plant,G_elec,494,50.88597187375831
+Nuclear power plant,G_elec,495,56.666509658563186
+Nuclear power plant,G_elec,496,62.447047443368064
+Nuclear power plant,G_elec,497,68.22758522817294
+Nuclear power plant,G_elec,498,74.00812301297782
+Nuclear power plant,G_elec,499,79.7886607977827
+Nuclear power plant,G_elec,500,85.56919858258757
+Nuclear power plant,G_elec,501,91.34973636739245
+Nuclear power plant,G_elec,502,97.13027415219733
+Nuclear power plant,G_elec,503,102.91081193700221
+Nuclear power plant,G_elec,504,98.72577614683402
+Nuclear power plant,G_elec,505,92.94523836202914
+Nuclear power plant,G_elec,506,87.16470057722427
+Nuclear power plant,G_elec,507,81.38416279241939
+Nuclear power plant,G_elec,508,75.60362500761451
+Nuclear power plant,G_elec,509,69.82308722280963
+Nuclear power plant,G_elec,510,64.04254943800476
+Nuclear power plant,G_elec,511,58.26201165319987
+Nuclear power plant,G_elec,512,52.48147386839499
+Nuclear power plant,G_elec,513,46.700936083590115
+Nuclear power plant,G_elec,514,40.92039829878524
+Nuclear power plant,G_elec,515,35.13986051398036
+Nuclear power plant,G_elec,516,29.35932272917548
+Nuclear power plant,G_elec,517,23.578784944370607
+Nuclear power plant,G_elec,518,17.798247159565733
+Nuclear power plant,G_elec,519,12.657589228580571
+Nuclear power plant,G_elec,520,15.28878552517943
+Nuclear power plant,G_elec,521,19.059190687246982
+Nuclear power plant,G_elec,522,24.262717703786063
+Nuclear power plant,G_elec,523,30.043255488590937
+Nuclear power plant,G_elec,524,35.823793273395815
+Nuclear power plant,G_elec,525,41.60433105820069
+Nuclear power plant,G_elec,526,47.38486884300557
+Nuclear power plant,G_elec,527,53.16540662781045
+Nuclear power plant,G_elec,528,58.945944412615326
+Nuclear power plant,G_elec,529,64.7264821974202
+Nuclear power plant,G_elec,530,70.50701998222507
+Nuclear power plant,G_elec,531,76.28755776702995
+Nuclear power plant,G_elec,532,82.06809555183483
+Nuclear power plant,G_elec,533,87.84863333663971
+Nuclear power plant,G_elec,534,93.62917112144459
+Nuclear power plant,G_elec,535,94.4284843077539
+Nuclear power plant,G_elec,536,93.98104206458963
+Nuclear power plant,G_elec,537,90.92857409594752
+Nuclear power plant,G_elec,538,85.14803631114265
+Nuclear power plant,G_elec,539,79.36749852633777
+Nuclear power plant,G_elec,540,73.58696074153289
+Nuclear power plant,G_elec,541,67.80642295672801
+Nuclear power plant,G_elec,542,62.025885171923136
+Nuclear power plant,G_elec,543,56.24534738711826
+Nuclear power plant,G_elec,544,50.46480960231338
+Nuclear power plant,G_elec,545,44.6842718175085
+Nuclear power plant,G_elec,546,38.903734032703625
+Nuclear power plant,G_elec,547,33.12319624789875
+Nuclear power plant,G_elec,548,27.34265846309387
+Nuclear power plant,G_elec,549,21.790553833005227
+Nuclear power plant,G_elec,550,18.365876286680002
+Nuclear power plant,G_elec,551,15.9402195887605
+Nuclear power plant,G_elec,552,20.73428860034371
+Nuclear power plant,G_elec,553,26.514826385148584
+Nuclear power plant,G_elec,554,32.29536416995346
+Nuclear power plant,G_elec,555,38.07590195475833
+Nuclear power plant,G_elec,556,43.85643973956321
+Nuclear power plant,G_elec,557,49.636977524368085
+Nuclear power plant,G_elec,558,55.41751530917296
+Nuclear power plant,G_elec,559,61.19805309397784
+Nuclear power plant,G_elec,560,66.97859087878273
+Nuclear power plant,G_elec,561,72.7591286635876
+Nuclear power plant,G_elec,562,78.53966644839248
+Nuclear power plant,G_elec,563,84.32020423319736
+Nuclear power plant,G_elec,564,90.10074201800224
+Nuclear power plant,G_elec,565,95.88127980280711
+Nuclear power plant,G_elec,566,101.66181758761199
+Nuclear power plant,G_elec,567,107.44235537241687
+Nuclear power plant,G_elec,568,105.28207284100831
+Nuclear power plant,G_elec,569,99.50153505620344
+Nuclear power plant,G_elec,570,93.72099727139856
+Nuclear power plant,G_elec,571,87.94045948659368
+Nuclear power plant,G_elec,572,82.1599217017888
+Nuclear power plant,G_elec,573,76.37938391698393
+Nuclear power plant,G_elec,574,70.59884613217905
+Nuclear power plant,G_elec,575,64.81830834737417
+Nuclear power plant,G_elec,576,59.03777056256929
+Nuclear power plant,G_elec,577,53.257232777764415
+Nuclear power plant,G_elec,578,47.47669499295954
+Nuclear power plant,G_elec,579,41.69615720815466
+Nuclear power plant,G_elec,580,35.91561942334978
+Nuclear power plant,G_elec,581,30.135081638544907
+Nuclear power plant,G_elec,582,28.65020142020168
+Nuclear power plant,G_elec,583,34.43073920500655
+Nuclear power plant,G_elec,584,40.21127698981143
+Nuclear power plant,G_elec,585,45.99181477461631
+Nuclear power plant,G_elec,586,51.772352559421186
+Nuclear power plant,G_elec,587,57.552890344226064
+Nuclear power plant,G_elec,588,63.33342812903094
+Nuclear power plant,G_elec,589,69.11396591383583
+Nuclear power plant,G_elec,590,74.8945036986407
+Nuclear power plant,G_elec,591,80.67504148344558
+Nuclear power plant,G_elec,592,86.45557926825046
+Nuclear power plant,G_elec,593,92.23611705305534
+Nuclear power plant,G_elec,594,98.01665483786022
+Nuclear power plant,G_elec,595,103.7971926226651
+Nuclear power plant,G_elec,596,108.67411035433162
+Nuclear power plant,G_elec,597,108.67411035433162
+Nuclear power plant,G_elec,598,108.67411035433162
+Nuclear power plant,G_elec,599,108.67411035433162
+Nuclear power plant,G_elec,600,108.67411035433162
+Nuclear power plant,G_elec,601,104.50032897055117
+Nuclear power plant,G_elec,602,98.71979118574629
+Nuclear power plant,G_elec,603,92.93925340094141
+Nuclear power plant,G_elec,604,87.15871561613653
+Nuclear power plant,G_elec,605,81.37817783133166
+Nuclear power plant,G_elec,606,75.59764004652678
+Nuclear power plant,G_elec,607,69.8171022617219
+Nuclear power plant,G_elec,608,64.03656447691702
+Nuclear power plant,G_elec,609,58.25602669211215
+Nuclear power plant,G_elec,610,52.47548890730727
+Nuclear power plant,G_elec,611,46.694951122502395
+Nuclear power plant,G_elec,612,40.91441333769752
+Nuclear power plant,G_elec,613,35.13387555289264
+Nuclear power plant,G_elec,614,31.704117175016698
+Nuclear power plant,G_elec,615,37.484654959821576
+Nuclear power plant,G_elec,616,43.265192744626454
+Nuclear power plant,G_elec,617,49.04573052943133
+Nuclear power plant,G_elec,618,54.82626831423621
+Nuclear power plant,G_elec,619,60.60680609904109
+Nuclear power plant,G_elec,620,66.38734388384597
+Nuclear power plant,G_elec,621,72.16788166865085
+Nuclear power plant,G_elec,622,77.94841945345573
+Nuclear power plant,G_elec,623,83.7289572382606
+Nuclear power plant,G_elec,624,89.50949502306548
+Nuclear power plant,G_elec,625,95.29003280787036
+Nuclear power plant,G_elec,626,101.07057059267524
+Nuclear power plant,G_elec,627,106.85110837748012
+Nuclear power plant,G_elec,628,108.67411035433162
+Nuclear power plant,G_elec,629,108.67411035433162
+Nuclear power plant,G_elec,630,108.67411035433162
+Nuclear power plant,G_elec,631,103.70964493313201
+Nuclear power plant,G_elec,632,97.92910714832713
+Nuclear power plant,G_elec,633,92.14856936352226
+Nuclear power plant,G_elec,634,86.36803157871738
+Nuclear power plant,G_elec,635,80.5874937939125
+Nuclear power plant,G_elec,636,74.80695600910762
+Nuclear power plant,G_elec,637,69.02641822430274
+Nuclear power plant,G_elec,638,63.24588043949786
+Nuclear power plant,G_elec,639,57.46534265469298
+Nuclear power plant,G_elec,640,51.684804869888104
+Nuclear power plant,G_elec,641,45.90426708508323
+Nuclear power plant,G_elec,642,40.12372930027835
+Nuclear power plant,G_elec,643,34.34319151547347
+Nuclear power plant,G_elec,644,28.5626537306686
+Nuclear power plant,G_elec,645,26.18160979761767
+Nuclear power plant,G_elec,646,29.46276428252649
+Nuclear power plant,G_elec,647,33.71253532669936
+Nuclear power plant,G_elec,648,39.49307311150424
+Nuclear power plant,G_elec,649,45.273610896309116
+Nuclear power plant,G_elec,650,51.05414868111399
+Nuclear power plant,G_elec,651,56.83468646591887
+Nuclear power plant,G_elec,652,62.61522425072375
+Nuclear power plant,G_elec,653,68.39576203552862
+Nuclear power plant,G_elec,654,74.1762998203335
+Nuclear power plant,G_elec,655,79.95683760513838
+Nuclear power plant,G_elec,656,85.73737538994325
+Nuclear power plant,G_elec,657,91.51791317474813
+Nuclear power plant,G_elec,658,97.29845095955301
+Nuclear power plant,G_elec,659,103.07898874435789
+Nuclear power plant,G_elec,660,107.60667918378132
+Nuclear power plant,G_elec,661,108.02232624916199
+Nuclear power plant,G_elec,662,107.19204173999286
+Nuclear power plant,G_elec,663,102.92784649642634
+Nuclear power plant,G_elec,664,97.14730871162146
+Nuclear power plant,G_elec,665,91.36677092681659
+Nuclear power plant,G_elec,666,85.58623314201171
+Nuclear power plant,G_elec,667,79.80569535720683
+Nuclear power plant,G_elec,668,74.02515757240195
+Nuclear power plant,G_elec,669,68.24461978759707
+Nuclear power plant,G_elec,670,62.46408200279219
+Nuclear power plant,G_elec,671,56.68354421798731
+Nuclear power plant,G_elec,672,50.90300643318243
+Nuclear power plant,G_elec,673,45.122468648377556
+Nuclear power plant,G_elec,674,39.341930863572685
+Nuclear power plant,G_elec,675,34.61717918508257
+Nuclear power plant,G_elec,676,31.492275233848535
+Nuclear power plant,G_elec,677,36.095202247937316
+Nuclear power plant,G_elec,678,41.87574003274219
+Nuclear power plant,G_elec,679,47.65627781754707
+Nuclear power plant,G_elec,680,53.43681560235195
+Nuclear power plant,G_elec,681,59.21735338715683
+Nuclear power plant,G_elec,682,64.9978911719617
+Nuclear power plant,G_elec,683,70.77842895676658
+Nuclear power plant,G_elec,684,76.55896674157145
+Nuclear power plant,G_elec,685,82.33950452637633
+Nuclear power plant,G_elec,686,88.12004231118121
+Nuclear power plant,G_elec,687,93.90058009598609
+Nuclear power plant,G_elec,688,99.68111788079096
+Nuclear power plant,G_elec,689,105.46165566559584
+Nuclear power plant,G_elec,690,108.67411035433162
+Nuclear power plant,G_elec,691,108.67411035433162
+Nuclear power plant,G_elec,692,108.67411035433162
+Nuclear power plant,G_elec,693,108.67411035433162
+Nuclear power plant,G_elec,694,108.67411035433162
+Nuclear power plant,G_elec,695,108.67411035433162
+Nuclear power plant,G_elec,696,108.67411035433162
+Nuclear power plant,G_elec,697,108.67411035433162
+Nuclear power plant,G_elec,698,106.13662793718535
+Nuclear power plant,G_elec,699,100.35609015238047
+Nuclear power plant,G_elec,700,94.5755523675756
+Nuclear power plant,G_elec,701,88.79501458277072
+Nuclear power plant,G_elec,702,83.01447679796584
+Nuclear power plant,G_elec,703,77.23393901316096
+Nuclear power plant,G_elec,704,71.45340122835609
+Nuclear power plant,G_elec,705,65.67286344355121
+Nuclear power plant,G_elec,706,59.89232565874634
+Nuclear power plant,G_elec,707,54.11178787394146
+Nuclear power plant,G_elec,708,48.33125008913658
+Nuclear power plant,G_elec,709,42.550712304331704
+Nuclear power plant,G_elec,710,45.93061821987155
+Nuclear power plant,G_elec,711,51.711156004676425
+Nuclear power plant,G_elec,712,57.4916937894813
+Nuclear power plant,G_elec,713,63.27223157428618
+Nuclear power plant,G_elec,714,69.05276935909106
+Nuclear power plant,G_elec,715,74.83330714389594
+Nuclear power plant,G_elec,716,80.61384492870081
+Nuclear power plant,G_elec,717,86.39438271350569
+Nuclear power plant,G_elec,718,92.17492049831057
+Nuclear power plant,G_elec,719,97.95545828311545
+Nuclear power plant,G_elec,720,103.73599606792033
+Offshore Wind power plant,G_elec,1,0.0
+Offshore Wind power plant,G_elec,2,0.12724594470664174
+Offshore Wind power plant,G_elec,3,0.2544894600904954
+Offshore Wind power plant,G_elec,4,0.38172811687515246
+Offshore Wind power plant,G_elec,5,0.5089594858769624
+Offshore Wind power plant,G_elec,6,0.6361811380514102
+Offshore Wind power plant,G_elec,7,0.7633906445394899
+Offshore Wind power plant,G_elec,8,0.8905855767140752
+Offshore Wind power plant,G_elec,9,1.017763506226287
+Offshore Wind power plant,G_elec,10,1.1449220050518534
+Offshore Wind power plant,G_elec,11,1.272058645537463
+Offshore Wind power plant,G_elec,12,1.3991710004471152
+Offshore Wind power plant,G_elec,13,1.5262566430084594
+Offshore Wind power plant,G_elec,14,1.6533131469591245
+Offshore Wind power plant,G_elec,15,1.7803380865930398
+Offshore Wind power plant,G_elec,16,1.9073290368067484
+Offshore Wind power plant,G_elec,17,2.0342835731457023
+Offshore Wind power plant,G_elec,18,2.1611992718505535
+Offshore Wind power plant,G_elec,19,2.288073709903421
+Offshore Wind power plant,G_elec,20,2.414904465074158
+Offshore Wind power plant,G_elec,21,2.541689115966589
+Offshore Wind power plant,G_elec,22,2.6684252420647407
+Offshore Wind power plant,G_elec,23,2.7951104237790556
+Offshore Wind power plant,G_elec,24,2.9217422424925807
+Offshore Wind power plant,G_elec,25,3.0483182806071505
+Offshore Wind power plant,G_elec,26,3.1748361215895313
+Offshore Wind power plant,G_elec,27,3.3012933500175667
+Offshore Wind power plant,G_elec,28,3.4276875516262906
+Offshore Wind power plant,G_elec,29,3.5540163133540115
+Offshore Wind power plant,G_elec,30,3.6802772233883894
+Offshore Wind power plant,G_elec,31,3.806467871212478
+Offshore Wind power plant,G_elec,32,3.9325858476507496
+Offshore Wind power plant,G_elec,33,4.0586287449150795
+Offshore Wind power plant,G_elec,34,4.184594156650727
+Offshore Wind power plant,G_elec,35,4.310479677982265
+Offshore Wind power plant,G_elec,36,4.436282905559502
+Offshore Wind power plant,G_elec,37,4.562001437603366
+Offshore Wind power plant,G_elec,38,4.687632873951745
+Offshore Wind power plant,G_elec,39,4.813174816105325
+Offshore Wind power plant,G_elec,40,4.938624867273375
+Offshore Wind power plant,G_elec,41,5.063980632419505
+Offshore Wind power plant,G_elec,42,5.189239718307387
+Offshore Wind power plant,G_elec,43,5.314399733546462
+Offshore Wind power plant,G_elec,44,5.439458288637572
+Offshore Wind power plant,G_elec,45,5.5644129960185955
+Offshore Wind power plant,G_elec,46,5.6892614701100275
+Offshore Wind power plant,G_elec,47,5.814001327360514
+Offshore Wind power plant,G_elec,48,5.938630186292374
+Offshore Wind power plant,G_elec,49,6.063145667547055
+Offshore Wind power plant,G_elec,50,6.187545393930553
+Offshore Wind power plant,G_elec,51,6.311826990458814
+Offshore Wind power plant,G_elec,52,6.4359880844030615
+Offshore Wind power plant,G_elec,53,6.560026305335098
+Offshore Wind power plant,G_elec,54,6.683939285172572
+Offshore Wind power plant,G_elec,55,6.807724658224168
+Offshore Wind power plant,G_elec,56,6.931380061234791
+Offshore Wind power plant,G_elec,57,7.054903133430671
+Offshore Wind power plant,G_elec,58,7.178291516564444
+Offshore Wind power plant,G_elec,59,7.30154285496016
+Offshore Wind power plant,G_elec,60,7.424654795558272
+Offshore Wind power plant,G_elec,61,7.5476249879605595
+Offshore Wind power plant,G_elec,62,7.670451084474986
+Offshore Wind power plant,G_elec,63,7.79313074016053
+Offshore Wind power plant,G_elec,64,7.91566161287196
+Offshore Wind power plant,G_elec,65,8.038041363304533
+Offshore Wind power plant,G_elec,66,8.160267655038675
+Offshore Wind power plant,G_elec,67,8.28233815458457
+Offshore Wind power plant,G_elec,68,8.404250531426717
+Offshore Wind power plant,G_elec,69,8.526002458068433
+Offshore Wind power plant,G_elec,70,8.64759161007626
+Offshore Wind power plant,G_elec,71,8.769015666124378
+Offshore Wind power plant,G_elec,72,6.400120182047471
+Offshore Wind power plant,G_elec,73,9.011359220842134
+Offshore Wind power plant,G_elec,74,9.132274092796777
+Offshore Wind power plant,G_elec,75,9.25301461545006
+Offshore Wind power plant,G_elec,76,0.0
+Offshore Wind power plant,G_elec,77,0.0
+Offshore Wind power plant,G_elec,78,0.0
+Offshore Wind power plant,G_elec,79,9.734187161418799
+Offshore Wind power plant,G_elec,80,0.0
+Offshore Wind power plant,G_elec,81,6.211763257250965
+Offshore Wind power plant,G_elec,82,4.245574970503588
+Offshore Wind power plant,G_elec,83,0.0
+Offshore Wind power plant,G_elec,84,10.33145438851183
+Offshore Wind power plant,G_elec,85,0.0
+Offshore Wind power plant,G_elec,86,10.568996513089509
+Offshore Wind power plant,G_elec,87,4.922781730931344
+Offshore Wind power plant,G_elec,88,10.80573152726098
+Offshore Wind power plant,G_elec,89,10.923790715976873
+Offshore Wind power plant,G_elec,90,11.041641352555569
+Offshore Wind power plant,G_elec,91,11.159281187045304
+Offshore Wind power plant,G_elec,92,11.276707973518858
+Offshore Wind power plant,G_elec,93,11.393919470116431
+Offshore Wind power plant,G_elec,94,11.510913439088448
+Offshore Wind power plant,G_elec,95,11.62768764683826
+Offshore Wind power plant,G_elec,96,11.744239863964804
+Offshore Wind power plant,G_elec,97,11.860567865305168
+Offshore Wind power plant,G_elec,98,11.976669429977068
+Offshore Wind power plant,G_elec,99,12.092542341421249
+Offshore Wind power plant,G_elec,100,8.145139854723801
+Offshore Wind power plant,G_elec,101,2.3703340832404183
+Offshore Wind power plant,G_elec,102,0.0
+Offshore Wind power plant,G_elec,103,12.553703277409
+Offshore Wind power plant,G_elec,104,12.668399828589209
+Offshore Wind power plant,G_elec,105,0.0
+Offshore Wind power plant,G_elec,106,5.8942359042085135
+Offshore Wind power plant,G_elec,107,0.0
+Offshore Wind power plant,G_elec,108,3.3267190496054146
+Offshore Wind power plant,G_elec,109,0.0
+Offshore Wind power plant,G_elec,110,0.0
+Offshore Wind power plant,G_elec,111,13.464381584518597
+Offshore Wind power plant,G_elec,112,13.577082340735044
+Offshore Wind power plant,G_elec,113,9.09702567423508
+Offshore Wind power plant,G_elec,114,13.801704083693764
+Offshore Wind power plant,G_elec,115,13.913620782057963
+Offshore Wind power plant,G_elec,116,14.025271847783669
+Offshore Wind power plant,G_elec,117,14.136655149278546
+Offshore Wind power plant,G_elec,118,14.247768560062331
+Offshore Wind power plant,G_elec,119,14.358609958807362
+Offshore Wind power plant,G_elec,120,14.469177229379122
+Offshore Wind power plant,G_elec,121,14.579468260876627
+Offshore Wind power plant,G_elec,122,14.689480947672731
+Offshore Wind power plant,G_elec,123,14.799213189454308
+Offshore Wind power plant,G_elec,124,14.908662891262372
+Offshore Wind power plant,G_elec,125,15.01782796353206
+Offshore Wind power plant,G_elec,126,15.126706322132533
+Offshore Wind power plant,G_elec,127,15.23529588840676
+Offshore Wind power plant,G_elec,128,15.343594589211207
+Offshore Wind power plant,G_elec,129,15.451600356955408
+Offshore Wind power plant,G_elec,130,15.559311129641445
+Offshore Wind power plant,G_elec,131,15.666724850903313
+Offshore Wind power plant,G_elec,132,15.77383947004619
+Offshore Wind power plant,G_elec,133,15.880652942085572
+Offshore Wind power plant,G_elec,134,15.987163227786306
+Offshore Wind power plant,G_elec,135,16.093368293701566
+Offshore Wind power plant,G_elec,136,16.199266112211635
+Offshore Wind power plant,G_elec,137,16.30485466156261
+Offshore Wind power plant,G_elec,138,16.410131925905038
+Offshore Wind power plant,G_elec,139,16.515095895332365
+Offshore Wind power plant,G_elec,140,16.619744565919337
+Offshore Wind power plant,G_elec,141,16.724075939760237
+Offshore Wind power plant,G_elec,142,16.828088025007034
+Offshore Wind power plant,G_elec,143,16.931778835907423
+Offshore Wind power plant,G_elec,144,17.03514639284271
+Offshore Wind power plant,G_elec,145,17.138188722365637
+Offshore Wind power plant,G_elec,146,17.240903857238028
+Offshore Wind power plant,G_elec,147,17.34328983646837
+Offshore Wind power plant,G_elec,148,17.445344705349246
+Offshore Wind power plant,G_elec,149,17.547066515494645
+Offshore Wind power plant,G_elec,150,17.648453324877156
+Offshore Wind power plant,G_elec,151,17.749503197865074
+Offshore Wind power plant,G_elec,152,17.850214205259316
+Offshore Wind power plant,G_elec,153,17.950584424330266
+Offshore Wind power plant,G_elec,154,18.050611938854512
+Offshore Wind power plant,G_elec,155,18.150294839151375
+Offshore Wind power plant,G_elec,156,18.24963122211942
+Offshore Wind power plant,G_elec,157,18.348619191272736
+Offshore Wind power plant,G_elec,158,18.44725685677722
+Offshore Wind power plant,G_elec,159,18.545542335486562
+Offshore Wind power plant,G_elec,160,18.643473750978277
+Offshore Wind power plant,G_elec,161,18.741049233589486
+Offshore Wind power plant,G_elec,162,18.838266920452618
+Offshore Wind power plant,G_elec,163,18.935124955530977
+Offshore Wind power plant,G_elec,164,19.031621489654196
+Offshore Wind power plant,G_elec,165,19.127754680553497
+Offshore Wind power plant,G_elec,166,19.22352269289691
+Offshore Wind power plant,G_elec,167,19.31892369832429
+Offshore Wind power plant,G_elec,168,19.41395587548221
+Offshore Wind power plant,G_elec,169,19.508617410058758
+Offshore Wind power plant,G_elec,170,19.602906494818154
+Offshore Wind power plant,G_elec,171,19.69682132963528
+Offshore Wind power plant,G_elec,172,19.790360121530014
+Offshore Wind power plant,G_elec,173,19.883521084701506
+Offshore Wind power plant,G_elec,174,19.976302440562204
+Offshore Wind power plant,G_elec,175,20.068702417771878
+Offshore Wind power plant,G_elec,176,20.160719252271395
+Offshore Wind power plant,G_elec,177,20.25235118731642
+Offshore Wind power plant,G_elec,178,20.343596473510946
+Offshore Wind power plant,G_elec,179,20.434453368840686
+Offshore Wind power plant,G_elec,180,20.524920138706346
+Offshore Wind power plant,G_elec,181,20.614995055956722
+Offshore Wind power plant,G_elec,182,20.7046764009217
+Offshore Wind power plant,G_elec,183,20.793962461445066
+Offshore Wind power plant,G_elec,184,20.882851532917194
+Offshore Wind power plant,G_elec,185,20.971341918307612
+Offshore Wind power plant,G_elec,186,21.05943192819737
+Offshore Wind power plant,G_elec,187,21.147119880811303
+Offshore Wind power plant,G_elec,188,21.234404102050167
+Offshore Wind power plant,G_elec,189,21.321282925522556
+Offshore Wind power plant,G_elec,190,21.407754692576752
+Offshore Wind power plant,G_elec,191,21.493817752332358
+Offshore Wind power plant,G_elec,192,21.579470461711853
+Offshore Wind power plant,G_elec,193,21.66471118547194
+Offshore Wind power plant,G_elec,194,21.749538296234757
+Offshore Wind power plant,G_elec,195,21.833950174518957
+Offshore Wind power plant,G_elec,196,21.91794520877065
+Offshore Wind power plant,G_elec,197,22.00152179539412
+Offshore Wind power plant,G_elec,198,21.63237807388287
+Offshore Wind power plant,G_elec,199,15.810479980380377
+Offshore Wind power plant,G_elec,200,10.117720938150043
+Offshore Wind power plant,G_elec,201,5.065026371898016
+Offshore Wind power plant,G_elec,202,22.41307244915693
+Offshore Wind power plant,G_elec,203,22.49410512399862
+Offshore Wind power plant,G_elec,204,0.0
+Offshore Wind power plant,G_elec,205,0.38424792159405374
+Offshore Wind power plant,G_elec,206,0.0
+Offshore Wind power plant,G_elec,207,0.0
+Offshore Wind power plant,G_elec,208,22.892796133745353
+Offshore Wind power plant,G_elec,209,7.769032201362384
+Offshore Wind power plant,G_elec,210,23.04922372275542
+Offshore Wind power plant,G_elec,211,14.861817947471067
+Offshore Wind power plant,G_elec,212,20.706989705470907
+Offshore Wind power plant,G_elec,213,23.280561084517746
+Offshore Wind power plant,G_elec,214,23.35678656875742
+Offshore Wind power plant,G_elec,215,23.43256613565175
+Offshore Wind power plant,G_elec,216,23.50789833845107
+Offshore Wind power plant,G_elec,217,23.5827817389466
+Offshore Wind power plant,G_elec,218,23.657214907497856
+Offshore Wind power plant,G_elec,219,23.731196423060023
+Offshore Wind power plant,G_elec,220,23.804724873210994
+Offshore Wind power plant,G_elec,221,23.877798854178437
+Offshore Wind power plant,G_elec,222,23.95041697086652
+Offshore Wind power plant,G_elec,223,24.02257783688255
+Offshore Wind power plant,G_elec,224,24.094280074563507
+Offshore Wind power plant,G_elec,225,24.165522315002224
+Offshore Wind power plant,G_elec,226,24.23630319807369
+Offshore Wind power plant,G_elec,227,20.438591071996118
+Offshore Wind power plant,G_elec,228,24.376475495680477
+Offshore Wind power plant,G_elec,229,24.445864234108868
+Offshore Wind power plant,G_elec,230,0.0
+Offshore Wind power plant,G_elec,231,24.583240266546795
+Offshore Wind power plant,G_elec,232,24.651224937834424
+Offshore Wind power plant,G_elec,233,23.78617207175704
+Offshore Wind power plant,G_elec,234,23.734475755023272
+Offshore Wind power plant,G_elec,235,24.852350023805304
+Offshore Wind power plant,G_elec,236,0.0
+Offshore Wind power plant,G_elec,237,24.984063197830434
+Offshore Wind power plant,G_elec,238,25.04920493434791
+Offshore Wind power plant,G_elec,239,21.2052577700177
+Offshore Wind power plant,G_elec,240,25.17805248813163
+Offshore Wind power plant,G_elec,241,25.24175584549787
+Offshore Wind power plant,G_elec,242,25.304977298526584
+Offshore Wind power plant,G_elec,243,25.367715640222013
+Offshore Wind power plant,G_elec,244,25.42996967281172
+Offshore Wind power plant,G_elec,245,25.4917382077695
+Offshore Wind power plant,G_elec,246,25.55302006583806
+Offshore Wind power plant,G_elec,247,25.61381407705151
+Offshore Wind power plant,G_elec,248,25.674119080757716
+Offshore Wind power plant,G_elec,249,25.733933925640464
+Offshore Wind power plant,G_elec,250,25.793257469741437
+Offshore Wind power plant,G_elec,251,25.85208858048199
+Offshore Wind power plant,G_elec,252,25.91042613468483
+Offshore Wind power plant,G_elec,253,25.968269018595397
+Offshore Wind power plant,G_elec,254,26.02561612790316
+Offshore Wind power plant,G_elec,255,26.082466367762727
+Offshore Wind power plant,G_elec,256,26.13881865281465
+Offshore Wind power plant,G_elec,257,26.194671907206285
+Offshore Wind power plant,G_elec,258,26.25002506461222
+Offshore Wind power plant,G_elec,259,26.304877068254676
+Offshore Wind power plant,G_elec,260,26.35922687092366
+Offshore Wind power plant,G_elec,261,26.413073434997024
+Offshore Wind power plant,G_elec,262,26.466415732460188
+Offshore Wind power plant,G_elec,263,26.519252744925797
+Offshore Wind power plant,G_elec,264,26.571583463653216
+Offshore Wind power plant,G_elec,265,26.623406889567697
+Offshore Wind power plant,G_elec,266,26.674722033279544
+Offshore Wind power plant,G_elec,267,26.725527915102905
+Offshore Wind power plant,G_elec,268,26.775823565074578
+Offshore Wind power plant,G_elec,269,26.82560802297245
+Offshore Wind power plant,G_elec,270,26.87488033833389
+Offshore Wind power plant,G_elec,271,26.923639570473807
+Offshore Wind power plant,G_elec,272,26.971884788502734
+Offshore Wind power plant,G_elec,273,27.01961507134448
+Offshore Wind power plant,G_elec,274,27.066829507753802
+Offshore Wind power plant,G_elec,275,27.113527196333727
+Offshore Wind power plant,G_elec,276,27.159707245552852
+Offshore Wind power plant,G_elec,277,27.205368773762274
+Offshore Wind power plant,G_elec,278,27.250510909212483
+Offshore Wind power plant,G_elec,279,27.295132790069967
+Offshore Wind power plant,G_elec,280,27.339233564433673
+Offshore Wind power plant,G_elec,281,27.382812390351344
+Offshore Wind power plant,G_elec,282,27.425868435835437
+Offshore Wind power plant,G_elec,283,27.468400878879187
+Offshore Wind power plant,G_elec,284,27.510408907472137
+Offshore Wind power plant,G_elec,285,27.551891719615796
+Offshore Wind power plant,G_elec,286,27.592848523338766
+Offshore Wind power plant,G_elec,287,27.6332785367121
+Offshore Wind power plant,G_elec,288,27.673180987863965
+Offshore Wind power plant,G_elec,289,27.712555114994608
+Offshore Wind power plant,G_elec,290,27.751400166390756
+Offshore Wind power plant,G_elec,291,27.789715400440024
+Offshore Wind power plant,G_elec,292,27.82750008564506
+Offshore Wind power plant,G_elec,293,27.86475350063751
+Offshore Wind power plant,G_elec,294,27.901474934191825
+Offshore Wind power plant,G_elec,295,27.937663685238764
+Offshore Wind power plant,G_elec,296,27.973319062878844
+Offshore Wind power plant,G_elec,297,28.00844038639551
+Offshore Wind power plant,G_elec,298,28.04302698526813
+Offshore Wind power plant,G_elec,299,28.07707819918479
+Offshore Wind power plant,G_elec,300,28.11059337805492
+Offshore Wind power plant,G_elec,301,28.143571882021675
+Offshore Wind power plant,G_elec,302,28.176013081474174
+Offshore Wind power plant,G_elec,303,28.20791635705951
+Offshore Wind power plant,G_elec,304,28.239281099694598
+Offshore Wind power plant,G_elec,305,28.270106710577757
+Offshore Wind power plant,G_elec,306,28.300392601200194
+Offshore Wind power plant,G_elec,307,28.330138193357186
+Offshore Wind power plant,G_elec,308,28.359342919159165
+Offshore Wind power plant,G_elec,309,28.388006221042556
+Offshore Wind power plant,G_elec,310,28.416127551780363
+Offshore Wind power plant,G_elec,311,28.44370637449272
+Offshore Wind power plant,G_elec,312,28.470742162657043
+Offshore Wind power plant,G_elec,313,28.497234400118106
+Offshore Wind power plant,G_elec,314,28.52318258109797
+Offshore Wind power plant,G_elec,315,28.548586210205524
+Offshore Wind power plant,G_elec,316,28.57344480244603
+Offshore Wind power plant,G_elec,317,28.59775788323032
+Offshore Wind power plant,G_elec,318,28.621524988383918
+Offshore Wind power plant,G_elec,319,28.64474566415586
+Offshore Wind power plant,G_elec,320,28.667419467227376
+Offshore Wind power plant,G_elec,321,28.68954596472032
+Offshore Wind power plant,G_elec,322,28.711124734205487
+Offshore Wind power plant,G_elec,323,28.732155363710632
+Offshore Wind power plant,G_elec,324,26.085615254638824
+Offshore Wind power plant,G_elec,325,28.772570607223816
+Offshore Wind power plant,G_elec,326,28.791954449642063
+Offshore Wind power plant,G_elec,327,28.81078860891544
+Offshore Wind power plant,G_elec,328,28.829072725470574
+Offshore Wind power plant,G_elec,329,28.846806450235285
+Offshore Wind power plant,G_elec,330,28.863989444645217
+Offshore Wind power plant,G_elec,331,28.880621380650293
+Offshore Wind power plant,G_elec,332,28.896701940721023
+Offshore Wind power plant,G_elec,333,0.0
+Offshore Wind power plant,G_elec,334,12.70183067077966
+Offshore Wind power plant,G_elec,335,14.44140861540942
+Offshore Wind power plant,G_elec,336,17.732919191279517
+Offshore Wind power plant,G_elec,337,28.96882372571323
+Offshore Wind power plant,G_elec,338,28.910986014096363
+Offshore Wind power plant,G_elec,339,28.993802874602142
+Offshore Wind power plant,G_elec,340,29.005462260511063
+Offshore Wind power plant,G_elec,341,29.01656788707927
+Offshore Wind power plant,G_elec,342,29.027119542283103
+Offshore Wind power plant,G_elec,343,29.037117024675062
+Offshore Wind power plant,G_elec,344,29.046560143387687
+Offshore Wind power plant,G_elec,345,29.055448718137153
+Offshore Wind power plant,G_elec,346,29.06378257922678
+Offshore Wind power plant,G_elec,347,29.071561567550205
+Offshore Wind power plant,G_elec,348,29.07878553459442
+Offshore Wind power plant,G_elec,349,29.08545434244273
+Offshore Wind power plant,G_elec,350,29.09156786377719
+Offshore Wind power plant,G_elec,351,29.097125981881188
+Offshore Wind power plant,G_elec,352,29.102128590641634
+Offshore Wind power plant,G_elec,353,22.653061526398698
+Offshore Wind power plant,G_elec,354,15.668365643668492
+Offshore Wind power plant,G_elec,355,29.11380245882419
+Offshore Wind power plant,G_elec,356,2.38505336671646
+Offshore Wind power plant,G_elec,357,29.11880602281536
+Offshore Wind power plant,G_elec,358,29.120473941165397
+Offshore Wind power plant,G_elec,359,28.06048269329156
+Offshore Wind power plant,G_elec,360,0.0
+Offshore Wind power plant,G_elec,361,0.0
+Offshore Wind power plant,G_elec,362,29.121585904423046
+Offshore Wind power plant,G_elec,363,29.12047394116539
+Offshore Wind power plant,G_elec,364,24.147061818496535
+Offshore Wind power plant,G_elec,365,25.561815686301717
+Offshore Wind power plant,G_elec,366,29.11380245882419
+Offshore Wind power plant,G_elec,367,29.11046690870884
+Offshore Wind power plant,G_elec,368,29.106575594550918
+Offshore Wind power plant,G_elec,369,29.102128590641634
+Offshore Wind power plant,G_elec,370,29.097125981881188
+Offshore Wind power plant,G_elec,371,29.09156786377719
+Offshore Wind power plant,G_elec,372,29.085454342442734
+Offshore Wind power plant,G_elec,373,29.07878553459442
+Offshore Wind power plant,G_elec,374,29.071561567550205
+Offshore Wind power plant,G_elec,375,29.06378257922678
+Offshore Wind power plant,G_elec,376,29.055448718137153
+Offshore Wind power plant,G_elec,377,29.046560143387694
+Offshore Wind power plant,G_elec,378,29.037117024675062
+Offshore Wind power plant,G_elec,379,29.027119542283106
+Offshore Wind power plant,G_elec,380,29.01656788707927
+Offshore Wind power plant,G_elec,381,29.005462260511063
+Offshore Wind power plant,G_elec,382,28.993802874602142
+Offshore Wind power plant,G_elec,383,28.981589951948312
+Offshore Wind power plant,G_elec,384,28.96882372571323
+Offshore Wind power plant,G_elec,385,28.955504439623994
+Offshore Wind power plant,G_elec,386,28.94163234796647
+Offshore Wind power plant,G_elec,387,28.927207715580433
+Offshore Wind power plant,G_elec,388,28.912230817854535
+Offshore Wind power plant,G_elec,389,28.896701940721023
+Offshore Wind power plant,G_elec,390,28.880621380650293
+Offshore Wind power plant,G_elec,391,28.863989444645217
+Offshore Wind power plant,G_elec,392,28.846806450235288
+Offshore Wind power plant,G_elec,393,28.82907272547059
+Offshore Wind power plant,G_elec,394,28.81078860891544
+Offshore Wind power plant,G_elec,395,28.791954449642066
+Offshore Wind power plant,G_elec,396,28.772570607223816
+Offshore Wind power plant,G_elec,397,28.75263745172838
+Offshore Wind power plant,G_elec,398,28.732155363710643
+Offshore Wind power plant,G_elec,399,28.71112473420549
+Offshore Wind power plant,G_elec,400,28.68954596472032
+Offshore Wind power plant,G_elec,401,28.667419467227376
+Offshore Wind power plant,G_elec,402,28.64474566415587
+Offshore Wind power plant,G_elec,403,28.621524988383918
+Offshore Wind power plant,G_elec,404,28.597757883230322
+Offshore Wind power plant,G_elec,405,28.573444802446026
+Offshore Wind power plant,G_elec,406,28.548586210205528
+Offshore Wind power plant,G_elec,407,28.523182581097974
+Offshore Wind power plant,G_elec,408,28.497234400118117
+Offshore Wind power plant,G_elec,409,28.470742162657046
+Offshore Wind power plant,G_elec,410,28.443706374492724
+Offshore Wind power plant,G_elec,411,28.41612755178037
+Offshore Wind power plant,G_elec,412,28.388006221042552
+Offshore Wind power plant,G_elec,413,28.359342919159168
+Offshore Wind power plant,G_elec,414,28.330138193357186
+Offshore Wind power plant,G_elec,415,28.300392601200194
+Offshore Wind power plant,G_elec,416,28.27010671057776
+Offshore Wind power plant,G_elec,417,28.239281099694598
+Offshore Wind power plant,G_elec,418,28.207916357059517
+Offshore Wind power plant,G_elec,419,28.176013081474174
+Offshore Wind power plant,G_elec,420,28.14357188202168
+Offshore Wind power plant,G_elec,421,28.11059337805493
+Offshore Wind power plant,G_elec,422,28.0770781991848
+Offshore Wind power plant,G_elec,423,28.04302698526813
+Offshore Wind power plant,G_elec,424,28.00844038639551
+Offshore Wind power plant,G_elec,425,27.97331906287885
+Offshore Wind power plant,G_elec,426,27.93766368523877
+Offshore Wind power plant,G_elec,427,27.901474934191825
+Offshore Wind power plant,G_elec,428,27.86475350063752
+Offshore Wind power plant,G_elec,429,27.827500085645063
+Offshore Wind power plant,G_elec,430,27.789715400440027
+Offshore Wind power plant,G_elec,431,27.751400166390763
+Offshore Wind power plant,G_elec,432,27.71255511499461
+Offshore Wind power plant,G_elec,433,27.673180987863976
+Offshore Wind power plant,G_elec,434,27.633278536712098
+Offshore Wind power plant,G_elec,435,27.592848523338777
+Offshore Wind power plant,G_elec,436,27.551891719615792
+Offshore Wind power plant,G_elec,437,27.510408907472147
+Offshore Wind power plant,G_elec,438,27.46840087887919
+Offshore Wind power plant,G_elec,439,27.42586843583545
+Offshore Wind power plant,G_elec,440,27.382812390351337
+Offshore Wind power plant,G_elec,441,27.33923356443368
+Offshore Wind power plant,G_elec,442,27.295132790069967
+Offshore Wind power plant,G_elec,443,27.250510909212483
+Offshore Wind power plant,G_elec,444,27.205368773762277
+Offshore Wind power plant,G_elec,445,27.15970724555286
+Offshore Wind power plant,G_elec,446,27.11352719633373
+Offshore Wind power plant,G_elec,447,27.066829507753795
+Offshore Wind power plant,G_elec,448,27.01961507134448
+Offshore Wind power plant,G_elec,449,26.971884788502738
+Offshore Wind power plant,G_elec,450,26.923639570473817
+Offshore Wind power plant,G_elec,451,16.414280639474658
+Offshore Wind power plant,G_elec,452,11.096341783575461
+Offshore Wind power plant,G_elec,453,26.77582356507458
+Offshore Wind power plant,G_elec,454,26.725527915102905
+Offshore Wind power plant,G_elec,455,26.674722033279544
+Offshore Wind power plant,G_elec,456,26.623406889567708
+Offshore Wind power plant,G_elec,457,0.0
+Offshore Wind power plant,G_elec,458,26.5192527449258
+Offshore Wind power plant,G_elec,459,26.46641573246019
+Offshore Wind power plant,G_elec,460,7.557927431198893
+Offshore Wind power plant,G_elec,461,10.396264857238169
+Offshore Wind power plant,G_elec,462,26.304877068254676
+Offshore Wind power plant,G_elec,463,26.250025064612224
+Offshore Wind power plant,G_elec,464,26.19467190720629
+Offshore Wind power plant,G_elec,465,26.13881865281466
+Offshore Wind power plant,G_elec,466,26.082466367762716
+Offshore Wind power plant,G_elec,467,26.025616127903163
+Offshore Wind power plant,G_elec,468,25.968269018595397
+Offshore Wind power plant,G_elec,469,25.91042613468483
+Offshore Wind power plant,G_elec,470,25.852088580481997
+Offshore Wind power plant,G_elec,471,25.793257469741437
+Offshore Wind power plant,G_elec,472,25.733933925640475
+Offshore Wind power plant,G_elec,473,25.674119080757716
+Offshore Wind power plant,G_elec,474,25.613814077051515
+Offshore Wind power plant,G_elec,475,25.553020065838062
+Offshore Wind power plant,G_elec,476,25.491738207769504
+Offshore Wind power plant,G_elec,477,25.42996967281173
+Offshore Wind power plant,G_elec,478,25.367715640222016
+Offshore Wind power plant,G_elec,479,18.67510136418529
+Offshore Wind power plant,G_elec,480,11.639183127267454
+Offshore Wind power plant,G_elec,481,4.835678442454253
+Offshore Wind power plant,G_elec,482,0.0
+Offshore Wind power plant,G_elec,483,25.049204934347916
+Offshore Wind power plant,G_elec,484,24.984063197830437
+Offshore Wind power plant,G_elec,485,24.918444476728453
+Offshore Wind power plant,G_elec,486,0.0
+Offshore Wind power plant,G_elec,487,24.785781100906792
+Offshore Wind power plant,G_elec,488,18.372041101305427
+Offshore Wind power plant,G_elec,489,19.73305973552286
+Offshore Wind power plant,G_elec,490,24.583240266546802
+Offshore Wind power plant,G_elec,491,24.514786263007192
+Offshore Wind power plant,G_elec,492,24.44586423410887
+Offshore Wind power plant,G_elec,493,24.376475495680484
+Offshore Wind power plant,G_elec,494,24.30662137246085
+Offshore Wind power plant,G_elec,495,24.23630319807369
+Offshore Wind power plant,G_elec,496,24.16552231500223
+Offshore Wind power plant,G_elec,497,24.09428007456351
+Offshore Wind power plant,G_elec,498,24.02257783688255
+Offshore Wind power plant,G_elec,499,23.950416970866524
+Offshore Wind power plant,G_elec,500,23.877798854178447
+Offshore Wind power plant,G_elec,501,23.804724873211004
+Offshore Wind power plant,G_elec,502,23.731196423060023
+Offshore Wind power plant,G_elec,503,23.657214907497867
+Offshore Wind power plant,G_elec,504,23.582781738946608
+Offshore Wind power plant,G_elec,505,23.507898338451078
+Offshore Wind power plant,G_elec,506,23.432566135651758
+Offshore Wind power plant,G_elec,507,23.35678656875742
+Offshore Wind power plant,G_elec,508,23.280561084517746
+Offshore Wind power plant,G_elec,509,23.203891138195676
+Offshore Wind power plant,G_elec,510,23.126778193539597
+Offshore Wind power plant,G_elec,511,23.049223722755425
+Offshore Wind power plant,G_elec,512,22.97122920647851
+Offshore Wind power plant,G_elec,513,22.892796133745353
+Offshore Wind power plant,G_elec,514,22.813926001965175
+Offshore Wind power plant,G_elec,515,22.734620316891334
+Offshore Wind power plant,G_elec,516,22.654880592592573
+Offshore Wind power plant,G_elec,517,22.574708351424118
+Offshore Wind power plant,G_elec,518,22.49410512399863
+Offshore Wind power plant,G_elec,519,22.413072449156946
+Offshore Wind power plant,G_elec,520,22.331611873938723
+Offshore Wind power plant,G_elec,521,22.249724953552924
+Offshore Wind power plant,G_elec,522,22.167413251348066
+Offshore Wind power plant,G_elec,523,22.084678338782464
+Offshore Wind power plant,G_elec,524,22.00152179539412
+Offshore Wind power plant,G_elec,525,21.91794520877065
+Offshore Wind power plant,G_elec,526,21.83395017451897
+Offshore Wind power plant,G_elec,527,21.749538296234768
+Offshore Wind power plant,G_elec,528,21.664711185471955
+Offshore Wind power plant,G_elec,529,21.57947046171186
+Offshore Wind power plant,G_elec,530,21.49381775233236
+Offshore Wind power plant,G_elec,531,21.40775469257676
+Offshore Wind power plant,G_elec,532,21.321282925522556
+Offshore Wind power plant,G_elec,533,21.23440410205017
+Offshore Wind power plant,G_elec,534,21.147119880811314
+Offshore Wind power plant,G_elec,535,21.05943192819737
+Offshore Wind power plant,G_elec,536,20.97134191830762
+Offshore Wind power plant,G_elec,537,20.882851532917208
+Offshore Wind power plant,G_elec,538,20.793962461445073
+Offshore Wind power plant,G_elec,539,20.7046764009217
+Offshore Wind power plant,G_elec,540,20.614995055956726
+Offshore Wind power plant,G_elec,541,20.52492013870635
+Offshore Wind power plant,G_elec,542,20.434453368840686
+Offshore Wind power plant,G_elec,543,20.343596473510953
+Offshore Wind power plant,G_elec,544,20.25235118731643
+Offshore Wind power plant,G_elec,545,20.1607192522714
+Offshore Wind power plant,G_elec,546,20.06870241777188
+Offshore Wind power plant,G_elec,547,19.976302440562215
+Offshore Wind power plant,G_elec,548,19.883521084701517
+Offshore Wind power plant,G_elec,549,19.790360121530025
+Offshore Wind power plant,G_elec,550,19.696821329635284
+Offshore Wind power plant,G_elec,551,19.602906494818168
+Offshore Wind power plant,G_elec,552,19.508617410058758
+Offshore Wind power plant,G_elec,553,19.413955875482216
+Offshore Wind power plant,G_elec,554,19.318923698324305
+Offshore Wind power plant,G_elec,555,19.223522692896925
+Offshore Wind power plant,G_elec,556,19.1277546805535
+Offshore Wind power plant,G_elec,557,19.031621489654196
+Offshore Wind power plant,G_elec,558,18.935124955530988
+Offshore Wind power plant,G_elec,559,18.838266920452618
+Offshore Wind power plant,G_elec,560,18.741049233589493
+Offshore Wind power plant,G_elec,561,18.643473750978288
+Offshore Wind power plant,G_elec,562,18.545542335486566
+Offshore Wind power plant,G_elec,563,18.447256856777226
+Offshore Wind power plant,G_elec,564,18.348619191272746
+Offshore Wind power plant,G_elec,565,18.249631222119422
+Offshore Wind power plant,G_elec,566,18.150294839151382
+Offshore Wind power plant,G_elec,567,18.05061193885452
+Offshore Wind power plant,G_elec,568,17.95058442433028
+Offshore Wind power plant,G_elec,569,17.85021420525932
+Offshore Wind power plant,G_elec,570,17.749503197865085
+Offshore Wind power plant,G_elec,571,17.64845332487717
+Offshore Wind power plant,G_elec,572,17.547066515494645
+Offshore Wind power plant,G_elec,573,17.445344705349253
+Offshore Wind power plant,G_elec,574,17.34328983646838
+Offshore Wind power plant,G_elec,575,16.281169246454056
+Offshore Wind power plant,G_elec,576,17.13818872236564
+Offshore Wind power plant,G_elec,577,17.035146392842716
+Offshore Wind power plant,G_elec,578,0.0
+Offshore Wind power plant,G_elec,579,0.0
+Offshore Wind power plant,G_elec,580,0.0
+Offshore Wind power plant,G_elec,581,0.0
+Offshore Wind power plant,G_elec,582,16.515095895332376
+Offshore Wind power plant,G_elec,583,0.0
+Offshore Wind power plant,G_elec,584,0.0
+Offshore Wind power plant,G_elec,585,0.0
+Offshore Wind power plant,G_elec,586,16.09336829370157
+Offshore Wind power plant,G_elec,587,0.0
+Offshore Wind power plant,G_elec,588,15.880652942085579
+Offshore Wind power plant,G_elec,589,15.773839470046193
+Offshore Wind power plant,G_elec,590,15.66672485090332
+Offshore Wind power plant,G_elec,591,15.559311129641452
+Offshore Wind power plant,G_elec,592,15.451600356955419
+Offshore Wind power plant,G_elec,593,15.343594589211213
+Offshore Wind power plant,G_elec,594,15.235295888406771
+Offshore Wind power plant,G_elec,595,15.126706322132547
+Offshore Wind power plant,G_elec,596,15.017827963532062
+Offshore Wind power plant,G_elec,597,14.908662891262377
+Offshore Wind power plant,G_elec,598,14.79921318945432
+Offshore Wind power plant,G_elec,599,14.689480947672735
+Offshore Wind power plant,G_elec,600,14.579468260876636
+Offshore Wind power plant,G_elec,601,14.469177229379133
+Offshore Wind power plant,G_elec,602,14.35860995880737
+Offshore Wind power plant,G_elec,603,14.247768560062335
+Offshore Wind power plant,G_elec,604,14.13665514927856
+Offshore Wind power plant,G_elec,605,14.025271847783676
+Offshore Wind power plant,G_elec,606,13.913620782057968
+Offshore Wind power plant,G_elec,607,0.0
+Offshore Wind power plant,G_elec,608,13.689523889354733
+Offshore Wind power plant,G_elec,609,0.0
+Offshore Wind power plant,G_elec,610,0.0
+Offshore Wind power plant,G_elec,611,0.0
+Offshore Wind power plant,G_elec,612,0.0
+Offshore Wind power plant,G_elec,613,13.124745611110857
+Offshore Wind power plant,G_elec,614,13.011029589702762
+Offshore Wind power plant,G_elec,615,12.897065167524401
+Offshore Wind power plant,G_elec,616,6.68904966986761
+Offshore Wind power plant,G_elec,617,9.348210789558545
+Offshore Wind power plant,G_elec,618,12.553703277409008
+Offshore Wind power plant,G_elec,619,12.43876705652839
+Offshore Wind power plant,G_elec,620,12.323593360258377
+Offshore Wind power plant,G_elec,621,12.208184387443804
+Offshore Wind power plant,G_elec,622,12.092542341421263
+Offshore Wind power plant,G_elec,623,11.976669429977076
+Offshore Wind power plant,G_elec,624,11.860567865305176
+Offshore Wind power plant,G_elec,625,11.744239863964815
+Offshore Wind power plant,G_elec,626,11.627687646838265
+Offshore Wind power plant,G_elec,627,11.51091343908846
+Offshore Wind power plant,G_elec,628,11.393919470116447
+Offshore Wind power plant,G_elec,629,11.276707973518876
+Offshore Wind power plant,G_elec,630,11.159281187045309
+Offshore Wind power plant,G_elec,631,11.041641352555576
+Offshore Wind power plant,G_elec,632,10.923790715976887
+Offshore Wind power plant,G_elec,633,10.805731527260981
+Offshore Wind power plant,G_elec,634,10.687466040341233
+Offshore Wind power plant,G_elec,635,10.568996513089521
+Offshore Wind power plant,G_elec,636,10.450325207273178
+Offshore Wind power plant,G_elec,637,10.331454388511837
+Offshore Wind power plant,G_elec,638,10.212386326234107
+Offshore Wind power plant,G_elec,639,10.093123293634292
+Offshore Wind power plant,G_elec,640,9.973667567628977
+Offshore Wind power plant,G_elec,641,9.854021428813589
+Offshore Wind power plant,G_elec,642,9.734187161418811
+Offshore Wind power plant,G_elec,643,9.614167053266977
+Offshore Wind power plant,G_elec,644,9.493963395728452
+Offshore Wind power plant,G_elec,645,9.373578483677814
+Offshore Wind power plant,G_elec,646,9.253014615450075
+Offshore Wind power plant,G_elec,647,9.132274092796784
+Offshore Wind power plant,G_elec,648,9.011359220842147
+Offshore Wind power plant,G_elec,649,8.890272308038918
+Offshore Wind power plant,G_elec,650,8.769015666124389
+Offshore Wind power plant,G_elec,651,8.64759161007627
+Offshore Wind power plant,G_elec,652,8.526002458068445
+Offshore Wind power plant,G_elec,653,8.404250531426724
+Offshore Wind power plant,G_elec,654,8.282338154584577
+Offshore Wind power plant,G_elec,655,8.16026765503869
+Offshore Wind power plant,G_elec,656,8.03804136330455
+Offshore Wind power plant,G_elec,657,7.915661612871966
+Offshore Wind power plant,G_elec,658,7.79313074016054
+Offshore Wind power plant,G_elec,659,7.670451084474999
+Offshore Wind power plant,G_elec,660,7.5476249879605675
+Offshore Wind power plant,G_elec,661,7.4246547955582844
+Offshore Wind power plant,G_elec,662,7.3015428549601715
+Offshore Wind power plant,G_elec,663,7.178291516564448
+Offshore Wind power plant,G_elec,664,7.054903133430681
+Offshore Wind power plant,G_elec,665,6.931380061234805
+Offshore Wind power plant,G_elec,666,6.807724658224185
+Offshore Wind power plant,G_elec,667,6.683939285172578
+Offshore Wind power plant,G_elec,668,6.560026305335109
+Offshore Wind power plant,G_elec,669,6.435988084403076
+Offshore Wind power plant,G_elec,670,6.311826990458819
+Offshore Wind power plant,G_elec,671,6.187545393930563
+Offshore Wind power plant,G_elec,672,6.063145667547068
+Offshore Wind power plant,G_elec,673,5.93863018629238
+Offshore Wind power plant,G_elec,674,5.814001327360521
+Offshore Wind power plant,G_elec,675,5.689261470110038
+Offshore Wind power plant,G_elec,676,5.5644129960186115
+Offshore Wind power plant,G_elec,677,5.439458288637577
+Offshore Wind power plant,G_elec,678,0.0
+Offshore Wind power plant,G_elec,679,5.1892397183074035
+Offshore Wind power plant,G_elec,680,5.063980632419509
+Offshore Wind power plant,G_elec,681,2.5913348882560023
+Offshore Wind power plant,G_elec,682,2.6176025666950924
+Offshore Wind power plant,G_elec,683,4.687632873951762
+Offshore Wind power plant,G_elec,684,4.5620014376033735
+Offshore Wind power plant,G_elec,685,4.436282905559515
+Offshore Wind power plant,G_elec,686,4.310479677982281
+Offshore Wind power plant,G_elec,687,4.184594156650733
+Offshore Wind power plant,G_elec,688,4.05862874491509
+Offshore Wind power plant,G_elec,689,3.9325858476507634
+Offshore Wind power plant,G_elec,690,3.806467871212483
+Offshore Wind power plant,G_elec,691,3.6802772233883974
+Offshore Wind power plant,G_elec,692,3.554016313354023
+Offshore Wind power plant,G_elec,693,3.427687551626306
+Offshore Wind power plant,G_elec,694,3.3012933500175743
+Offshore Wind power plant,G_elec,695,3.174836121589543
+Offshore Wind power plant,G_elec,696,3.048318280607165
+Offshore Wind power plant,G_elec,697,2.921742242492588
+Offshore Wind power plant,G_elec,698,2.7951104237790654
+Offshore Wind power plant,G_elec,699,0.0
+Offshore Wind power plant,G_elec,700,0.0
+Offshore Wind power plant,G_elec,701,0.0
+Offshore Wind power plant,G_elec,702,0.0
+Offshore Wind power plant,G_elec,703,0.0
+Offshore Wind power plant,G_elec,704,0.0
+Offshore Wind power plant,G_elec,705,0.0
+Offshore Wind power plant,G_elec,706,0.0
+Offshore Wind power plant,G_elec,707,0.0
+Offshore Wind power plant,G_elec,708,0.0
+Offshore Wind power plant,G_elec,709,0.0
+Offshore Wind power plant,G_elec,710,0.0
+Offshore Wind power plant,G_elec,711,0.0
+Offshore Wind power plant,G_elec,712,0.0
+Offshore Wind power plant,G_elec,713,0.0
+Offshore Wind power plant,G_elec,714,0.763390644539496
+Offshore Wind power plant,G_elec,715,0.6361811380514203
+Offshore Wind power plant,G_elec,716,0.5089594858769765
+Offshore Wind power plant,G_elec,717,0.38172811687515745
+Offshore Wind power plant,G_elec,718,0.2544894600905042
+Offshore Wind power plant,G_elec,719,0.12724594470665437
+Offshore Wind power plant,G_elec,720,0.0
+Solar power plant,G_elec,1,23.999999999999996
+Solar power plant,G_elec,2,26.96884751105427
+Solar power plant,G_elec,3,29.753106463250433
+Solar power plant,G_elec,4,32.17966512028001
+Solar power plant,G_elec,5,34.09765181769476
+Solar power plant,G_elec,6,35.387815432267026
+Solar power plant,G_elec,7,35.969939839248646
+Solar power plant,G_elec,8,35.80783136248725
+Solar power plant,G_elec,9,34.91156912190819
+Solar power plant,G_elec,10,33.33687836265506
+Solar power plant,G_elec,11,31.181665729247477
+Solar power plant,G_elec,12,28.579931904627987
+Solar power plant,G_elec,13,25.69344009671841
+Solar power plant,G_elec,14,22.7016583856387
+Solar power plant,G_elec,15,19.790601267724565
+Solar power plant,G_elec,16,17.141264175091877
+Solar power plant,G_elec,17,14.918370056304862
+Solar power plant,G_elec,18,13.260127701257
+Solar power plant,G_elec,19,12.26963858801884
+Solar power plant,G_elec,20,12.008486532295464
+Solar power plant,G_elec,21,12.49290870404234
+Solar power plant,G_elec,22,13.692786078880895
+Solar power plant,G_elec,23,15.533516093155296
+Solar power plant,G_elec,24,17.9006510700089
+Solar power plant,G_elec,25,20.647014021612897
+Solar power plant,G_elec,26,23.601849401429323
+Solar power plant,G_elec,27,26.58143985705379
+Solar power plant,G_elec,28,29.400528885367414
+Solar power plant,G_elec,29,31.88383918462547
+Solar power plant,G_elec,30,33.87697054813806
+Solar power plant,G_elec,31,35.25599972129687
+Solar power plant,G_elec,32,35.93518534933412
+Solar power plant,G_elec,33,35.87229895948058
+Solar power plant,G_elec,34,35.07125052287209
+Solar power plant,G_elec,35,33.58184535148188
+Solar power plant,G_elec,36,31.496687445050313
+Solar power plant,G_elec,37,28.94542182290108
+Solar power plant,G_elec,38,26.0866738245652
+Solar power plant,G_elec,39,23.098186554458287
+Solar power plant,G_elec,40,20.16576967653272
+Solar power plant,G_elec,41,17.471746669327562
+Solar power plant,G_elec,42,15.183618835142454
+Solar power plant,G_elec,43,13.443650880339963
+Solar power plant,G_elec,44,12.360025584951856
+Solar power plant,G_elec,45,12.000117521391557
+Solar power plant,G_elec,46,12.386304029864862
+Solar power plant,G_elec,47,13.494573903738855
+Solar power plant,G_elec,48,15.256020290073964
+Solar power plant,G_elec,49,17.56112498399478
+Solar power plant,G_elec,50,20.26656774022647
+Solar power plant,G_elec,51,23.204137231785587
+Solar power plant,G_elec,52,26.19118961557361
+Solar power plant,G_elec,53,29.042004441919694
+Solar power plant,G_elec,54,31.579331852618864
+Solar power plant,G_elec,55,33.64541311861945
+Solar power plant,G_elec,56,35.11178931370353
+Solar power plant,G_elec,57,35.887288268338445
+Solar power plant,G_elec,58,35.92369321359315
+Solar power plant,G_elec,59,35.2187406662962
+Solar power plant,G_elec,60,33.816261161456325
+Solar power plant,G_elec,61,31.8034540818854
+Solar power plant,G_elec,62,29.305466022918473
+Solar power plant,G_elec,63,26.477609783253563
+Solar power plant,G_elec,64,23.49570776737392
+Solar power plant,G_elec,65,20.545160200019218
+Solar power plant,G_elec,66,17.80941783818269
+Solar power plant,G_elec,67,15.45857589157052
+Solar power plant,G_elec,68,13.638798326305128
+Solar power plant,G_elec,69,12.463230097445319
+Solar power plant,G_elec,70,12.004962343689394
+Solar power plant,G_elec,71,12.292487934382113
+Solar power plant,G_elec,72,13.30792992090176
+Solar power plant,G_elec,73,6.625947002428243
+Solar power plant,G_elec,74,2.952193155352989
+Solar power plant,G_elec,75,0.16861084038182847
+Solar power plant,G_elec,76,7.985391745431734
+Solar power plant,G_elec,77,8.063476022623679
+Solar power plant,G_elec,78,9.883217113623553
+Solar power plant,G_elec,79,3.868332322177888
+Solar power plant,G_elec,80,10.086894614560649
+Solar power plant,G_elec,81,0.0
+Solar power plant,G_elec,82,0.0
+Solar power plant,G_elec,83,6.036181954017996
+Solar power plant,G_elec,84,14.135116708237229
+Solar power plant,G_elec,85,27.04350570369534
+Solar power plant,G_elec,86,19.969733873789256
+Solar power plant,G_elec,87,29.65966803713036
+Solar power plant,G_elec,88,26.865817488354992
+Solar power plant,G_elec,89,23.893784288515153
+Solar power plant,G_elec,90,20.928355067168006
+Solar power plant,G_elec,91,18.153905850473887
+Solar power plant,G_elec,92,15.742938452900436
+Solar power plant,G_elec,93,13.845355149897953
+Solar power plant,G_elec,94,12.579138480451757
+Solar power plant,G_elec,95,12.023015664247247
+Solar power plant,G_elec,96,12.211563724458918
+Solar power plant,G_elec,97,13.133059655920515
+Solar power plant,G_elec,98,14.730209304806753
+Solar power plant,G_elec,99,16.90370964161851
+Solar power plant,G_elec,100,19.518422942590625
+Solar power plant,G_elec,101,22.411778998826726
+Solar power plant,G_elec,102,21.087216165465545
+Solar power plant,G_elec,103,4.402924450182436
+Solar power plant,G_elec,104,0.11707326598623713
+Solar power plant,G_elec,105,8.970494838734973
+Solar power plant,G_elec,106,0.0
+Solar power plant,G_elec,107,3.9097888269574894
+Solar power plant,G_elec,108,0.0
+Solar power plant,G_elec,109,4.398723524130471
+Solar power plant,G_elec,110,7.313516614977598
+Solar power plant,G_elec,111,12.399054418897475
+Solar power plant,G_elec,112,24.578207153253555
+Solar power plant,G_elec,113,27.250869459694435
+Solar power plant,G_elec,114,21.62928287364948
+Solar power plant,G_elec,115,21.31493231775845
+Solar power plant,G_elec,116,18.504831368558264
+Solar power plant,G_elec,117,16.036393389444385
+Solar power plant,G_elec,118,14.063093898273067
+Solar power plant,G_elec,119,12.707623099884563
+Solar power plant,G_elec,120,12.054257603406537
+Solar power plant,G_elec,121,12.143620510885661
+Solar power plant,G_elec,122,12.970155669557073
+Solar power plant,G_elec,123,14.48247312651258
+Solar power plant,G_elec,124,16.586544307069254
+Solar power plant,G_elec,125,19.151548256123224
+Solar power plant,G_elec,126,22.01800545151705
+Solar power plant,G_elec,127,25.00769346830097
+Solar power plant,G_elec,128,27.93472798590992
+Solar power plant,G_elec,129,30.617120174900293
+Solar power plant,G_elec,130,32.888091880916086
+Solar power plant,G_elec,131,34.60644508254997
+Solar power plant,G_elec,132,35.6653409004328
+Solar power plant,G_elec,133,35.9989423212872
+Solar power plant,G_elec,134,35.58650762453666
+Solar power plant,G_elec,135,34.45368000203011
+Solar power plant,G_elec,136,32.67089318857362
+Solar power plant,G_elec,137,30.34899223344028
+Solar power plant,G_elec,138,27.632341692075784
+Solar power plant,G_elec,139,24.689849737259095
+Solar power plant,G_elec,140,21.704466267012542
+Solar power plant,G_elec,141,18.86180796604619
+Solar power plant,G_elec,142,16.3386175593224
+Solar power plant,G_elec,143,14.291774805457123
+Solar power plant,G_elec,144,12.848542473163931
+Solar power plant,G_elec,145,12.09865375868261
+Solar power plant,G_elec,146,12.088733110252647
+Solar power plant,G_elec,147,12.819397345743534
+Solar power plant,G_elec,148,14.24521730190716
+Solar power plant,G_elec,149,16.277542399716005
+Solar power plant,G_elec,150,18.790012507994966
+Solar power plant,G_elec,151,21.626414404362457
+Solar power plant,G_elec,152,24.610394356791684
+Solar power plant,G_elec,153,27.556422944512626
+Solar power plant,G_elec,154,30.281330378798373
+Solar power plant,G_elec,155,32.615695113259726
+Solar power plant,G_elec,156,34.414377655019734
+Solar power plant,G_elec,157,35.56554463540906
+Solar power plant,G_elec,158,35.99762206717376
+Solar power plant,G_elec,159,35.68374546833974
+Solar power plant,G_elec,160,34.6434301655859
+Solar power plant,G_elec,161,32.941357925752186
+Solar power plant,G_elec,162,30.683355356858538
+Solar power plant,G_elec,163,28.00981412218105
+Solar power plant,G_elec,164,25.08696206660543
+Solar power plant,G_elec,165,22.096527974343495
+Solar power plant,G_elec,166,19.224442553319953
+Solar power plant,G_elec,167,16.649278164294362
+Solar power plant,G_elec,168,14.531146056370323
+Solar power plant,G_elec,169,13.001741425012398
+Solar power plant,G_elec,170,12.156155242647467
+Solar power plant,G_elec,171,12.04696196256487
+Solar power plant,G_elec,172,12.680950694051088
+Solar power plant,G_elec,173,14.018703088456817
+Solar power plant,G_elec,174,15.977044181196348
+Solar power plant,G_elec,175,18.434213808194077
+Solar power plant,G_elec,176,21.237437063150953
+Solar power plant,G_elec,177,24.212423101264967
+Solar power plant,G_elec,178,27.174201699796896
+Solar power plant,G_elec,179,29.93862381063154
+Solar power plant,G_elec,180,32.33381105617812
+Solar power plant,G_elec,181,34.21084229440942
+Solar power plant,G_elec,182,35.453012814185314
+Solar power plant,G_elec,183,35.98309046894125
+Solar power plant,G_elec,184,35.768117597493905
+Solar power plant,G_elec,185,34.82146017178571
+Solar power plant,G_elec,186,33.201976765486464
+Solar power plant,G_elec,187,31.01035901295943
+Solar power plant,G_elec,188,28.382871091128674
+Solar power plant,G_elec,189,25.482877472942693
+Solar power plant,G_elec,190,22.49068571568945
+Solar power plant,G_elec,191,19.59233581038971
+Solar power plant,G_elec,192,16.968033116225357
+Solar power plant,G_elec,193,14.780944064115998
+Solar power plant,G_elec,194,13.167051258328119
+Solar power plant,G_elec,195,12.226698736762835
+Solar power plant,G_elec,196,12.018353064687652
+Solar power plant,G_elec,197,12.554968166886338
+Solar power plant,G_elec,198,13.80317991535719
+Solar power plant,G_elec,199,15.685380549195653
+Solar power plant,G_elec,200,18.084543949280267
+Solar power plant,G_elec,201,20.85150175555285
+Solar power plant,G_elec,202,2.5471547119804008
+Solar power plant,G_elec,203,3.10783336617427
+Solar power plant,G_elec,204,28.04653090884409
+Solar power plant,G_elec,205,32.042750110120494
+Solar power plant,G_elec,206,28.744422528468316
+Solar power plant,G_elec,207,25.5236102483217
+Solar power plant,G_elec,208,13.206671616667158
+Solar power plant,G_elec,209,35.839531104485836
+Solar power plant,G_elec,210,22.34001241119552
+Solar power plant,G_elec,211,33.45246272380942
+Solar power plant,G_elec,212,31.32964311723581
+Solar power plant,G_elec,213,28.75110180218201
+Solar power plant,G_elec,214,25.877159988656146
+Solar power plant,G_elec,215,22.8865054589123
+Solar power plant,G_elec,216,19.965082626610112
+Solar power plant,G_elec,217,17.294531413780607
+Solar power plant,G_elec,218,15.040893760232914
+Solar power plant,G_elec,219,13.344289939948041
+Solar power plant,G_elec,220,12.310206561104236
+Solar power plant,G_elec,221,12.00293791969656
+Solar power plant,G_elec,222,12.44158849161626
+Solar power plant,G_elec,223,13.598885108870892
+Solar power plant,G_elec,224,15.402872673074627
+Solar power plant,G_elec,225,17.74138797495706
+Solar power plant,G_elec,226,20.46903345946194
+Solar power plant,G_elec,227,23.41621734149895
+Solar power plant,G_elec,228,15.593573860038214
+Solar power plant,G_elec,229,11.335449043894169
+Solar power plant,G_elec,230,31.68604366938457
+Solar power plant,G_elec,231,3.494717539179227
+Solar power plant,G_elec,232,0.680125546542371
+Solar power plant,G_elec,233,0.0
+Solar power plant,G_elec,234,0.0
+Solar power plant,G_elec,235,0.5564242793199813
+Solar power plant,G_elec,236,32.08801784860583
+Solar power plant,G_elec,237,28.635616654962387
+Solar power plant,G_elec,238,24.53903126901305
+Solar power plant,G_elec,239,26.269375444210695
+Solar power plant,G_elec,240,21.954629278641637
+Solar power plant,G_elec,241,20.342272546773405
+Solar power plant,G_elec,242,17.628413528935386
+Solar power plant,G_elec,243,15.310708897590603
+Solar power plant,G_elec,244,13.533262301096125
+Solar power plant,G_elec,245,12.406586759899284
+Solar power plant,G_elec,246,12.0007335021874
+Solar power plant,G_elec,247,12.340936517806691
+Solar power plant,G_elec,248,13.406043630992473
+Solar power plant,G_elec,249,15.129831640209325
+Solar power plant,G_elec,250,17.405123756075685
+Solar power plant,G_elec,251,20.090453335025266
+Solar power plant,G_elec,252,23.018859590021414
+Solar power plant,G_elec,253,26.008268403633682
+Solar power plant,G_elec,254,28.872812814797957
+Solar power plant,G_elec,255,31.43438932622341
+Solar power plant,G_elec,256,33.53373151722385
+Solar power plant,G_elec,257,35.040312458361484
+Solar power plant,G_elec,258,35.86046024372262
+Solar power plant,G_elec,259,35.943182056334734
+Solar power plant,G_elec,260,35.28333465454619
+Solar power plant,G_elec,261,33.921944153881235
+Solar power plant,G_elec,262,31.943655221883514
+Solar power plant,G_elec,263,29.471468282657877
+Solar power plant,G_elec,264,26.65909194624255
+Solar power plant,G_elec,265,23.681386151712402
+Solar power plant,G_elec,266,20.723490223087676
+Solar power plant,G_elec,267,17.969311802874156
+Solar power plant,G_elec,268,15.59009236559431
+Solar power plant,G_elec,269,13.733760252296134
+Solar power plant,G_elec,270,12.515733202786025
+Solar power plant,G_elec,271,12.011742239584379
+Solar power plant,G_elec,272,12.25312307974252
+Solar power plant,G_elec,273,13.224867831728503
+Solar power plant,G_elec,274,14.866558113433072
+Solar power plant,G_elec,275,17.07612157453749
+Solar power plant,G_elec,276,19.716178260876994
+Solar power plant,G_elec,277,22.622582234601754
+Solar power plant,G_elec,278,25.61462737356445
+Solar power plant,G_elec,279,28.506282802759497
+Solar power plant,G_elec,280,31.117759393105032
+Solar power plant,G_elec,281,33.28668817869467
+Solar power plant,G_elec,282,34.8782156726763
+Solar power plant,G_elec,283,35.79338840391232
+Solar power plant,G_elec,284,35.975305364541526
+Solar power plant,G_elec,285,35.4126558390525
+Solar power plant,G_elec,286,34.14042264979145
+Solar power plant,G_elec,287,32.23770709450532
+Solar power plant,G_elec,288,29.82281081076875
+Solar power plant,G_elec,289,27.04588035314444
+Solar power plant,G_elec,290,24.079571807643344
+Solar power plant,G_elec,291,21.10831587254279
+Solar power plant,G_elec,292,18.31685085084305
+Solar power plant,G_elec,293,15.878736517352309
+Solar power plant,G_elec,294,13.945563012512155
+Solar power plant,G_elec,295,12.63752570167983
+Solar power plant,G_elec,296,12.035952009467136
+Solar power plant,G_elec,297,12.178244874381035
+Solar power plant,G_elec,298,13.055557215265459
+Solar power plant,G_elec,299,14.613341999957491
+Solar power plant,G_elec,300,16.754743715552973
+Solar power plant,G_elec,301,19.346620375086836
+Solar power plant,G_elec,302,22.227821641419855
+Solar power plant,G_elec,303,25.219208374682992
+Solar power plant,G_elec,304,28.134790636348146
+Solar power plant,G_elec,305,30.793291642778165
+Solar power plant,G_elec,306,33.02941867763361
+Solar power plant,G_elec,307,34.70414019239245
+Solar power plant,G_elec,308,35.71333011464883
+Solar power plant,G_elec,309,35.994241902968774
+Solar power plant,G_elec,310,35.52940982292872
+Solar power plant,G_elec,311,34.34773488188795
+Solar power plant,G_elec,312,32.522687904330816
+Solar power plant,G_elec,313,30.16774147185042
+Solar power plant,G_elec,314,27.429314747620737
+Solar power plant,G_elec,315,24.477669842000036
+Solar power plant,G_elec,316,21.496325739160067
+Solar power plant,G_elec,317,18.670647975509898
+Solar power plant,G_elec,318,16.176323508445478
+Solar power plant,G_elec,319,14.168437352264629
+Solar power plant,G_elec,320,12.771830143120132
+Solar power plant,G_elec,321,12.073336152919497
+Solar power plant,G_elec,322,12.11638435487274
+Solar power plant,G_elec,323,12.898298220282978
+Solar power plant,G_elec,324,14.370462132137275
+Solar power plant,G_elec,325,7.918811005443805
+Solar power plant,G_elec,326,4.90610842292966
+Solar power plant,G_elec,327,3.0151185297154086
+Solar power plant,G_elec,328,2.550930426495944
+Solar power plant,G_elec,329,3.761773047098955
+Solar power plant,G_elec,330,6.829119068133545
+Solar power plant,G_elec,331,9.099907551245671
+Solar power plant,G_elec,332,4.563353943944307
+Solar power plant,G_elec,333,30.881987507682503
+Solar power plant,G_elec,334,35.999970819390576
+Solar power plant,G_elec,335,35.633468040943384
+Solar power plant,G_elec,336,34.5436525654971
+Solar power plant,G_elec,337,26.541535531513244
+Solar power plant,G_elec,338,30.505880440831298
+Solar power plant,G_elec,339,27.808972905692038
+Solar power plant,G_elec,340,24.8752418837373
+Solar power plant,G_elec,341,21.887092560616953
+Solar power plant,G_elec,342,19.030313588376575
+Solar power plant,G_elec,343,16.48252564692597
+Solar power plant,G_elec,344,14.402137850454183
+Solar power plant,G_elec,345,12.918498635951288
+Solar power plant,G_elec,346,12.123853503885305
+Solar power plant,G_elec,347,12.067609639766964
+Solar power plant,G_elec,348,12.753264014654409
+Solar power plant,G_elec,349,14.138185960430132
+Solar power plant,G_elec,350,16.136267738266238
+Solar power plant,G_elec,351,18.62327830076869
+Solar power plant,G_elec,352,21.444587376801007
+Solar power plant,G_elec,353,24.42477963280393
+Solar power plant,G_elec,354,27.378561148625817
+Solar power plant,G_elec,355,9.73132204335326
+Solar power plant,G_elec,356,32.48534531982766
+Solar power plant,G_elec,357,2.3928548978140185
+Solar power plant,G_elec,358,0.01279133882324248
+Solar power plant,G_elec,359,0.0
+Solar power plant,G_elec,360,28.56653341684593
+Solar power plant,G_elec,361,30.86169460517793
+Solar power plant,G_elec,362,14.187402448735801
+Solar power plant,G_elec,363,26.585839871206865
+Solar power plant,G_elec,364,28.18443676163284
+Solar power plant,G_elec,365,25.27185014101389
+Solar power plant,G_elec,366,21.92827516033846
+Solar power plant,G_elec,367,19.395451638779633
+Solar power plant,G_elec,368,16.79700575415965
+Solar power plant,G_elec,369,14.646407164610343
+Solar power plant,G_elec,370,13.077369674174893
+Solar power plant,G_elec,371,12.187448434498986
+Solar power plant,G_elec,372,12.031974438002198
+Solar power plant,G_elec,373,12.620614304760634
+Solar power plant,G_elec,374,13.916769258890113
+Solar power plant,G_elec,375,15.839850663167363
+Solar power plant,G_elec,376,18.270290630167846
+Solar power plant,G_elec,377,21.05697617438815
+Solar power plant,G_elec,378,24.026644685780745
+Solar power plant,G_elec,379,26.99465655966293
+Solar power plant,G_elec,380,29.7764751930486
+Solar power plant,G_elec,381,32.19914057683345
+Solar power plant,G_elec,382,34.11202311144282
+Solar power plant,G_elec,383,35.396189025770695
+Solar power plant,G_elec,384,35.97179510302069
+Solar power plant,G_elec,385,35.803052945212144
+Solar power plant,G_elec,386,34.900454122428215
+Solar power plant,G_elec,387,33.32011785780326
+Solar power plant,G_elec,388,31.160301806037353
+Solar power plant,G_elec,389,28.55529286833026
+Solar power plant,G_elec,390,25.667057883272847
+Solar power plant,G_elec,391,22.67517331329717
+Solar power plant,G_elec,392,19.765660050006893
+Solar power plant,G_elec,393,17.119417536114927
+Solar power plant,G_elec,394,14.900976314267744
+Solar power plant,G_elec,395,13.248268314794363
+Solar power plant,G_elec,396,12.264050916340919
+Solar power plant,G_elec,397,12.009517989763754
+Solar power plant,G_elec,398,12.50049515962724
+Solar power plant,G_elec,399,13.706455843518539
+Solar power plant,G_elec,400,15.552419247088945
+Solar power plant,G_elec,401,17.923612306682895
+Solar power plant,G_elec,402,20.672605722541785
+Solar power plant,G_elec,403,23.62848039860075
+Solar power plant,G_elec,404,26.60745436404877
+Solar power plant,G_elec,405,29.424309446140207
+Solar power plant,G_elec,406,31.903907239086507
+Solar power plant,G_elec,407,33.892078361859
+Solar power plant,G_elec,408,35.26520796359404
+Solar power plant,G_elec,409,35.93792149630088
+Solar power plant,G_elec,410,35.86839289075086
+Solar power plant,G_elec,411,35.06094509888075
+Solar power plant,G_elec,412,33.565781313579215
+Solar power plant,G_elec,413,31.475863577308193
+Solar power plant,G_elec,414,28.921132852556944
+Solar power plant,G_elec,415,26.060429922153336
+Solar power plant,G_elec,416,23.071619438720386
+Solar power plant,G_elec,417,20.14053116204963
+Solar power plant,G_elec,418,17.44940596468909
+Solar power plant,G_elec,419,15.165564977157567
+Solar power plant,G_elec,420,13.431006370455723
+Solar power plant,G_elec,421,12.353576597550184
+Solar power plant,G_elec,422,12.000265023273917
+Solar power plant,G_elec,423,12.393038850078629
+Solar power plant,G_elec,424,13.507477303782705
+Solar power plant,G_elec,425,15.27428999902977
+Solar power plant,G_elec,426,17.583625079847575
+Solar power plant,G_elec,427,20.291899275993572
+Solar power plant,G_elec,428,23.230725215264293
+Solar power plant,G_elec,429,26.21738093472801
+Solar power plant,G_elec,430,29.066170647380364
+Solar power plant,G_elec,431,31.599970406777384
+Solar power plant,G_elec,432,33.661240816139454
+Solar power plant,G_elec,433,35.12182206501342
+Solar power plant,G_elec,434,35.890902285554624
+Solar power plant,G_elec,435,35.92066379462933
+Solar power plant,G_elec,436,35.20925616575079
+Solar power plant,G_elec,437,33.800911279635805
+Solar power plant,G_elec,438,31.783193200095425
+Solar power plant,G_elec,439,29.28155386465675
+Solar power plant,G_elec,440,26.45153309070416
+Solar power plant,G_elec,441,23.46908786297915
+Solar power plant,G_elec,442,20.519652180502945
+Solar power plant,G_elec,443,17.78660766865234
+Solar power plant,G_elec,444,15.439881797888237
+Solar power plant,G_elec,445,13.6253826166727
+Solar power plant,G_elec,446,12.45592689570975
+Solar power plant,G_elec,447,12.004225727562131
+Solar power plant,G_elec,448,12.298363703086197
+Solar power plant,G_elec,449,13.320052747598002
+Solar power plant,G_elec,450,10.287874587352228
+Solar power plant,G_elec,451,17.250703331203887
+Solar power plant,G_elec,452,19.915276054806068
+Solar power plant,G_elec,453,2.811825330312347
+Solar power plant,G_elec,454,2.9547701746939024
+Solar power plant,G_elec,455,4.841601557259504
+Solar power plant,G_elec,456,8.629573765183654
+Solar power plant,G_elec,457,31.30087433116793
+Solar power plant,G_elec,458,0.9238947755680456
+Solar power plant,G_elec,459,0.0
+Solar power plant,G_elec,460,35.9598080980334
+Solar power plant,G_elec,461,35.34522400829724
+Solar power plant,G_elec,462,22.023233215837745
+Solar power plant,G_elec,463,25.57985256861766
+Solar power plant,G_elec,464,29.63615902214816
+Solar power plant,G_elec,465,26.839936720371423
+Solar power plant,G_elec,466,23.867140908331983
+Solar power plant,G_elec,467,20.90260563111989
+Solar power plant,G_elec,468,18.130651333778946
+Solar power plant,G_elec,469,15.723624708775334
+Solar power plant,G_elec,470,13.831183013407786
+Solar power plant,G_elec,471,12.57098910640186
+Solar power plant,G_elec,472,12.021395741245188
+Solar power plant,G_elec,473,12.216573971470996
+Solar power plant,G_elec,474,13.144388560054255
+Solar power plant,G_elec,475,14.74715248967378
+Solar power plant,G_elec,476,16.925213662046765
+Solar power plant,G_elec,477,19.543150782742917
+Solar power plant,G_elec,478,22.43819320136973
+Solar power plant,G_elec,479,25.430341202247078
+Solar power plant,G_elec,480,28.33355751491373
+Solar power plant,G_elec,481,30.96733421054777
+Solar power plant,G_elec,482,31.992944295424234
+Solar power plant,G_elec,483,3.8756778370889076
+Solar power plant,G_elec,484,1.9675306142815707
+Solar power plant,G_elec,485,1.46375354439344
+Solar power plant,G_elec,486,27.46984721175991
+Solar power plant,G_elec,487,5.6158509421023455
+Solar power plant,G_elec,488,32.37181175710193
+Solar power plant,G_elec,489,29.984557846756733
+Solar power plant,G_elec,490,22.405311733760886
+Solar power plant,G_elec,491,21.572336669258355
+Solar power plant,G_elec,492,21.28896981951893
+Solar power plant,G_elec,493,18.48115811172491
+Solar power plant,G_elec,494,16.016481262467533
+Solar power plant,G_elec,495,14.0481809407653
+Solar power plant,G_elec,496,12.69863652731399
+Solar power plant,G_elec,497,12.05175615732985
+Solar power plant,G_elec,498,12.147759719104336
+Solar power plant,G_elec,499,12.980678176152008
+Solar power plant,G_elec,500,14.498724692988631
+Solar power plant,G_elec,501,16.607514489736126
+Solar power plant,G_elec,502,19.175933230590122
+Solar power plant,G_elec,503,22.044289078178327
+Solar power plant,G_elec,504,25.034241558553497
+Solar power plant,G_elec,505,27.959889908085387
+Solar power plant,G_elec,506,30.63933148254761
+Solar power plant,G_elec,507,32.905971582504485
+Solar power plant,G_elec,508,34.618881504833595
+Solar power plant,G_elec,509,35.671560806908886
+Solar power plant,G_elec,510,35.9985589882967
+Solar power plant,G_elec,511,35.57954488586827
+Solar power plant,G_elec,512,34.440570767050765
+Solar power plant,G_elec,513,32.652452526020774
+Solar power plant,G_elec,514,30.326366694395595
+Solar power plant,G_elec,515,27.606938022972017
+Solar power plant,G_elec,516,24.66324741520046
+Solar power plant,G_elec,517,21.678319295538376
+Solar power plant,G_elec,518,18.837742037201973
+Solar power plant,G_elec,519,16.318128976002228
+Solar power plant,G_elec,520,14.276137448537014
+Solar power plant,G_elec,521,12.838728597758857
+Solar power plant,G_elec,522,12.09527354403253
+Solar power plant,G_elec,523,12.091996721732702
+Solar power plant,G_elec,524,12.829101867798936
+Solar power plant,G_elec,525,14.260759354359594
+Solar power plant,G_elec,526,16.297955653020686
+Solar power plant,G_elec,527,18.81402776493139
+Solar power plant,G_elec,528,21.65253851257033
+Solar power plant,G_elec,529,24.6370030457527
+Solar power plant,G_elec,530,27.581861814824283
+Solar power plant,G_elec,531,30.304017764715855
+Solar power plant,G_elec,532,32.63422042301126
+Solar power plant,G_elec,533,34.427589074570825
+Solar power plant,G_elec,534,35.57262074268051
+Solar power plant,G_elec,535,35.998122904088
+Solar power plant,G_elec,536,35.67763989528319
+Solar power plant,G_elec,537,34.63109779751938
+Solar power plant,G_elec,538,32.92356552959121
+Solar power plant,G_elec,539,30.661209177620325
+Solar power plant,G_elec,540,27.984691102027334
+Solar power plant,G_elec,541,25.060424233248014
+Solar power plant,G_elec,542,22.07022532172665
+Solar power plant,G_elec,543,19.20001045298854
+Solar power plant,G_elec,544,16.628235685912056
+Solar power plant,G_elec,545,14.514801519325339
+Solar power plant,G_elec,546,12.991111053454711
+Solar power plant,G_elec,547,12.151899981593168
+Solar power plant,G_elec,548,12.0493463835363
+Solar power plant,G_elec,549,12.68982654530099
+Solar power plant,G_elec,550,14.033518512543964
+Solar power plant,G_elec,551,15.99687802680834
+Solar power plant,G_elec,552,18.457832902874426
+Solar power plant,G_elec,553,21.263372885989668
+Solar power plant,G_elec,554,24.23906308841605
+Solar power plant,G_elec,555,27.19988950588797
+Solar power plant,G_elec,556,29.96176229229674
+Solar power plant,G_elec,557,32.3529615746969
+Solar power plant,G_elec,558,34.22481416329434
+Solar power plant,G_elec,559,35.46093733030073
+Solar power plant,G_elec,560,35.98447492425688
+Solar power plant,G_elec,561,35.762875913283736
+Solar power plant,G_elec,562,34.80991825058623
+Solar power plant,G_elec,563,33.184852228055476
+Solar power plant,G_elec,564,30.988716580093048
+Solar power plant,G_elec,565,28.35805638447911
+Solar power plant,G_elec,566,25.456433350781335
+Solar power plant,G_elec,567,22.464256345452267
+Solar power plant,G_elec,568,19.56756444230947
+Solar power plant,G_elec,569,16.94645991399112
+Solar power plant,G_elec,570,14.763910344954592
+Solar power plant,G_elec,571,13.155616096395514
+Solar power plant,G_elec,572,12.221573115042693
+Solar power plant,G_elec,573,12.019855669512985
+Solar power plant,G_elec,574,12.563005573566857
+Solar power plant,G_elec,575,13.817252396874052
+Solar power plant,G_elec,576,9.024595230186256
+Solar power plant,G_elec,577,5.841450308024245
+Solar power plant,G_elec,578,20.60132160377275
+Solar power plant,G_elec,579,19.65811849928344
+Solar power plant,G_elec,580,20.315041718662883
+Solar power plant,G_elec,581,22.776353606134382
+Solar power plant,G_elec,582,6.363627762007593
+Solar power plant,G_elec,583,17.70750775319386
+Solar power plant,G_elec,584,14.503832156288377
+Solar power plant,G_elec,585,15.666155612929415
+Solar power plant,G_elec,586,16.525313028035743
+Solar power plant,G_elec,587,34.41092171104102
+Solar power plant,G_elec,588,21.46397990032132
+Solar power plant,G_elec,589,25.29856564090295
+Solar power plant,G_elec,590,28.72662273408708
+Solar power plant,G_elec,591,25.850838696994295
+Solar power plant,G_elec,592,22.85997847411396
+Solar power plant,G_elec,593,19.939999268108682
+Solar power plant,G_elec,594,17.272451243318432
+Solar power plant,G_elec,595,15.02318961586576
+Solar power plant,G_elec,596,13.332062579624028
+Solar power plant,G_elec,597,12.304216222866064
+Solar power plant,G_elec,598,12.003557053762142
+Solar power plant,G_elec,599,12.448778603228119
+Solar power plant,G_elec,600,13.612199151713742
+Solar power plant,G_elec,601,15.421482844450026
+Solar power plant,G_elec,602,17.76413718454578
+Solar power plant,G_elec,603,20.494507271595765
+Solar power plant,G_elec,604,17.402414851846412
+Solar power plant,G_elec,605,13.624613864481894
+Solar power plant,G_elec,606,9.546603487526973
+Solar power plant,G_elec,607,19.36756605349983
+Solar power plant,G_elec,608,2.0760003425393783
+Solar power plant,G_elec,609,13.028152645233806
+Solar power plant,G_elec,610,11.495033460340682
+Solar power plant,G_elec,611,11.457739101018008
+Solar power plant,G_elec,612,13.14820817562118
+Solar power plant,G_elec,613,3.6047532055569427
+Solar power plant,G_elec,614,23.255753707246285
+Solar power plant,G_elec,615,22.132305272009706
+Solar power plant,G_elec,616,26.243205967095353
+Solar power plant,G_elec,617,23.256955952927314
+Solar power plant,G_elec,618,20.316904818730897
+Solar power plant,G_elec,619,17.605850704124176
+Solar power plant,G_elec,620,15.292353823176189
+Solar power plant,G_elec,621,13.520256206704229
+Solar power plant,G_elec,622,12.399738301485206
+Solar power plant,G_elec,623,12.000468483725358
+Solar power plant,G_elec,624,12.347271416861053
+Solar power plant,G_elec,625,13.418584574222628
+Solar power plant,G_elec,626,15.147798892506295
+Solar power plant,G_elec,627,17.427400200714615
+Solar power plant,G_elec,628,20.115653930572712
+Solar power plant,G_elec,629,23.04541748550334
+Solar power plant,G_elec,630,26.034532357740098
+Solar power plant,G_elec,631,28.897149862069913
+Solar power plant,G_elec,632,31.455286306936117
+Solar power plant,G_elec,633,33.549889158329464
+Solar power plant,G_elec,634,35.05072615599435
+Solar power plant,G_elec,635,35.864482524601826
+Solar power plant,G_elec,636,35.940562834516804
+Solar power plant,G_elec,637,35.274236780557786
+Solar power plant,G_elec,638,33.90693328946212
+Solar power plant,G_elec,639,31.923664669879305
+Solar power plant,G_elec,640,29.44774095876956
+Solar power plant,G_elec,641,26.633103100548052
+Solar power plant,G_elec,642,23.65475164476209
+Solar power plant,G_elec,643,20.69786605952159
+Solar power plant,G_elec,644,17.946291169074204
+Solar power plant,G_elec,645,15.571106573071544
+Solar power plant,G_elec,646,13.719989745673434
+Solar power plant,G_elec,647,12.508034165468827
+Solar power plant,G_elec,648,12.010593360423382
+Solar power plant,G_elec,649,12.258595790479443
+Solar power plant,G_elec,650,13.236621865716382
+Solar power plant,G_elec,651,14.883862661768267
+Solar power plant,G_elec,652,17.09790072421774
+Solar power plant,G_elec,653,19.741077889860776
+Solar power plant,G_elec,654,22.649054204558254
+Solar power plant,G_elec,655,25.641025785616673
+Solar power plant,G_elec,656,28.530966331504672
+Solar power plant,G_elec,657,31.1391933362785
+Solar power plant,G_elec,658,33.303539877523534
+Solar power plant,G_elec,659,34.88943737014726
+Solar power plant,G_elec,660,35.79828238922802
+Solar power plant,G_elec,661,35.97356735339869
+Solar power plant,G_elec,662,35.40439389256606
+Solar power plant,G_elec,663,34.12615045577785
+Solar power plant,G_elec,664,32.21831202886206
+Solar power plant,G_elec,665,29.799498764739077
+Solar power plant,G_elec,666,27.020100756840417
+Solar power plant,G_elec,667,24.052927511501697
+Solar power plant,G_elec,668,21.08246348984806
+Solar power plant,G_elec,669,18.293397757537218
+Solar power plant,G_elec,670,15.859140913183916
+Solar power plant,G_elec,671,13.931043257238624
+Solar power plant,G_elec,672,12.628984563358781
+Solar power plant,G_elec,673,12.033920534711044
+Solar power plant,G_elec,674,12.182849370450933
+Solar power plant,G_elec,675,13.06651139689725
+Solar power plant,G_elec,676,14.629964789193018
+Solar power plant,G_elec,677,10.266957062162817
+Solar power plant,G_elec,678,12.021802803180519
+Solar power plant,G_elec,679,5.045353269628135
+Solar power plant,G_elec,680,9.665596862298361
+Solar power plant,G_elec,681,28.159793465964373
+Solar power plant,G_elec,682,30.815238946135423
+Solar power plant,G_elec,683,32.31057682160129
+Solar power plant,G_elec,684,34.71615753277726
+Solar power plant,G_elec,685,35.71909041532279
+Solar power plant,G_elec,686,35.99338701633556
+Solar power plant,G_elec,687,35.52199290169859
+Solar power plant,G_elec,688,34.33421707429971
+Solar power plant,G_elec,689,32.503909682187874
+Solar power plant,G_elec,690,30.144870374054797
+Solar power plant,G_elec,691,27.403772788258976
+Solar power plant,G_elec,692,24.451045096394804
+Solar power plant,G_elec,693,21.470273605038226
+Solar power plant,G_elec,694,18.64678824838969
+Solar power plant,G_elec,695,16.15613967059652
+Solar power plant,G_elec,696,14.153184336965548
+Solar power plant,G_elec,697,12.76245630898544
+Solar power plant,G_elec,698,12.070424319554261
+Solar power plant,G_elec,699,11.11120143097959
+Solar power plant,G_elec,700,6.9591466402870825
+Solar power plant,G_elec,701,2.8053514931352597
+Solar power plant,G_elec,702,0.0
+Solar power plant,G_elec,703,0.0
+Solar power plant,G_elec,704,0.0
+Solar power plant,G_elec,705,0.0
+Solar power plant,G_elec,706,0.0
+Solar power plant,G_elec,707,0.0
+Solar power plant,G_elec,708,3.17985890099153
+Solar power plant,G_elec,709,10.238051153522893
+Solar power plant,G_elec,710,10.077405972933057
+Solar power plant,G_elec,711,25.92871607416765
+Solar power plant,G_elec,712,29.298863415248125
+Solar power plant,G_elec,713,31.51119655447478
+Solar power plant,G_elec,714,32.78014314013065
+Solar power plant,G_elec,715,30.483475476088973
+Solar power plant,G_elec,716,27.783696709147225
+Solar power plant,G_elec,717,24.848666006867887
+Solar power plant,G_elec,718,21.860869362728533
+Solar power plant,G_elec,719,19.00607350090383
+Solar power plant,G_elec,720,16.461775801103013
+AWE electrolyzer,G_H2,1,30.0
+AWE electrolyzer,G_H2,2,30.0
+AWE electrolyzer,G_H2,3,30.0
+AWE electrolyzer,G_H2,4,30.0
+AWE electrolyzer,G_H2,5,30.0
+AWE electrolyzer,G_H2,6,30.0
+AWE electrolyzer,G_H2,7,30.0
+AWE electrolyzer,G_H2,8,30.0
+AWE electrolyzer,G_H2,9,30.0
+AWE electrolyzer,G_H2,10,30.0
+AWE electrolyzer,G_H2,11,30.0
+AWE electrolyzer,G_H2,12,30.0
+AWE electrolyzer,G_H2,13,30.0
+AWE electrolyzer,G_H2,14,30.0
+AWE electrolyzer,G_H2,15,30.0
+AWE electrolyzer,G_H2,16,30.0
+AWE electrolyzer,G_H2,17,30.0
+AWE electrolyzer,G_H2,18,30.0
+AWE electrolyzer,G_H2,19,30.0
+AWE electrolyzer,G_H2,20,30.0
+AWE electrolyzer,G_H2,21,30.0
+AWE electrolyzer,G_H2,22,30.0
+AWE electrolyzer,G_H2,23,30.0
+AWE electrolyzer,G_H2,24,30.0
+AWE electrolyzer,G_H2,25,30.0
+AWE electrolyzer,G_H2,26,30.0
+AWE electrolyzer,G_H2,27,30.0
+AWE electrolyzer,G_H2,28,30.0
+AWE electrolyzer,G_H2,29,30.0
+AWE electrolyzer,G_H2,30,30.0
+AWE electrolyzer,G_H2,31,30.0
+AWE electrolyzer,G_H2,32,30.0
+AWE electrolyzer,G_H2,33,30.0
+AWE electrolyzer,G_H2,34,30.0
+AWE electrolyzer,G_H2,35,30.0
+AWE electrolyzer,G_H2,36,30.0
+AWE electrolyzer,G_H2,37,30.0
+AWE electrolyzer,G_H2,38,30.0
+AWE electrolyzer,G_H2,39,30.0
+AWE electrolyzer,G_H2,40,30.0
+AWE electrolyzer,G_H2,41,30.0
+AWE electrolyzer,G_H2,42,30.0
+AWE electrolyzer,G_H2,43,30.0
+AWE electrolyzer,G_H2,44,30.0
+AWE electrolyzer,G_H2,45,30.0
+AWE electrolyzer,G_H2,46,30.0
+AWE electrolyzer,G_H2,47,30.0
+AWE electrolyzer,G_H2,48,30.0
+AWE electrolyzer,G_H2,49,30.0
+AWE electrolyzer,G_H2,50,30.0
+AWE electrolyzer,G_H2,51,30.0
+AWE electrolyzer,G_H2,52,30.0
+AWE electrolyzer,G_H2,53,30.0
+AWE electrolyzer,G_H2,54,30.0
+AWE electrolyzer,G_H2,55,30.0
+AWE electrolyzer,G_H2,56,30.0
+AWE electrolyzer,G_H2,57,30.0
+AWE electrolyzer,G_H2,58,30.0
+AWE electrolyzer,G_H2,59,30.0
+AWE electrolyzer,G_H2,60,30.0
+AWE electrolyzer,G_H2,61,30.0
+AWE electrolyzer,G_H2,62,30.0
+AWE electrolyzer,G_H2,63,30.0
+AWE electrolyzer,G_H2,64,30.0
+AWE electrolyzer,G_H2,65,30.0
+AWE electrolyzer,G_H2,66,30.0
+AWE electrolyzer,G_H2,67,30.0
+AWE electrolyzer,G_H2,68,30.0
+AWE electrolyzer,G_H2,69,30.0
+AWE electrolyzer,G_H2,70,30.0
+AWE electrolyzer,G_H2,71,30.0
+AWE electrolyzer,G_H2,72,30.0
+AWE electrolyzer,G_H2,73,30.0
+AWE electrolyzer,G_H2,74,30.0
+AWE electrolyzer,G_H2,75,30.0
+AWE electrolyzer,G_H2,76,30.0
+AWE electrolyzer,G_H2,77,30.0
+AWE electrolyzer,G_H2,78,30.0
+AWE electrolyzer,G_H2,79,30.0
+AWE electrolyzer,G_H2,80,30.0
+AWE electrolyzer,G_H2,81,30.0
+AWE electrolyzer,G_H2,82,30.0
+AWE electrolyzer,G_H2,83,30.0
+AWE electrolyzer,G_H2,84,30.0
+AWE electrolyzer,G_H2,85,30.0
+AWE electrolyzer,G_H2,86,30.0
+AWE electrolyzer,G_H2,87,30.0
+AWE electrolyzer,G_H2,88,30.0
+AWE electrolyzer,G_H2,89,30.0
+AWE electrolyzer,G_H2,90,30.0
+AWE electrolyzer,G_H2,91,30.0
+AWE electrolyzer,G_H2,92,30.0
+AWE electrolyzer,G_H2,93,30.0
+AWE electrolyzer,G_H2,94,30.0
+AWE electrolyzer,G_H2,95,30.0
+AWE electrolyzer,G_H2,96,30.0
+AWE electrolyzer,G_H2,97,30.0
+AWE electrolyzer,G_H2,98,30.0
+AWE electrolyzer,G_H2,99,30.0
+AWE electrolyzer,G_H2,100,30.0
+AWE electrolyzer,G_H2,101,30.0
+AWE electrolyzer,G_H2,102,30.0
+AWE electrolyzer,G_H2,103,30.0
+AWE electrolyzer,G_H2,104,30.0
+AWE electrolyzer,G_H2,105,30.0
+AWE electrolyzer,G_H2,106,30.0
+AWE electrolyzer,G_H2,107,30.0
+AWE electrolyzer,G_H2,108,30.0
+AWE electrolyzer,G_H2,109,30.0
+AWE electrolyzer,G_H2,110,30.0
+AWE electrolyzer,G_H2,111,30.0
+AWE electrolyzer,G_H2,112,30.0
+AWE electrolyzer,G_H2,113,30.0
+AWE electrolyzer,G_H2,114,30.0
+AWE electrolyzer,G_H2,115,30.0
+AWE electrolyzer,G_H2,116,30.0
+AWE electrolyzer,G_H2,117,30.0
+AWE electrolyzer,G_H2,118,30.0
+AWE electrolyzer,G_H2,119,30.0
+AWE electrolyzer,G_H2,120,30.0
+AWE electrolyzer,G_H2,121,30.0
+AWE electrolyzer,G_H2,122,30.0
+AWE electrolyzer,G_H2,123,30.0
+AWE electrolyzer,G_H2,124,30.0
+AWE electrolyzer,G_H2,125,30.0
+AWE electrolyzer,G_H2,126,30.0
+AWE electrolyzer,G_H2,127,30.0
+AWE electrolyzer,G_H2,128,30.0
+AWE electrolyzer,G_H2,129,30.0
+AWE electrolyzer,G_H2,130,30.0
+AWE electrolyzer,G_H2,131,30.0
+AWE electrolyzer,G_H2,132,30.0
+AWE electrolyzer,G_H2,133,30.0
+AWE electrolyzer,G_H2,134,30.0
+AWE electrolyzer,G_H2,135,30.0
+AWE electrolyzer,G_H2,136,30.0
+AWE electrolyzer,G_H2,137,30.0
+AWE electrolyzer,G_H2,138,30.0
+AWE electrolyzer,G_H2,139,30.0
+AWE electrolyzer,G_H2,140,30.0
+AWE electrolyzer,G_H2,141,30.0
+AWE electrolyzer,G_H2,142,30.0
+AWE electrolyzer,G_H2,143,30.0
+AWE electrolyzer,G_H2,144,30.0
+AWE electrolyzer,G_H2,145,30.0
+AWE electrolyzer,G_H2,146,30.0
+AWE electrolyzer,G_H2,147,30.0
+AWE electrolyzer,G_H2,148,30.0
+AWE electrolyzer,G_H2,149,30.0
+AWE electrolyzer,G_H2,150,30.0
+AWE electrolyzer,G_H2,151,30.0
+AWE electrolyzer,G_H2,152,30.0
+AWE electrolyzer,G_H2,153,30.0
+AWE electrolyzer,G_H2,154,30.0
+AWE electrolyzer,G_H2,155,30.0
+AWE electrolyzer,G_H2,156,30.0
+AWE electrolyzer,G_H2,157,30.0
+AWE electrolyzer,G_H2,158,30.0
+AWE electrolyzer,G_H2,159,30.0
+AWE electrolyzer,G_H2,160,30.0
+AWE electrolyzer,G_H2,161,30.0
+AWE electrolyzer,G_H2,162,30.0
+AWE electrolyzer,G_H2,163,30.0
+AWE electrolyzer,G_H2,164,30.0
+AWE electrolyzer,G_H2,165,30.0
+AWE electrolyzer,G_H2,166,30.0
+AWE electrolyzer,G_H2,167,30.0
+AWE electrolyzer,G_H2,168,30.0
+AWE electrolyzer,G_H2,169,30.0
+AWE electrolyzer,G_H2,170,30.0
+AWE electrolyzer,G_H2,171,30.0
+AWE electrolyzer,G_H2,172,30.0
+AWE electrolyzer,G_H2,173,30.0
+AWE electrolyzer,G_H2,174,30.0
+AWE electrolyzer,G_H2,175,30.0
+AWE electrolyzer,G_H2,176,30.0
+AWE electrolyzer,G_H2,177,30.0
+AWE electrolyzer,G_H2,178,30.0
+AWE electrolyzer,G_H2,179,30.0
+AWE electrolyzer,G_H2,180,30.0
+AWE electrolyzer,G_H2,181,30.0
+AWE electrolyzer,G_H2,182,30.0
+AWE electrolyzer,G_H2,183,30.0
+AWE electrolyzer,G_H2,184,30.0
+AWE electrolyzer,G_H2,185,30.0
+AWE electrolyzer,G_H2,186,30.0
+AWE electrolyzer,G_H2,187,30.0
+AWE electrolyzer,G_H2,188,30.0
+AWE electrolyzer,G_H2,189,30.0
+AWE electrolyzer,G_H2,190,30.0
+AWE electrolyzer,G_H2,191,30.0
+AWE electrolyzer,G_H2,192,30.0
+AWE electrolyzer,G_H2,193,30.0
+AWE electrolyzer,G_H2,194,30.0
+AWE electrolyzer,G_H2,195,30.0
+AWE electrolyzer,G_H2,196,30.0
+AWE electrolyzer,G_H2,197,30.0
+AWE electrolyzer,G_H2,198,30.0
+AWE electrolyzer,G_H2,199,30.0
+AWE electrolyzer,G_H2,200,30.0
+AWE electrolyzer,G_H2,201,30.0
+AWE electrolyzer,G_H2,202,30.0
+AWE electrolyzer,G_H2,203,30.0
+AWE electrolyzer,G_H2,204,30.0
+AWE electrolyzer,G_H2,205,30.0
+AWE electrolyzer,G_H2,206,30.0
+AWE electrolyzer,G_H2,207,30.0
+AWE electrolyzer,G_H2,208,30.0
+AWE electrolyzer,G_H2,209,30.0
+AWE electrolyzer,G_H2,210,30.0
+AWE electrolyzer,G_H2,211,30.0
+AWE electrolyzer,G_H2,212,30.0
+AWE electrolyzer,G_H2,213,30.0
+AWE electrolyzer,G_H2,214,30.0
+AWE electrolyzer,G_H2,215,30.0
+AWE electrolyzer,G_H2,216,30.0
+AWE electrolyzer,G_H2,217,30.0
+AWE electrolyzer,G_H2,218,30.0
+AWE electrolyzer,G_H2,219,30.0
+AWE electrolyzer,G_H2,220,30.0
+AWE electrolyzer,G_H2,221,30.0
+AWE electrolyzer,G_H2,222,30.0
+AWE electrolyzer,G_H2,223,30.0
+AWE electrolyzer,G_H2,224,30.0
+AWE electrolyzer,G_H2,225,30.0
+AWE electrolyzer,G_H2,226,30.0
+AWE electrolyzer,G_H2,227,30.0
+AWE electrolyzer,G_H2,228,30.0
+AWE electrolyzer,G_H2,229,30.0
+AWE electrolyzer,G_H2,230,30.0
+AWE electrolyzer,G_H2,231,30.0
+AWE electrolyzer,G_H2,232,30.0
+AWE electrolyzer,G_H2,233,30.0
+AWE electrolyzer,G_H2,234,30.0
+AWE electrolyzer,G_H2,235,30.0
+AWE electrolyzer,G_H2,236,30.0
+AWE electrolyzer,G_H2,237,30.0
+AWE electrolyzer,G_H2,238,30.0
+AWE electrolyzer,G_H2,239,30.0
+AWE electrolyzer,G_H2,240,30.0
+AWE electrolyzer,G_H2,241,30.0
+AWE electrolyzer,G_H2,242,30.0
+AWE electrolyzer,G_H2,243,30.0
+AWE electrolyzer,G_H2,244,30.0
+AWE electrolyzer,G_H2,245,30.0
+AWE electrolyzer,G_H2,246,30.0
+AWE electrolyzer,G_H2,247,30.0
+AWE electrolyzer,G_H2,248,30.0
+AWE electrolyzer,G_H2,249,30.0
+AWE electrolyzer,G_H2,250,30.0
+AWE electrolyzer,G_H2,251,30.0
+AWE electrolyzer,G_H2,252,30.0
+AWE electrolyzer,G_H2,253,30.0
+AWE electrolyzer,G_H2,254,30.0
+AWE electrolyzer,G_H2,255,30.0
+AWE electrolyzer,G_H2,256,30.0
+AWE electrolyzer,G_H2,257,30.0
+AWE electrolyzer,G_H2,258,30.0
+AWE electrolyzer,G_H2,259,30.0
+AWE electrolyzer,G_H2,260,30.0
+AWE electrolyzer,G_H2,261,30.0
+AWE electrolyzer,G_H2,262,30.0
+AWE electrolyzer,G_H2,263,30.0
+AWE electrolyzer,G_H2,264,30.0
+AWE electrolyzer,G_H2,265,30.0
+AWE electrolyzer,G_H2,266,30.0
+AWE electrolyzer,G_H2,267,30.0
+AWE electrolyzer,G_H2,268,30.0
+AWE electrolyzer,G_H2,269,30.0
+AWE electrolyzer,G_H2,270,30.0
+AWE electrolyzer,G_H2,271,30.0
+AWE electrolyzer,G_H2,272,30.0
+AWE electrolyzer,G_H2,273,30.0
+AWE electrolyzer,G_H2,274,30.0
+AWE electrolyzer,G_H2,275,30.0
+AWE electrolyzer,G_H2,276,30.0
+AWE electrolyzer,G_H2,277,30.0
+AWE electrolyzer,G_H2,278,30.0
+AWE electrolyzer,G_H2,279,30.0
+AWE electrolyzer,G_H2,280,30.0
+AWE electrolyzer,G_H2,281,30.0
+AWE electrolyzer,G_H2,282,30.0
+AWE electrolyzer,G_H2,283,30.0
+AWE electrolyzer,G_H2,284,30.0
+AWE electrolyzer,G_H2,285,30.0
+AWE electrolyzer,G_H2,286,30.0
+AWE electrolyzer,G_H2,287,30.0
+AWE electrolyzer,G_H2,288,30.0
+AWE electrolyzer,G_H2,289,30.0
+AWE electrolyzer,G_H2,290,30.0
+AWE electrolyzer,G_H2,291,30.0
+AWE electrolyzer,G_H2,292,30.0
+AWE electrolyzer,G_H2,293,30.0
+AWE electrolyzer,G_H2,294,30.0
+AWE electrolyzer,G_H2,295,30.0
+AWE electrolyzer,G_H2,296,30.0
+AWE electrolyzer,G_H2,297,30.0
+AWE electrolyzer,G_H2,298,30.0
+AWE electrolyzer,G_H2,299,30.0
+AWE electrolyzer,G_H2,300,30.0
+AWE electrolyzer,G_H2,301,30.0
+AWE electrolyzer,G_H2,302,30.0
+AWE electrolyzer,G_H2,303,30.0
+AWE electrolyzer,G_H2,304,30.0
+AWE electrolyzer,G_H2,305,30.0
+AWE electrolyzer,G_H2,306,30.0
+AWE electrolyzer,G_H2,307,30.0
+AWE electrolyzer,G_H2,308,30.0
+AWE electrolyzer,G_H2,309,30.0
+AWE electrolyzer,G_H2,310,30.0
+AWE electrolyzer,G_H2,311,30.0
+AWE electrolyzer,G_H2,312,30.0
+AWE electrolyzer,G_H2,313,30.0
+AWE electrolyzer,G_H2,314,30.0
+AWE electrolyzer,G_H2,315,30.0
+AWE electrolyzer,G_H2,316,30.0
+AWE electrolyzer,G_H2,317,30.0
+AWE electrolyzer,G_H2,318,30.0
+AWE electrolyzer,G_H2,319,30.0
+AWE electrolyzer,G_H2,320,30.0
+AWE electrolyzer,G_H2,321,30.0
+AWE electrolyzer,G_H2,322,30.0
+AWE electrolyzer,G_H2,323,30.0
+AWE electrolyzer,G_H2,324,30.0
+AWE electrolyzer,G_H2,325,30.0
+AWE electrolyzer,G_H2,326,30.0
+AWE electrolyzer,G_H2,327,30.0
+AWE electrolyzer,G_H2,328,30.0
+AWE electrolyzer,G_H2,329,30.0
+AWE electrolyzer,G_H2,330,30.0
+AWE electrolyzer,G_H2,331,30.0
+AWE electrolyzer,G_H2,332,30.0
+AWE electrolyzer,G_H2,333,30.0
+AWE electrolyzer,G_H2,334,30.0
+AWE electrolyzer,G_H2,335,30.0
+AWE electrolyzer,G_H2,336,30.0
+AWE electrolyzer,G_H2,337,30.0
+AWE electrolyzer,G_H2,338,30.0
+AWE electrolyzer,G_H2,339,30.0
+AWE electrolyzer,G_H2,340,30.0
+AWE electrolyzer,G_H2,341,30.0
+AWE electrolyzer,G_H2,342,30.0
+AWE electrolyzer,G_H2,343,30.0
+AWE electrolyzer,G_H2,344,30.0
+AWE electrolyzer,G_H2,345,30.0
+AWE electrolyzer,G_H2,346,30.0
+AWE electrolyzer,G_H2,347,30.0
+AWE electrolyzer,G_H2,348,30.0
+AWE electrolyzer,G_H2,349,30.0
+AWE electrolyzer,G_H2,350,30.0
+AWE electrolyzer,G_H2,351,30.0
+AWE electrolyzer,G_H2,352,30.0
+AWE electrolyzer,G_H2,353,30.0
+AWE electrolyzer,G_H2,354,30.0
+AWE electrolyzer,G_H2,355,30.0
+AWE electrolyzer,G_H2,356,30.0
+AWE electrolyzer,G_H2,357,30.0
+AWE electrolyzer,G_H2,358,30.0
+AWE electrolyzer,G_H2,359,30.0
+AWE electrolyzer,G_H2,360,30.0
+AWE electrolyzer,G_H2,361,30.0
+AWE electrolyzer,G_H2,362,30.0
+AWE electrolyzer,G_H2,363,30.0
+AWE electrolyzer,G_H2,364,30.0
+AWE electrolyzer,G_H2,365,30.0
+AWE electrolyzer,G_H2,366,30.0
+AWE electrolyzer,G_H2,367,30.0
+AWE electrolyzer,G_H2,368,30.0
+AWE electrolyzer,G_H2,369,30.0
+AWE electrolyzer,G_H2,370,30.0
+AWE electrolyzer,G_H2,371,30.0
+AWE electrolyzer,G_H2,372,30.0
+AWE electrolyzer,G_H2,373,30.0
+AWE electrolyzer,G_H2,374,30.0
+AWE electrolyzer,G_H2,375,30.0
+AWE electrolyzer,G_H2,376,30.0
+AWE electrolyzer,G_H2,377,30.0
+AWE electrolyzer,G_H2,378,30.0
+AWE electrolyzer,G_H2,379,30.0
+AWE electrolyzer,G_H2,380,30.0
+AWE electrolyzer,G_H2,381,30.0
+AWE electrolyzer,G_H2,382,30.0
+AWE electrolyzer,G_H2,383,30.0
+AWE electrolyzer,G_H2,384,30.0
+AWE electrolyzer,G_H2,385,30.0
+AWE electrolyzer,G_H2,386,30.0
+AWE electrolyzer,G_H2,387,30.0
+AWE electrolyzer,G_H2,388,30.0
+AWE electrolyzer,G_H2,389,30.0
+AWE electrolyzer,G_H2,390,30.0
+AWE electrolyzer,G_H2,391,30.0
+AWE electrolyzer,G_H2,392,30.0
+AWE electrolyzer,G_H2,393,30.0
+AWE electrolyzer,G_H2,394,30.0
+AWE electrolyzer,G_H2,395,30.0
+AWE electrolyzer,G_H2,396,30.0
+AWE electrolyzer,G_H2,397,30.0
+AWE electrolyzer,G_H2,398,30.0
+AWE electrolyzer,G_H2,399,30.0
+AWE electrolyzer,G_H2,400,30.0
+AWE electrolyzer,G_H2,401,30.0
+AWE electrolyzer,G_H2,402,30.0
+AWE electrolyzer,G_H2,403,30.0
+AWE electrolyzer,G_H2,404,30.0
+AWE electrolyzer,G_H2,405,30.0
+AWE electrolyzer,G_H2,406,30.0
+AWE electrolyzer,G_H2,407,30.0
+AWE electrolyzer,G_H2,408,30.0
+AWE electrolyzer,G_H2,409,30.0
+AWE electrolyzer,G_H2,410,30.0
+AWE electrolyzer,G_H2,411,30.0
+AWE electrolyzer,G_H2,412,30.0
+AWE electrolyzer,G_H2,413,30.0
+AWE electrolyzer,G_H2,414,30.0
+AWE electrolyzer,G_H2,415,30.0
+AWE electrolyzer,G_H2,416,30.0
+AWE electrolyzer,G_H2,417,30.0
+AWE electrolyzer,G_H2,418,30.0
+AWE electrolyzer,G_H2,419,30.0
+AWE electrolyzer,G_H2,420,30.0
+AWE electrolyzer,G_H2,421,30.0
+AWE electrolyzer,G_H2,422,30.0
+AWE electrolyzer,G_H2,423,30.0
+AWE electrolyzer,G_H2,424,30.0
+AWE electrolyzer,G_H2,425,30.0
+AWE electrolyzer,G_H2,426,30.0
+AWE electrolyzer,G_H2,427,30.0
+AWE electrolyzer,G_H2,428,30.0
+AWE electrolyzer,G_H2,429,30.0
+AWE electrolyzer,G_H2,430,30.0
+AWE electrolyzer,G_H2,431,30.0
+AWE electrolyzer,G_H2,432,30.0
+AWE electrolyzer,G_H2,433,30.0
+AWE electrolyzer,G_H2,434,30.0
+AWE electrolyzer,G_H2,435,30.0
+AWE electrolyzer,G_H2,436,30.0
+AWE electrolyzer,G_H2,437,30.0
+AWE electrolyzer,G_H2,438,30.0
+AWE electrolyzer,G_H2,439,30.0
+AWE electrolyzer,G_H2,440,30.0
+AWE electrolyzer,G_H2,441,30.0
+AWE electrolyzer,G_H2,442,30.0
+AWE electrolyzer,G_H2,443,30.0
+AWE electrolyzer,G_H2,444,30.0
+AWE electrolyzer,G_H2,445,30.0
+AWE electrolyzer,G_H2,446,30.0
+AWE electrolyzer,G_H2,447,30.0
+AWE electrolyzer,G_H2,448,30.0
+AWE electrolyzer,G_H2,449,30.0
+AWE electrolyzer,G_H2,450,30.0
+AWE electrolyzer,G_H2,451,30.0
+AWE electrolyzer,G_H2,452,30.0
+AWE electrolyzer,G_H2,453,30.0
+AWE electrolyzer,G_H2,454,30.0
+AWE electrolyzer,G_H2,455,30.0
+AWE electrolyzer,G_H2,456,30.0
+AWE electrolyzer,G_H2,457,30.0
+AWE electrolyzer,G_H2,458,30.0
+AWE electrolyzer,G_H2,459,30.0
+AWE electrolyzer,G_H2,460,30.0
+AWE electrolyzer,G_H2,461,30.0
+AWE electrolyzer,G_H2,462,30.0
+AWE electrolyzer,G_H2,463,30.0
+AWE electrolyzer,G_H2,464,30.0
+AWE electrolyzer,G_H2,465,30.0
+AWE electrolyzer,G_H2,466,30.0
+AWE electrolyzer,G_H2,467,30.0
+AWE electrolyzer,G_H2,468,30.0
+AWE electrolyzer,G_H2,469,30.0
+AWE electrolyzer,G_H2,470,30.0
+AWE electrolyzer,G_H2,471,30.0
+AWE electrolyzer,G_H2,472,30.0
+AWE electrolyzer,G_H2,473,30.0
+AWE electrolyzer,G_H2,474,30.0
+AWE electrolyzer,G_H2,475,30.0
+AWE electrolyzer,G_H2,476,30.0
+AWE electrolyzer,G_H2,477,30.0
+AWE electrolyzer,G_H2,478,30.0
+AWE electrolyzer,G_H2,479,30.0
+AWE electrolyzer,G_H2,480,30.0
+AWE electrolyzer,G_H2,481,30.0
+AWE electrolyzer,G_H2,482,30.0
+AWE electrolyzer,G_H2,483,30.0
+AWE electrolyzer,G_H2,484,30.0
+AWE electrolyzer,G_H2,485,30.0
+AWE electrolyzer,G_H2,486,30.0
+AWE electrolyzer,G_H2,487,30.0
+AWE electrolyzer,G_H2,488,30.0
+AWE electrolyzer,G_H2,489,30.0
+AWE electrolyzer,G_H2,490,30.0
+AWE electrolyzer,G_H2,491,30.0
+AWE electrolyzer,G_H2,492,30.0
+AWE electrolyzer,G_H2,493,30.0
+AWE electrolyzer,G_H2,494,30.0
+AWE electrolyzer,G_H2,495,30.0
+AWE electrolyzer,G_H2,496,30.0
+AWE electrolyzer,G_H2,497,30.0
+AWE electrolyzer,G_H2,498,30.0
+AWE electrolyzer,G_H2,499,30.0
+AWE electrolyzer,G_H2,500,30.0
+AWE electrolyzer,G_H2,501,30.0
+AWE electrolyzer,G_H2,502,30.0
+AWE electrolyzer,G_H2,503,30.0
+AWE electrolyzer,G_H2,504,30.0
+AWE electrolyzer,G_H2,505,30.0
+AWE electrolyzer,G_H2,506,30.0
+AWE electrolyzer,G_H2,507,30.0
+AWE electrolyzer,G_H2,508,30.0
+AWE electrolyzer,G_H2,509,30.0
+AWE electrolyzer,G_H2,510,30.0
+AWE electrolyzer,G_H2,511,30.0
+AWE electrolyzer,G_H2,512,30.0
+AWE electrolyzer,G_H2,513,30.0
+AWE electrolyzer,G_H2,514,30.0
+AWE electrolyzer,G_H2,515,30.0
+AWE electrolyzer,G_H2,516,30.0
+AWE electrolyzer,G_H2,517,30.0
+AWE electrolyzer,G_H2,518,30.0
+AWE electrolyzer,G_H2,519,30.0
+AWE electrolyzer,G_H2,520,30.0
+AWE electrolyzer,G_H2,521,30.0
+AWE electrolyzer,G_H2,522,30.0
+AWE electrolyzer,G_H2,523,30.0
+AWE electrolyzer,G_H2,524,30.0
+AWE electrolyzer,G_H2,525,30.0
+AWE electrolyzer,G_H2,526,30.0
+AWE electrolyzer,G_H2,527,30.0
+AWE electrolyzer,G_H2,528,30.0
+AWE electrolyzer,G_H2,529,30.0
+AWE electrolyzer,G_H2,530,30.0
+AWE electrolyzer,G_H2,531,30.0
+AWE electrolyzer,G_H2,532,30.0
+AWE electrolyzer,G_H2,533,30.0
+AWE electrolyzer,G_H2,534,30.0
+AWE electrolyzer,G_H2,535,30.0
+AWE electrolyzer,G_H2,536,30.0
+AWE electrolyzer,G_H2,537,30.0
+AWE electrolyzer,G_H2,538,30.0
+AWE electrolyzer,G_H2,539,30.0
+AWE electrolyzer,G_H2,540,30.0
+AWE electrolyzer,G_H2,541,30.0
+AWE electrolyzer,G_H2,542,30.0
+AWE electrolyzer,G_H2,543,30.0
+AWE electrolyzer,G_H2,544,30.0
+AWE electrolyzer,G_H2,545,30.0
+AWE electrolyzer,G_H2,546,30.0
+AWE electrolyzer,G_H2,547,30.0
+AWE electrolyzer,G_H2,548,30.0
+AWE electrolyzer,G_H2,549,30.0
+AWE electrolyzer,G_H2,550,30.0
+AWE electrolyzer,G_H2,551,30.0
+AWE electrolyzer,G_H2,552,30.0
+AWE electrolyzer,G_H2,553,30.0
+AWE electrolyzer,G_H2,554,30.0
+AWE electrolyzer,G_H2,555,30.0
+AWE electrolyzer,G_H2,556,30.0
+AWE electrolyzer,G_H2,557,30.0
+AWE electrolyzer,G_H2,558,30.0
+AWE electrolyzer,G_H2,559,30.0
+AWE electrolyzer,G_H2,560,30.0
+AWE electrolyzer,G_H2,561,30.0
+AWE electrolyzer,G_H2,562,30.0
+AWE electrolyzer,G_H2,563,30.0
+AWE electrolyzer,G_H2,564,30.0
+AWE electrolyzer,G_H2,565,30.0
+AWE electrolyzer,G_H2,566,30.0
+AWE electrolyzer,G_H2,567,30.0
+AWE electrolyzer,G_H2,568,30.0
+AWE electrolyzer,G_H2,569,30.0
+AWE electrolyzer,G_H2,570,30.0
+AWE electrolyzer,G_H2,571,30.0
+AWE electrolyzer,G_H2,572,30.0
+AWE electrolyzer,G_H2,573,30.0
+AWE electrolyzer,G_H2,574,30.0
+AWE electrolyzer,G_H2,575,30.0
+AWE electrolyzer,G_H2,576,30.0
+AWE electrolyzer,G_H2,577,30.0
+AWE electrolyzer,G_H2,578,30.0
+AWE electrolyzer,G_H2,579,30.0
+AWE electrolyzer,G_H2,580,30.0
+AWE electrolyzer,G_H2,581,30.0
+AWE electrolyzer,G_H2,582,30.0
+AWE electrolyzer,G_H2,583,30.0
+AWE electrolyzer,G_H2,584,30.0
+AWE electrolyzer,G_H2,585,30.0
+AWE electrolyzer,G_H2,586,30.0
+AWE electrolyzer,G_H2,587,30.0
+AWE electrolyzer,G_H2,588,30.0
+AWE electrolyzer,G_H2,589,30.0
+AWE electrolyzer,G_H2,590,30.0
+AWE electrolyzer,G_H2,591,30.0
+AWE electrolyzer,G_H2,592,30.0
+AWE electrolyzer,G_H2,593,30.0
+AWE electrolyzer,G_H2,594,30.0
+AWE electrolyzer,G_H2,595,30.0
+AWE electrolyzer,G_H2,596,30.0
+AWE electrolyzer,G_H2,597,30.0
+AWE electrolyzer,G_H2,598,30.0
+AWE electrolyzer,G_H2,599,30.0
+AWE electrolyzer,G_H2,600,30.0
+AWE electrolyzer,G_H2,601,30.0
+AWE electrolyzer,G_H2,602,30.0
+AWE electrolyzer,G_H2,603,30.0
+AWE electrolyzer,G_H2,604,30.0
+AWE electrolyzer,G_H2,605,30.0
+AWE electrolyzer,G_H2,606,30.0
+AWE electrolyzer,G_H2,607,30.0
+AWE electrolyzer,G_H2,608,30.0
+AWE electrolyzer,G_H2,609,30.0
+AWE electrolyzer,G_H2,610,30.0
+AWE electrolyzer,G_H2,611,30.0
+AWE electrolyzer,G_H2,612,30.0
+AWE electrolyzer,G_H2,613,30.0
+AWE electrolyzer,G_H2,614,30.0
+AWE electrolyzer,G_H2,615,30.0
+AWE electrolyzer,G_H2,616,30.0
+AWE electrolyzer,G_H2,617,30.0
+AWE electrolyzer,G_H2,618,30.0
+AWE electrolyzer,G_H2,619,30.0
+AWE electrolyzer,G_H2,620,30.0
+AWE electrolyzer,G_H2,621,30.0
+AWE electrolyzer,G_H2,622,30.0
+AWE electrolyzer,G_H2,623,30.0
+AWE electrolyzer,G_H2,624,30.0
+AWE electrolyzer,G_H2,625,30.0
+AWE electrolyzer,G_H2,626,30.0
+AWE electrolyzer,G_H2,627,30.0
+AWE electrolyzer,G_H2,628,30.0
+AWE electrolyzer,G_H2,629,30.0
+AWE electrolyzer,G_H2,630,30.0
+AWE electrolyzer,G_H2,631,30.0
+AWE electrolyzer,G_H2,632,30.0
+AWE electrolyzer,G_H2,633,30.0
+AWE electrolyzer,G_H2,634,30.0
+AWE electrolyzer,G_H2,635,30.0
+AWE electrolyzer,G_H2,636,30.0
+AWE electrolyzer,G_H2,637,30.0
+AWE electrolyzer,G_H2,638,30.0
+AWE electrolyzer,G_H2,639,30.0
+AWE electrolyzer,G_H2,640,30.0
+AWE electrolyzer,G_H2,641,30.0
+AWE electrolyzer,G_H2,642,30.0
+AWE electrolyzer,G_H2,643,30.0
+AWE electrolyzer,G_H2,644,30.0
+AWE electrolyzer,G_H2,645,30.0
+AWE electrolyzer,G_H2,646,30.0
+AWE electrolyzer,G_H2,647,30.0
+AWE electrolyzer,G_H2,648,30.0
+AWE electrolyzer,G_H2,649,30.0
+AWE electrolyzer,G_H2,650,30.0
+AWE electrolyzer,G_H2,651,30.0
+AWE electrolyzer,G_H2,652,30.0
+AWE electrolyzer,G_H2,653,30.0
+AWE electrolyzer,G_H2,654,30.0
+AWE electrolyzer,G_H2,655,30.0
+AWE electrolyzer,G_H2,656,30.0
+AWE electrolyzer,G_H2,657,30.0
+AWE electrolyzer,G_H2,658,30.0
+AWE electrolyzer,G_H2,659,30.0
+AWE electrolyzer,G_H2,660,30.0
+AWE electrolyzer,G_H2,661,30.0
+AWE electrolyzer,G_H2,662,30.0
+AWE electrolyzer,G_H2,663,30.0
+AWE electrolyzer,G_H2,664,30.0
+AWE electrolyzer,G_H2,665,30.0
+AWE electrolyzer,G_H2,666,30.0
+AWE electrolyzer,G_H2,667,30.0
+AWE electrolyzer,G_H2,668,30.0
+AWE electrolyzer,G_H2,669,30.0
+AWE electrolyzer,G_H2,670,30.0
+AWE electrolyzer,G_H2,671,30.0
+AWE electrolyzer,G_H2,672,30.0
+AWE electrolyzer,G_H2,673,30.0
+AWE electrolyzer,G_H2,674,30.0
+AWE electrolyzer,G_H2,675,30.0
+AWE electrolyzer,G_H2,676,30.0
+AWE electrolyzer,G_H2,677,30.0
+AWE electrolyzer,G_H2,678,30.0
+AWE electrolyzer,G_H2,679,30.0
+AWE electrolyzer,G_H2,680,30.0
+AWE electrolyzer,G_H2,681,30.0
+AWE electrolyzer,G_H2,682,30.0
+AWE electrolyzer,G_H2,683,30.0
+AWE electrolyzer,G_H2,684,30.0
+AWE electrolyzer,G_H2,685,30.0
+AWE electrolyzer,G_H2,686,30.0
+AWE electrolyzer,G_H2,687,30.0
+AWE electrolyzer,G_H2,688,30.0
+AWE electrolyzer,G_H2,689,30.0
+AWE electrolyzer,G_H2,690,30.0
+AWE electrolyzer,G_H2,691,30.0
+AWE electrolyzer,G_H2,692,30.0
+AWE electrolyzer,G_H2,693,30.0
+AWE electrolyzer,G_H2,694,30.0
+AWE electrolyzer,G_H2,695,30.0
+AWE electrolyzer,G_H2,696,30.0
+AWE electrolyzer,G_H2,697,30.0
+AWE electrolyzer,G_H2,698,30.0
+AWE electrolyzer,G_H2,699,30.0
+AWE electrolyzer,G_H2,700,30.0
+AWE electrolyzer,G_H2,701,30.0
+AWE electrolyzer,G_H2,702,30.000000000000004
+AWE electrolyzer,G_H2,703,30.000000000000004
+AWE electrolyzer,G_H2,704,30.000000000000004
+AWE electrolyzer,G_H2,705,30.0
+AWE electrolyzer,G_H2,706,30.000000000000004
+AWE electrolyzer,G_H2,707,30.000000000000004
+AWE electrolyzer,G_H2,708,30.0
+AWE electrolyzer,G_H2,709,30.0
+AWE electrolyzer,G_H2,710,30.0
+AWE electrolyzer,G_H2,711,30.0
+AWE electrolyzer,G_H2,712,30.0
+AWE electrolyzer,G_H2,713,30.0
+AWE electrolyzer,G_H2,714,30.0
+AWE electrolyzer,G_H2,715,30.0
+AWE electrolyzer,G_H2,716,30.0
+AWE electrolyzer,G_H2,717,30.0
+AWE electrolyzer,G_H2,718,30.0
+AWE electrolyzer,G_H2,719,30.0
+AWE electrolyzer,G_H2,720,30.0
+Battery 1,S_elec,0,54.749350782526946
+Battery 1,S_elec,1,34.446720944546094
+Battery 1,S_elec,2,18.560596847543554
+Battery 1,S_elec,3,8.998989726298875
+Battery 1,S_elec,4,3.0450625927290065
+Battery 1,S_elec,5,0.0
+Battery 1,S_elec,6,0.5881769107177607
+Battery 1,S_elec,7,4.723036029141634
+Battery 1,S_elec,8,12.383983036789626
+Battery 1,S_elec,9,23.20426136641791
+Battery 1,S_elec,10,36.500769754714185
+Battery 1,S_elec,11,51.31533790389755
+Battery 1,S_elec,12,66.46494250063242
+Battery 1,S_elec,13,80.59811536420044
+Battery 1,S_elec,14,92.25472098228639
+Battery 1,S_elec,15,99.92635439693514
+Battery 1,S_elec,16,102.11481645251328
+Battery 1,S_elec,17,102.10756630054516
+Battery 1,S_elec,18,102.10031666333784
+Battery 1,S_elec,19,102.55616650395336
+Battery 1,S_elec,20,103.34262751027754
+Battery 1,S_elec,21,103.6892083087662
+Battery 1,S_elec,22,102.94808155269907
+Battery 1,S_elec,23,100.6984372037725
+Battery 1,S_elec,24,96.84732089480916
+Battery 1,S_elec,25,91.56271453700056
+Battery 1,S_elec,26,85.25769687536386
+Battery 1,S_elec,27,78.56894259490007
+Battery 1,S_elec,28,72.33072878515345
+Battery 1,S_elec,29,67.54552176928843
+Battery 1,S_elec,30,65.35207644141522
+Battery 1,S_elec,31,63.445622892966604
+Battery 1,S_elec,32,60.44622281041455
+Battery 1,S_elec,33,57.69624325879811
+Battery 1,S_elec,34,55.33411736496046
+Battery 1,S_elec,35,49.625554700477316
+Battery 1,S_elec,36,41.797515290725194
+Battery 1,S_elec,37,32.96837268109405
+Battery 1,S_elec,38,24.11455489215327
+Battery 1,S_elec,39,16.03902606607538
+Battery 1,S_elec,40,9.342405542585063
+Battery 1,S_elec,41,4.3976819372956415
+Battery 1,S_elec,42,1.329614505180539
+Battery 1,S_elec,43,0.0
+Battery 1,S_elec,44,0.0
+Battery 1,S_elec,45,0.5591267207828703
+Battery 1,S_elec,46,0.8701110824889792
+Battery 1,S_elec,47,0.0
+Battery 1,S_elec,48,0.0
+Battery 1,S_elec,49,2.273880725970121
+Battery 1,S_elec,50,10.014398110304628
+Battery 1,S_elec,51,21.716968063714237
+Battery 1,S_elec,52,35.87660815379624
+Battery 1,S_elec,53,51.04689757106411
+Battery 1,S_elec,54,65.9004430768472
+Battery 1,S_elec,55,79.28826490374533
+Battery 1,S_elec,56,90.29533174729075
+Battery 1,S_elec,57,98.28942469822363
+Battery 1,S_elec,58,102.96061079326154
+Battery 1,S_elec,59,104.34886405542844
+Battery 1,S_elec,60,102.61490724512707
+Battery 1,S_elec,61,98.42112415045563
+Battery 1,S_elec,62,93.05869766578107
+Battery 1,S_elec,63,84.5776471192642
+Battery 1,S_elec,64,72.29840120384607
+Battery 1,S_elec,65,58.40398954558518
+Battery 1,S_elec,66,45.217978783496555
+Battery 1,S_elec,67,33.88981559826901
+Battery 1,S_elec,68,21.70608209679265
+Battery 1,S_elec,69,10.807032915468234
+Battery 1,S_elec,70,3.066513056012314
+Battery 1,S_elec,71,0.0
+Battery 1,S_elec,72,0.0
+Battery 1,S_elec,73,0.0
+Battery 1,S_elec,74,0.0
+Battery 1,S_elec,75,0.0
+Battery 1,S_elec,76,0.0
+Battery 1,S_elec,77,0.0
+Battery 1,S_elec,78,0.0
+Battery 1,S_elec,79,0.0
+Battery 1,S_elec,80,0.0
+Battery 1,S_elec,81,0.0
+Battery 1,S_elec,82,0.0
+Battery 1,S_elec,83,1.8539242430674387
+Battery 1,S_elec,84,19.563987581884387
+Battery 1,S_elec,85,37.27279350620428
+Battery 1,S_elec,86,54.98034210530354
+Battery 1,S_elec,87,72.68663346845227
+Battery 1,S_elec,88,89.36135103140556
+Battery 1,S_elec,89,99.71882212379197
+Battery 1,S_elec,90,104.34886405542844
+Battery 1,S_elec,91,104.34886405542836
+Battery 1,S_elec,92,98.28437706605385
+Battery 1,S_elec,93,84.6747360694442
+Battery 1,S_elec,94,66.13798829565351
+Battery 1,S_elec,95,45.52396246605433
+Battery 1,S_elec,96,25.783554706253746
+Battery 1,S_elec,97,9.83315424063806
+Battery 1,S_elec,98,0.4207280604979639
+Battery 1,S_elec,99,0.0
+Battery 1,S_elec,100,0.0
+Battery 1,S_elec,101,0.0
+Battery 1,S_elec,102,0.0
+Battery 1,S_elec,103,0.0
+Battery 1,S_elec,104,0.0
+Battery 1,S_elec,105,0.0
+Battery 1,S_elec,106,0.0
+Battery 1,S_elec,107,0.0
+Battery 1,S_elec,108,0.0
+Battery 1,S_elec,109,0.0
+Battery 1,S_elec,110,0.0
+Battery 1,S_elec,111,12.679588951391398
+Battery 1,S_elec,112,30.388883668014053
+Battery 1,S_elec,113,48.09692102471183
+Battery 1,S_elec,114,65.80370111075729
+Battery 1,S_elec,115,82.65575812261312
+Battery 1,S_elec,116,95.06373485346452
+Battery 1,S_elec,117,102.35983628979757
+Battery 1,S_elec,118,104.34886405542844
+Battery 1,S_elec,119,100.80878578076549
+Battery 1,S_elec,120,92.2521133175294
+Battery 1,S_elec,121,79.98719444541447
+Battery 1,S_elec,122,65.72133433654356
+Battery 1,S_elec,123,51.47496079575089
+Battery 1,S_elec,124,39.48454416338373
+Battery 1,S_elec,125,32.09916817115319
+Battery 1,S_elec,126,26.452484339153838
+Battery 1,S_elec,127,20.222372582619858
+Battery 1,S_elec,128,12.824226561277909
+Battery 1,S_elec,129,6.067881318218993
+Battery 1,S_elec,130,1.4289689697361299
+Battery 1,S_elec,131,0.0
+Battery 1,S_elec,132,2.1140486382959636
+Battery 1,S_elec,133,7.788863107562371
+Battery 1,S_elec,134,16.88464604916839
+Battery 1,S_elec,135,28.92404536978136
+Battery 1,S_elec,136,43.1260853572254
+Battery 1,S_elec,137,58.45074462310863
+Battery 1,S_elec,138,73.6515680959119
+Battery 1,S_elec,139,87.33352257657562
+Battery 1,S_elec,140,98.0132819931714
+Battery 1,S_elec,141,104.17924883991974
+Battery 1,S_elec,142,104.34886405542845
+Battery 1,S_elec,143,104.34145528608053
+Battery 1,S_elec,144,104.33404704275522
+Battery 1,S_elec,145,104.32907314861073
+Battery 1,S_elec,146,104.34886405542844
+Battery 1,S_elec,147,103.59191460356925
+Battery 1,S_elec,148,101.51037884617092
+Battery 1,S_elec,149,97.8323852964453
+Battery 1,S_elec,150,92.55379752023353
+Battery 1,S_elec,151,85.92679543265952
+Battery 1,S_elec,152,78.44199809086862
+Battery 1,S_elec,153,70.80532510661382
+Battery 1,S_elec,154,63.91073965359071
+Battery 1,S_elec,155,58.809902618382786
+Battery 1,S_elec,156,56.67961652327848
+Battery 1,S_elec,157,56.67559227050533
+Battery 1,S_elec,158,56.67156830345412
+Battery 1,S_elec,159,56.667544622104586
+Battery 1,S_elec,160,53.259413609893905
+Battery 1,S_elec,161,46.896937330357545
+Battery 1,S_elec,162,38.774073672710244
+Battery 1,S_elec,163,29.964813228095196
+Battery 1,S_elec,164,21.39036067819799
+Battery 1,S_elec,165,13.78840620322321
+Battery 1,S_elec,166,7.685339214543165
+Battery 1,S_elec,167,3.3724113540942073
+Battery 1,S_elec,168,0.8869764635934929
+Battery 1,S_elec,169,0.0
+Battery 1,S_elec,170,0.18133557578847692
+Battery 1,S_elec,171,0.6459072103700283
+Battery 1,S_elec,172,0.49272147505750513
+Battery 1,S_elec,173,0.0
+Battery 1,S_elec,174,0.0
+Battery 1,S_elec,175,4.456367163063176
+Battery 1,S_elec,176,13.84695346900048
+Battery 1,S_elec,177,26.660407914925624
+Battery 1,S_elec,178,41.40449273798606
+Battery 1,S_elec,179,56.6658220252239
+Battery 1,S_elec,180,71.17026483356469
+Battery 1,S_elec,181,83.84135071296977
+Battery 1,S_elec,182,93.85387418562904
+Battery 1,S_elec,183,100.67989469190438
+Battery 1,S_elec,184,104.12448167436547
+Battery 1,S_elec,185,104.34886405542844
+Battery 1,S_elec,186,101.47601947993117
+Battery 1,S_elec,187,96.49648517771314
+Battery 1,S_elec,188,90.82777485868897
+Battery 1,S_elec,189,86.23037315882699
+Battery 1,S_elec,190,84.57934203817118
+Battery 1,S_elec,191,75.80787627742383
+Battery 1,S_elec,192,62.2653762221685
+Battery 1,S_elec,193,46.30954260054736
+Battery 1,S_elec,194,30.20185606789324
+Battery 1,S_elec,195,16.00362098966986
+Battery 1,S_elec,196,5.477575745979666
+Battery 1,S_elec,197,0.0
+Battery 1,S_elec,198,0.0
+Battery 1,S_elec,199,0.0
+Battery 1,S_elec,200,0.0
+Battery 1,S_elec,201,0.0
+Battery 1,S_elec,202,0.0
+Battery 1,S_elec,203,0.0
+Battery 1,S_elec,204,0.0
+Battery 1,S_elec,205,0.0
+Battery 1,S_elec,206,0.0
+Battery 1,S_elec,207,0.0
+Battery 1,S_elec,208,11.059678155655043
+Battery 1,S_elec,209,28.7690878859442
+Battery 1,S_elec,210,46.47724024814251
+Battery 1,S_elec,211,64.1841353315231
+Battery 1,S_elec,212,81.88977322535277
+Battery 1,S_elec,213,95.75101645217158
+Battery 1,S_elec,214,103.15801097960514
+Battery 1,S_elec,215,104.34886405542845
+Battery 1,S_elec,216,99.39140925848514
+Battery 1,S_elec,217,89.55375497073045
+Battery 1,S_elec,218,76.81071719798672
+Battery 1,S_elec,219,63.558861111490565
+Battery 1,S_elec,220,52.507511368715946
+Battery 1,S_elec,221,45.029821004990914
+Battery 1,S_elec,222,34.142245745623214
+Battery 1,S_elec,223,21.710209246207402
+Battery 1,S_elec,224,10.396381448397946
+Battery 1,S_elec,225,2.5297685124764007
+Battery 1,S_elec,226,0.0
+Battery 1,S_elec,227,0.0
+Battery 1,S_elec,228,0.0
+Battery 1,S_elec,229,0.0
+Battery 1,S_elec,230,0.0
+Battery 1,S_elec,231,0.0
+Battery 1,S_elec,232,0.0
+Battery 1,S_elec,233,0.0
+Battery 1,S_elec,234,0.0
+Battery 1,S_elec,235,0.0
+Battery 1,S_elec,236,2.8878342769150636
+Battery 1,S_elec,237,20.597824208119608
+Battery 1,S_elec,238,38.306556730039034
+Battery 1,S_elec,239,56.01403193194941
+Battery 1,S_elec,240,73.72024990312045
+Battery 1,S_elec,241,88.86526853506447
+Battery 1,S_elec,242,99.24485354413835
+Battery 1,S_elec,243,104.34886405542844
+Battery 1,S_elec,244,104.10860760833818
+Battery 1,S_elec,245,98.18598425440369
+Battery 1,S_elec,246,87.5844981469254
+Battery 1,S_elec,247,73.75513114394825
+Battery 1,S_elec,248,58.52050335249314
+Battery 1,S_elec,249,43.98472788462879
+Battery 1,S_elec,250,32.43363823298461
+Battery 1,S_elec,251,26.230351323176777
+Battery 1,S_elec,252,22.449961233871687
+Battery 1,S_elec,253,16.092974296581705
+Battery 1,S_elec,254,9.155230929939764
+Battery 1,S_elec,255,3.3405308673599325
+Battery 1,S_elec,256,0.0
+Battery 1,S_elec,257,0.07678053463838595
+Battery 1,S_elec,258,3.5619518885465187
+Battery 1,S_elec,259,10.552049930192641
+Battery 1,S_elec,260,20.79055012377712
+Battery 1,S_elec,261,33.69344713556293
+Battery 1,S_elec,262,48.387040525727755
+Battery 1,S_elec,263,63.75551816694867
+Battery 1,S_elec,264,78.49564732410649
+Battery 1,S_elec,265,91.17575817605591
+Battery 1,S_elec,266,100.29623111331243
+Battery 1,S_elec,267,104.34886405542828
+Battery 1,S_elec,268,104.08635337487111
+Battery 1,S_elec,269,104.07896324378149
+Battery 1,S_elec,270,104.07157363739118
+Battery 1,S_elec,271,104.3488640554281
+Battery 1,S_elec,272,104.34145528608016
+Battery 1,S_elec,273,103.28107437871009
+Battery 1,S_elec,274,100.71534946907549
+Battery 1,S_elec,275,96.46307886422389
+Battery 1,S_elec,276,90.60775187412548
+Battery 1,S_elec,277,83.48382423998312
+Battery 1,S_elec,278,75.65693920525784
+Battery 1,S_elec,279,67.8992809946636
+Battery 1,S_elec,280,61.161171112294696
+Battery 1,S_elec,281,56.53988929940412
+Battery 1,S_elec,282,55.24654263780735
+Battery 1,S_elec,283,55.24262013328007
+Battery 1,S_elec,284,55.23869790725061
+Battery 1,S_elec,285,54.93567651252823
+Battery 1,S_elec,286,50.775009495646316
+Battery 1,S_elec,287,44.011267813618005
+Battery 1,S_elec,288,35.801648810047425
+Battery 1,S_elec,289,27.172159673669086
+Battery 1,S_elec,290,18.985416840982392
+Battery 1,S_elec,291,11.910803642965337
+Battery 1,S_elec,292,6.397892855027212
+Battery 1,S_elec,293,2.654186622321868
+Battery 1,S_elec,294,0.6283305274115609
+Battery 1,S_elec,295,0.0
+Battery 1,S_elec,296,0.15263233465154752
+Battery 1,S_elec,297,0.26203589842118213
+Battery 1,S_elec,298,0.0
+Battery 1,S_elec,299,0.0
+Battery 1,S_elec,300,0.6675620751669655
+Battery 1,S_elec,301,7.200029014415491
+Battery 1,S_elec,302,18.104794642967708
+Battery 1,S_elec,303,31.870274997472546
+Battery 1,S_elec,304,47.02386089565616
+Battery 1,S_elec,305,62.192163081668284
+Battery 1,S_elec,306,76.1610504234515
+Battery 1,S_elec,307,87.9327568154942
+Battery 1,S_elec,308,96.77723679683656
+Battery 1,S_elec,309,102.27500045573639
+Battery 1,S_elec,310,104.34886405542844
+Battery 1,S_elec,311,103.10905047684172
+Battery 1,S_elec,312,98.96874780322052
+Battery 1,S_elec,313,93.09111060738718
+Battery 1,S_elec,314,87.0148949298534
+Battery 1,S_elec,315,82.60229627146667
+Battery 1,S_elec,316,79.10081540923728
+Battery 1,S_elec,317,69.19519741299297
+Battery 1,S_elec,318,55.24899009804968
+Battery 1,S_elec,319,39.59913520127584
+Battery 1,S_elec,320,24.45108555814057
+Battery 1,S_elec,321,11.77616084250757
+Battery 1,S_elec,322,3.216148811112725
+Battery 1,S_elec,323,0.0
+Battery 1,S_elec,324,0.0
+Battery 1,S_elec,325,0.0
+Battery 1,S_elec,326,0.0
+Battery 1,S_elec,327,0.0
+Battery 1,S_elec,328,0.0
+Battery 1,S_elec,329,0.0
+Battery 1,S_elec,330,0.0
+Battery 1,S_elec,331,0.0
+Battery 1,S_elec,332,0.0
+Battery 1,S_elec,333,0.0
+Battery 1,S_elec,334,17.226580085723285
+Battery 1,S_elec,335,34.9355519659754
+Battery 1,S_elec,336,52.64326650922403
+Battery 1,S_elec,337,70.34972380474008
+Battery 1,S_elec,338,88.05492394178815
+Battery 1,S_elec,339,99.44866152709767
+Battery 1,S_elec,340,104.34886405542845
+Battery 1,S_elec,341,102.98113753066453
+Battery 1,S_elec,342,95.63017880532037
+Battery 1,S_elec,343,83.9403150847506
+Battery 1,S_elec,344,70.03909807575583
+Battery 1,S_elec,345,56.4411913433625
+Battery 1,S_elec,346,45.93371275540948
+Battery 1,S_elec,347,38.40383827192837
+Battery 1,S_elec,348,27.366801576285404
+Battery 1,S_elec,349,15.64018501541324
+Battery 1,S_elec,350,5.787252364700412
+Battery 1,S_elec,351,0.0
+Battery 1,S_elec,352,0.0
+Battery 1,S_elec,353,0.0
+Battery 1,S_elec,354,0.0
+Battery 1,S_elec,355,0.0
+Battery 1,S_elec,356,0.0
+Battery 1,S_elec,357,0.0
+Battery 1,S_elec,358,0.0
+Battery 1,S_elec,359,0.0
+Battery 1,S_elec,360,0.0
+Battery 1,S_elec,361,0.0
+Battery 1,S_elec,362,7.623713936315859
+Battery 1,S_elec,363,25.333367620064585
+Battery 1,S_elec,364,43.04176391840177
+Battery 1,S_elec,365,60.74890292060177
+Battery 1,S_elec,366,78.45478471593262
+Battery 1,S_elec,367,92.25483451268012
+Battery 1,S_elec,368,101.00318898127104
+Battery 1,S_elec,369,104.34886405542845
+Battery 1,S_elec,370,102.09871336777421
+Battery 1,S_elec,371,94.37730420841964
+Battery 1,S_elec,372,82.34595628441632
+Battery 1,S_elec,373,67.58983062837919
+Battery 1,S_elec,374,52.03678532165901
+Battery 1,S_elec,375,37.86345099927015
+Battery 1,S_elec,376,27.39332916636429
+Battery 1,S_elec,377,22.991913725533735
+Battery 1,S_elec,378,18.80867520959192
+Battery 1,S_elec,379,12.675130777040923
+Battery 1,S_elec,380,6.496655296905676
+Battery 1,S_elec,381,1.8642992008873065
+Battery 1,S_elec,382,0.0
+Battery 1,S_elec,383,1.4781605787027645
+Battery 1,S_elec,384,6.3745838306559275
+Battery 1,S_elec,385,14.665018140444133
+Battery 1,S_elec,386,25.97925998163016
+Battery 1,S_elec,387,39.63108331185171
+Battery 1,S_elec,388,54.65960618641736
+Battery 1,S_elec,389,69.87957410235363
+Battery 1,S_elec,390,83.93781050157595
+Battery 1,S_elec,391,95.37301171165376
+Battery 1,S_elec,392,102.67613856323064
+Battery 1,S_elec,393,104.34886405542862
+Battery 1,S_elec,394,104.27802272646588
+Battery 1,S_elec,395,104.2706189868523
+Battery 1,S_elec,396,104.26321577290423
+Battery 1,S_elec,397,104.34886405542844
+Battery 1,S_elec,398,103.77224752692636
+Battery 1,S_elec,399,101.88622974656002
+Battery 1,S_elec,400,98.3298299003371
+Battery 1,S_elec,401,93.01193977051727
+Battery 1,S_elec,402,86.10227827129015
+Battery 1,S_elec,403,78.01549644326947
+Battery 1,S_elec,404,69.38963162239556
+Battery 1,S_elec,405,61.06007900177798
+Battery 1,S_elec,406,54.03015250687408
+Battery 1,S_elec,407,49.43916574276393
+Battery 1,S_elec,408,48.52880060577576
+Battery 1,S_elec,409,48.525355060932746
+Battery 1,S_elec,410,48.521909760723425
+Battery 1,S_elec,411,47.79627651452798
+Battery 1,S_elec,412,43.56922882505137
+Battery 1,S_elec,413,37.066429000802046
+Battery 1,S_elec,414,29.404653667793564
+Battery 1,S_elec,415,21.55844806195198
+Battery 1,S_elec,416,14.328627355380606
+Battery 1,S_elec,417,8.31342323050387
+Battery 1,S_elec,418,3.8832346207107156
+Battery 1,S_elec,419,1.160075910551094
+Battery 1,S_elec,420,0.002901287219884459
+Battery 1,S_elec,421,-3.6350892714015456e-13
+Battery 1,S_elec,422,0.4035304239464112
+Battery 1,S_elec,423,0.40350177328631104
+Battery 1,S_elec,424,0.0
+Battery 1,S_elec,425,0.0
+Battery 1,S_elec,426,3.0784279436650253
+Battery 1,S_elec,427,11.461378309890481
+Battery 1,S_elec,428,23.643639826008513
+Battery 1,S_elec,429,38.12011583657607
+Battery 1,S_elec,430,53.44480823381495
+Battery 1,S_elec,431,68.29128556686452
+Battery 1,S_elec,432,81.51204712086643
+Battery 1,S_elec,433,92.19401104302906
+Battery 1,S_elec,434,99.70730658415293
+Battery 1,S_elec,435,103.74465272697711
+Battery 1,S_elec,436,104.34886405542845
+Battery 1,S_elec,437,101.53110132710461
+Battery 1,S_elec,438,96.08536954813762
+Battery 1,S_elec,439,89.30585885666387
+Battery 1,S_elec,440,82.84682986029716
+Battery 1,S_elec,441,78.66452170852433
+Battery 1,S_elec,442,73.42697364247378
+Battery 1,S_elec,443,62.502457193270814
+Battery 1,S_elec,444,48.25724429495081
+Battery 1,S_elec,445,32.99578955483177
+Battery 1,S_elec,446,18.856042314234404
+Battery 1,S_elec,447,7.708682753617231
+Battery 1,S_elec,448,1.0652645193754846
+Battery 1,S_elec,449,0.0
+Battery 1,S_elec,450,0.0
+Battery 1,S_elec,451,0.0
+Battery 1,S_elec,452,0.0
+Battery 1,S_elec,453,0.0
+Battery 1,S_elec,454,0.0
+Battery 1,S_elec,455,0.0
+Battery 1,S_elec,456,0.0
+Battery 1,S_elec,457,0.0
+Battery 1,S_elec,458,0.0
+Battery 1,S_elec,459,0.9020399425071064
+Battery 1,S_elec,460,17.790987839404245
+Battery 1,S_elec,461,35.49991964670585
+Battery 1,S_elec,462,53.20759411984914
+Battery 1,S_elec,463,70.91401134810485
+Battery 1,S_elec,464,88.57661862603072
+Battery 1,S_elec,465,99.7005499039567
+Battery 1,S_elec,466,104.34886405542844
+Battery 1,S_elec,467,102.91512752552187
+Battery 1,S_elec,468,95.91897457840135
+Battery 1,S_elec,469,85.17668589196403
+Battery 1,S_elec,470,72.95781799686172
+Battery 1,S_elec,471,61.88229685877763
+Battery 1,S_elec,472,54.80071270316474
+Battery 1,S_elec,473,43.88918294873572
+Battery 1,S_elec,474,30.36608893452688
+Battery 1,S_elec,475,16.977494547220026
+Battery 1,S_elec,476,6.17416144990055
+Battery 1,S_elec,477,0.0
+Battery 1,S_elec,478,0.0
+Battery 1,S_elec,479,0.0
+Battery 1,S_elec,480,0.0
+Battery 1,S_elec,481,0.0
+Battery 1,S_elec,482,0.0
+Battery 1,S_elec,483,0.0
+Battery 1,S_elec,484,0.0
+Battery 1,S_elec,485,0.0
+Battery 1,S_elec,486,0.0
+Battery 1,S_elec,487,0.0
+Battery 1,S_elec,488,14.324680295667426
+Battery 1,S_elec,489,32.03385821080464
+Battery 1,S_elec,490,49.74177877430988
+Battery 1,S_elec,491,67.44844207545512
+Battery 1,S_elec,492,84.14899720755415
+Battery 1,S_elec,493,96.2296882996368
+Battery 1,S_elec,494,103.02669318562413
+Battery 1,S_elec,495,104.34886405542802
+Battery 1,S_elec,496,99.84212140248562
+Battery 1,S_elec,497,90.1323716966423
+Battery 1,S_elec,498,76.53165661257772
+Battery 1,S_elec,499,60.75027973011031
+Battery 1,S_elec,500,44.81085124766509
+Battery 1,S_elec,501,30.951129590749684
+Battery 1,S_elec,502,21.520558347860682
+Battery 1,S_elec,503,18.87550701774437
+Battery 1,S_elec,504,14.527730428377243
+Battery 1,S_elec,505,8.831543396252838
+Battery 1,S_elec,506,3.593925989785212
+Battery 1,S_elec,507,0.28714567762400867
+Battery 1,S_elec,508,0.0
+Battery 1,S_elec,509,2.9283679078515656
+Battery 1,S_elec,510,9.247264578520562
+Battery 1,S_elec,511,18.81366545164486
+Battery 1,S_elec,512,31.147242028534862
+Battery 1,S_elec,513,45.464398188322406
+Battery 1,S_elec,514,60.722931366290105
+Battery 1,S_elec,515,75.67470354836702
+Battery 1,S_elec,516,88.92353071639003
+Battery 1,S_elec,517,98.98547733886258
+Battery 1,S_elec,518,104.34886405542844
+Battery 1,S_elec,519,104.08923154354169
+Battery 1,S_elec,520,104.08184120810209
+Battery 1,S_elec,521,104.07445139737631
+Battery 1,S_elec,522,104.28881802329472
+Battery 1,S_elec,523,104.34886405542844
+Battery 1,S_elec,524,103.43259152556804
+Battery 1,S_elec,525,100.98788659163574
+Battery 1,S_elec,526,96.74520658786456
+Battery 1,S_elec,527,90.70267822558394
+Battery 1,S_elec,528,83.11461626568996
+Battery 1,S_elec,529,74.47359434211889
+Battery 1,S_elec,530,65.48726489747695
+Battery 1,S_elec,531,57.05107042880403
+Battery 1,S_elec,532,50.21787438316104
+Battery 1,S_elec,533,46.16538889202866
+Battery 1,S_elec,534,46.16211114941733
+Battery 1,S_elec,535,46.158833639525724
+Battery 1,S_elec,536,46.155556362337315
+Battery 1,S_elec,537,44.67173006200617
+Battery 1,S_elec,538,40.04330769259586
+Battery 1,S_elec,539,33.46330265429345
+Battery 1,S_elec,540,26.004466338988472
+Battery 1,S_elec,541,18.586484816066505
+Battery 1,S_elec,542,11.945272378298158
+Battery 1,S_elec,543,6.605215708071478
+Battery 1,S_elec,544,2.855376861721082
+Battery 1,S_elec,545,0.7307836278615192
+Battery 1,S_elec,546,0.0
+Battery 1,S_elec,547,0.13762871871035426
+Battery 1,S_elec,548,0.37856365392670716
+Battery 1,S_elec,549,0.0
+Battery 1,S_elec,550,0.0
+Battery 1,S_elec,551,0.0
+Battery 1,S_elec,552,5.307590838089428
+Battery 1,S_elec,553,15.362957757308926
+Battery 1,S_elec,554,28.654689429156853
+Battery 1,S_elec,555,43.69101146650374
+Battery 1,S_elec,556,59.059541962022806
+Battery 1,S_elec,557,73.4876888883643
+Battery 1,S_elec,558,85.90102542764919
+Battery 1,S_elec,559,95.47683913732789
+Battery 1,S_elec,560,101.69005213766847
+Battery 1,S_elec,561,104.34886405542845
+Battery 1,S_elec,562,103.49931581697442
+Battery 1,S_elec,563,99.32095341461513
+Battery 1,S_elec,564,92.84592965865117
+Battery 1,S_elec,565,85.49510624263087
+Battery 1,S_elec,566,79.03182917592231
+Battery 1,S_elec,567,75.49811366610503
+Battery 1,S_elec,568,68.56922820204052
+Battery 1,S_elec,569,56.68956232581059
+Battery 1,S_elec,570,42.21651609409137
+Battery 1,S_elec,571,27.410340192631494
+Battery 1,S_elec,572,14.330207056195505
+Battery 1,S_elec,573,4.735892999334593
+Battery 1,S_elec,574,0.0
+Battery 1,S_elec,575,0.0
+Battery 1,S_elec,576,0.0
+Battery 1,S_elec,577,0.0
+Battery 1,S_elec,578,0.0
+Battery 1,S_elec,579,0.0
+Battery 1,S_elec,580,0.0
+Battery 1,S_elec,581,0.0
+Battery 1,S_elec,582,0.0
+Battery 1,S_elec,583,0.0
+Battery 1,S_elec,584,0.0
+Battery 1,S_elec,585,2.3186032319497514
+Battery 1,S_elec,586,20.028633578558487
+Battery 1,S_elec,587,37.737406513012616
+Battery 1,S_elec,588,55.4449221245884
+Battery 1,S_elec,589,73.15118050255576
+Battery 1,S_elec,590,90.09435031801834
+Battery 1,S_elec,591,100.41257881461125
+Battery 1,S_elec,592,104.34886405542844
+Battery 1,S_elec,593,102.39881260657617
+Battery 1,S_elec,594,95.38614832080961
+Battery 1,S_elec,595,85.29004311235025
+Battery 1,S_elec,596,73.53575675813987
+Battery 1,S_elec,597,57.57414842809839
+Battery 1,S_elec,598,40.305035277196104
+Battery 1,S_elec,599,24.682730452971345
+Battery 1,S_elec,600,13.580301974202683
+Battery 1,S_elec,601,5.155277084448451
+Battery 1,S_elec,602,0.0
+Battery 1,S_elec,603,0.0
+Battery 1,S_elec,604,0.0
+Battery 1,S_elec,605,0.0
+Battery 1,S_elec,606,0.0
+Battery 1,S_elec,607,0.0
+Battery 1,S_elec,608,0.0
+Battery 1,S_elec,609,0.0
+Battery 1,S_elec,610,0.0
+Battery 1,S_elec,611,0.0
+Battery 1,S_elec,612,0.0
+Battery 1,S_elec,613,0.0
+Battery 1,S_elec,614,15.136310587779898
+Battery 1,S_elec,615,32.84543087716637
+Battery 1,S_elec,616,50.553293819012296
+Battery 1,S_elec,617,68.25989950258935
+Battery 1,S_elec,618,85.07525027703451
+Battery 1,S_elec,619,96.95329898591406
+Battery 1,S_elec,620,103.38833531398228
+Battery 1,S_elec,621,104.34886405542844
+Battery 1,S_elec,622,99.6007592981278
+Battery 1,S_elec,623,89.99362156281119
+Battery 1,S_elec,624,76.98238484461719
+Battery 1,S_elec,625,62.392880742293215
+Battery 1,S_elec,626,48.33158649898884
+Battery 1,S_elec,627,37.08578887331068
+Battery 1,S_elec,628,26.74994184592814
+Battery 1,S_elec,629,17.693693673582104
+Battery 1,S_elec,630,12.12669961978937
+Battery 1,S_elec,631,6.6869868593077255
+Battery 1,S_elec,632,2.1953869274757465
+Battery 1,S_elec,633,0.0
+Battery 1,S_elec,634,0.9050618976074062
+Battery 1,S_elec,635,5.05978413333523
+Battery 1,S_elec,636,12.557783437306512
+Battery 1,S_elec,637,23.139786498222662
+Battery 1,S_elec,638,36.21932741339383
+Battery 1,S_elec,639,50.9206315259222
+Battery 1,S_elec,640,66.12627410518184
+Battery 1,S_elec,641,80.53192200484773
+Battery 1,S_elec,642,92.70534266136069
+Battery 1,S_elec,643,101.14689264794018
+Battery 1,S_elec,644,104.34886405542827
+Battery 1,S_elec,645,103.94722459417173
+Battery 1,S_elec,646,103.93984434122554
+Battery 1,S_elec,647,103.94857026105876
+Battery 1,S_elec,648,104.34886405542844
+Battery 1,S_elec,649,104.29435278255067
+Battery 1,S_elec,650,102.9993703612969
+Battery 1,S_elec,651,100.01434703316288
+Battery 1,S_elec,652,95.16086434004697
+Battery 1,S_elec,653,88.52510652914445
+Battery 1,S_elec,654,80.44407690494509
+Battery 1,S_elec,655,71.48577050266653
+Battery 1,S_elec,656,62.424489460823416
+Battery 1,S_elec,657,54.21241056010609
+Battery 1,S_elec,658,47.948385459515066
+Battery 1,S_elec,659,44.84479564539935
+Battery 1,S_elec,660,44.84161166490852
+Battery 1,S_elec,661,44.83842791048031
+Battery 1,S_elec,662,44.83524438209867
+Battery 1,S_elec,663,42.44447918331877
+Battery 1,S_elec,664,37.28455507614699
+Battery 1,S_elec,665,30.512087524464537
+Battery 1,S_elec,666,23.15221109158512
+Battery 1,S_elec,667,16.06639626553843
+Battery 1,S_elec,668,9.922631867911239
+Battery 1,S_elec,669,5.168881116408047
+Battery 1,S_elec,670,2.010864955682342
+Battery 1,S_elec,671,0.39533009757218884
+Battery 1,S_elec,672,0.0
+Battery 1,S_elec,673,0.1988203779852907
+Battery 1,S_elec,674,0.19880626173845375
+Battery 1,S_elec,675,0.0
+Battery 1,S_elec,676,0.0
+Battery 1,S_elec,677,0.0
+Battery 1,S_elec,678,0.0
+Battery 1,S_elec,679,0.0
+Battery 1,S_elec,680,4.212281487011622
+Battery 1,S_elec,681,21.92217738246425
+Battery 1,S_elec,682,39.6308158753083
+Battery 1,S_elec,683,57.33819705481936
+Battery 1,S_elec,684,73.37898205370227
+Battery 1,S_elec,685,86.34347801679513
+Battery 1,S_elec,686,95.81554728555511
+Battery 1,S_elec,687,101.72158647144953
+Battery 1,S_elec,688,104.34886405542844
+Battery 1,S_elec,689,104.34886405542838
+Battery 1,S_elec,690,99.68958514697414
+Battery 1,S_elec,691,88.44698500453407
+Battery 1,S_elec,692,72.48681159804477
+Battery 1,S_elec,693,53.92841717039598
+Battery 1,S_elec,694,35.06093365802731
+Battery 1,S_elec,695,18.24821961089566
+Battery 1,S_elec,696,5.826603734079256
+Battery 1,S_elec,697,0.0
+Battery 1,S_elec,698,0.0
+Battery 1,S_elec,699,0.0
+Battery 1,S_elec,700,0.0
+Battery 1,S_elec,701,0.0
+Battery 1,S_elec,702,0.8844817601367252
+Battery 1,S_elec,703,4.535851340117468
+Battery 1,S_elec,704,9.911881906613761
+Battery 1,S_elec,705,15.688024679442153
+Battery 1,S_elec,706,20.31022967469725
+Battery 1,S_elec,707,22.056915935573667
+Battery 1,S_elec,708,22.055349894542243
+Battery 1,S_elec,709,22.053783964699733
+Battery 1,S_elec,710,22.05221814603824
+Battery 1,S_elec,711,37.43822453547489
+Battery 1,S_elec,712,55.145761388971074
+Battery 1,S_elec,713,72.85204100735066
+Battery 1,S_elec,714,89.43626721811425
+Battery 1,S_elec,715,100.14708851441448
+Battery 1,S_elec,716,104.34886405542845
+Battery 1,S_elec,717,101.53550778010835
+Battery 1,S_elec,718,91.50927838480601
+Battery 1,S_elec,719,75.36403166120508
+Battery 1,S_elec,720,54.749350782526946
+Battery 1,dS_elec,1,-18.816934421787796
+Battery 1,dS_elec,2,-14.724169858088956
+Battery 1,dS_elec,3,-8.8623881985911
+Battery 1,dS_elec,4,-5.518698166312455
+Battery 1,dS_elec,5,-2.8225726065751235
+Battery 1,dS_elec,6,0.6344950493179684
+Battery 1,dS_elec,7,4.460518747556134
+Battery 1,dS_elec,8,8.264597996986028
+Battery 1,dS_elec,9,11.673309161190835
+Battery 1,dS_elec,10,14.345367735548324
+Battery 1,dS_elec,11,15.983991050524219
+Battery 1,dS_elec,12,16.346545831419682
+Battery 1,dS_elec,13,15.25123179556154
+Battery 1,dS_elec,14,12.580720695012724
+Battery 1,dS_elec,15,8.282830096913154
+Battery 1,dS_elec,16,2.3684539662786657
+Battery 1,dS_elec,17,0.0
+Battery 1,dS_elec,18,0.0
+Battery 1,dS_elec,19,0.4995673819834035
+Battery 1,dS_elec,20,0.8562486452491452
+Battery 1,dS_elec,21,0.3817887001530589
+Battery 1,dS_elec,22,-0.6801999902509847
+Battery 1,dS_elec,23,-2.078644577571375
+Battery 1,dS_elec,24,-3.563357149367592
+Battery 1,dS_elec,25,-4.892455893569215
+Battery 1,dS_elec,26,-5.838724989154526
+Battery 1,dS_elec,27,-6.194863812154702
+Battery 1,dS_elec,28,-5.777653029540336
+Battery 1,dS_elec,29,-4.431126312130434
+Battery 1,dS_elec,30,-2.0288781753320424
+Battery 1,dS_elec,31,-1.7629811617967441
+Battery 1,dS_elec,32,-2.7762680759638316
+Battery 1,dS_elec,33,-2.5452526553017365
+Battery 1,dS_elec,34,-2.1858933099449303
+Battery 1,dS_elec,35,-5.288195664373259
+Battery 1,dS_elec,36,-7.253326327706482
+Battery 1,dS_elec,37,-8.181864212064182
+Battery 1,dS_elec,38,-8.205319210963362
+Battery 1,dS_elec,39,-7.484428074114844
+Battery 1,dS_elec,40,-6.206711584696932
+Battery 1,dS_elec,41,-4.583143892997688
+Battery 1,dS_elec,42,-2.8438090673387273
+Battery 1,dS_elec,43,-1.2324651350644626
+Battery 1,dS_elec,44,0.0
+Battery 1,dS_elec,45,0.6031571960980262
+Battery 1,dS_elec,46,0.3355167850089367
+Battery 1,dS_elec,47,-0.8065357053661677
+Battery 1,dS_elec,48,0.0
+Battery 1,dS_elec,49,2.4529457669580594
+Battery 1,dS_elec,50,8.35024684990944
+Battery 1,dS_elec,51,12.624898571386664
+Battery 1,dS_elec,52,15.276355981461192
+Battery 1,dS_elec,53,16.367677083545612
+Battery 1,dS_elec,54,16.027151926117188
+Battery 1,dS_elec,55,14.447142134149486
+Battery 1,dS_elec,56,11.879931294879801
+Battery 1,dS_elec,57,8.630532814980503
+Battery 1,dS_elec,58,5.046563801716802
+Battery 1,dS_elec,59,1.505462206616208
+Battery 1,dS_elec,60,-1.6005100339638336
+Battery 1,dS_elec,61,-3.880883123410266
+Battery 1,dS_elec,62,-4.964491568165115
+Battery 1,dS_elec,63,-7.855809012316876
+Battery 1,dS_elec,64,-11.377294316592158
+Battery 1,dS_elec,65,-12.875361143335809
+Battery 1,dS_elec,66,-12.219588001076247
+Battery 1,dS_elec,67,-10.498231160996347
+Battery 1,dS_elec,68,-11.292090429875357
+Battery 1,dS_elec,69,-10.10198996188237
+Battery 1,dS_elec,70,-7.174750623230244
+Battery 1,dS_elec,71,-2.8424557742336076
+Battery 1,dS_elec,72,0.0
+Battery 1,dS_elec,73,0.0
+Battery 1,dS_elec,74,0.0
+Battery 1,dS_elec,75,0.0
+Battery 1,dS_elec,76,0.0
+Battery 1,dS_elec,77,0.0
+Battery 1,dS_elec,78,0.0
+Battery 1,dS_elec,79,0.0
+Battery 1,dS_elec,80,0.0
+Battery 1,dS_elec,81,0.0
+Battery 1,dS_elec,82,0.0
+Battery 1,dS_elec,83,1.9999182773111526
+Battery 1,dS_elec,84,19.104848940062787
+Battery 1,dS_elec,85,19.104848940062787
+Battery 1,dS_elec,86,19.104848940062787
+Battery 1,dS_elec,87,19.104848940062787
+Battery 1,dS_elec,88,17.993396239406202
+Battery 1,dS_elec,89,11.179952263548694
+Battery 1,dS_elec,90,5.0022890701264835
+Battery 1,dS_elec,91,0.007992199943745195
+Battery 1,dS_elec,92,-5.614911509964647
+Battery 1,dS_elec,93,-12.609668421011804
+Battery 1,dS_elec,94,-17.17799214920008
+Battery 1,dS_elec,95,-19.104848940062787
+Battery 1,dS_elec,96,-18.296361742697517
+Battery 1,dS_elec,97,-14.78432423540564
+Battery 1,dS_elec,98,-8.724671880277214
+Battery 1,dS_elec,99,-0.3899872210228547
+Battery 1,dS_elec,100,0.0
+Battery 1,dS_elec,101,0.0
+Battery 1,dS_elec,102,0.0
+Battery 1,dS_elec,103,0.0
+Battery 1,dS_elec,104,0.0
+Battery 1,dS_elec,105,0.0
+Battery 1,dS_elec,106,0.0
+Battery 1,dS_elec,107,0.0
+Battery 1,dS_elec,108,0.0
+Battery 1,dS_elec,109,0.0
+Battery 1,dS_elec,110,0.0
+Battery 1,dS_elec,111,13.678089483701614
+Battery 1,dS_elec,112,19.104848940062787
+Battery 1,dS_elec,113,19.104848940062787
+Battery 1,dS_elec,114,19.104848940062787
+Battery 1,dS_elec,115,18.184173759045
+Battery 1,dS_elec,116,13.391418866966662
+Battery 1,dS_elec,117,7.877940627300593
+Battery 1,dS_elec,118,2.1535008781094236
+Battery 1,dS_elec,119,-3.2747846314270124
+Battery 1,dS_elec,120,-7.925400441566123
+Battery 1,dS_elec,121,-11.363508037108337
+Battery 1,dS_elec,122,-13.219187803746518
+Battery 1,dS_elec,123,-13.202062691252781
+Battery 1,dS_elec,124,-11.111728290709664
+Battery 1,dS_elec,125,-6.843644790554509
+Battery 1,dS_elec,126,-5.232363241311878
+Battery 1,dS_elec,127,-5.773572575145253
+Battery 1,dS_elec,128,-6.856750385887717
+Battery 1,dS_elec,129,-6.262287988196032
+Battery 1,dS_elec,130,-4.299872377298893
+Battery 1,dS_elec,131,-1.3245601844947112
+Battery 1,dS_elec,132,2.280527117902873
+Battery 1,dS_elec,133,6.121860374023437
+Battery 1,dS_elec,134,9.8126601411938
+Battery 1,dS_elec,135,12.988778997284209
+Battery 1,dS_elec,136,15.322646811936668
+Battery 1,dS_elec,137,16.534758595408395
+Battery 1,dS_elec,138,16.40234463394984
+Battery 1,dS_elec,139,14.765031005392169
+Battery 1,dS_elec,140,11.527465044982424
+Battery 1,dS_elec,141,6.6590353719199955
+Battery 1,dS_elec,142,0.19095139393349603
+Battery 1,dS_elec,143,0.0
+Battery 1,dS_elec,144,0.0
+Battery 1,dS_elec,145,0.002625483490346673
+Battery 1,dS_elec,146,0.029340098178250257
+Battery 1,dS_elec,147,-0.6948242126879373
+Battery 1,dS_elec,148,-1.9227655380647903
+Battery 1,dS_elec,149,-3.4028189119911527
+Battery 1,dS_elec,150,-4.886811834445248
+Battery 1,dS_elec,151,-6.137139321889737
+Battery 1,dS_elec,152,-6.932751691945178
+Battery 1,dS_elec,153,-7.074033039415866
+Battery 1,dS_elec,154,-6.38662052086988
+Battery 1,dS_elec,155,-4.72426951848597
+Battery 1,dS_elec,156,-1.9709045188010617
+Battery 1,dS_elec,157,0.0
+Battery 1,dS_elec,158,0.0
+Battery 1,dS_elec,159,0.0
+Battery 1,dS_elec,160,-3.1556077605349095
+Battery 1,dS_elec,161,-5.894510136304643
+Battery 1,dS_elec,162,-7.526807994914783
+Battery 1,dS_elec,163,-8.163632438951232
+Battery 1,dS_elec,164,-7.946545319642476
+Battery 1,dS_elec,165,-7.045603948932867
+Battery 1,dS_elec,166,-5.656635586975327
+Battery 1,dS_elec,167,-3.9975783006651016
+Battery 1,dS_elec,168,-2.3037761814960707
+Battery 1,dS_elec,169,-0.8221688036212638
+Battery 1,dS_elec,170,0.19561550786243462
+Battery 1,dS_elec,171,0.5011699130608763
+Battery 1,dS_elec,172,-0.14196066495984414
+Battery 1,dS_elec,173,-0.45672037792898346
+Battery 1,dS_elec,174,0.0
+Battery 1,dS_elec,175,4.807300068029317
+Battery 1,dS_elec,176,10.130423633231803
+Battery 1,dS_elec,177,13.823557259570057
+Battery 1,dS_elec,178,15.90720357283969
+Battery 1,dS_elec,179,16.466309607575223
+Battery 1,dS_elec,180,15.650988221903528
+Battery 1,dS_elec,181,13.674367818994888
+Battery 1,dS_elec,182,10.807417700711852
+Battery 1,dS_elec,183,7.370748793249734
+Battery 1,dS_elec,184,3.723554751870763
+Battery 1,dS_elec,185,0.2500272052447098
+Battery 1,dS_elec,186,-2.6562589923004416
+Battery 1,dS_elec,187,-4.6093494509820125
+Battery 1,dS_elec,188,-5.248543356570483
+Battery 1,dS_elec,189,-4.255813364114183
+Battery 1,dS_elec,190,-1.524830424377752
+Battery 1,dS_elec,191,-8.125582001657863
+Battery 1,dS_elec,192,-12.548908104228751
+Battery 1,dS_elec,193,-14.786959646975985
+Battery 1,dS_elec,194,-14.92877746060503
+Battery 1,dS_elec,195,-13.159776121952257
+Battery 1,dS_elec,196,-9.756590630578131
+Battery 1,dS_elec,197,-5.077352198920279
+Battery 1,dS_elec,198,0.0
+Battery 1,dS_elec,199,0.0
+Battery 1,dS_elec,200,0.0
+Battery 1,dS_elec,201,0.0
+Battery 1,dS_elec,202,0.0
+Battery 1,dS_elec,203,0.0
+Battery 1,dS_elec,204,0.0
+Battery 1,dS_elec,205,0.0
+Battery 1,dS_elec,206,0.0
+Battery 1,dS_elec,207,0.0
+Battery 1,dS_elec,208,11.930612897146757
+Battery 1,dS_elec,209,19.104848940062787
+Battery 1,dS_elec,210,19.104848940062787
+Battery 1,dS_elec,211,19.104848940062787
+Battery 1,dS_elec,212,19.104848940062787
+Battery 1,dS_elec,213,14.959069472187501
+Battery 1,dS_elec,214,7.997619039483988
+Battery 1,dS_elec,215,1.2925321408876909
+Battery 1,dS_elec,216,-4.588692667580918
+Battery 1,dS_elec,217,-9.112963880365427
+Battery 1,dS_elec,218,-11.806901855842534
+Battery 1,dS_elec,219,-12.279415141208107
+Battery 1,dS_elec,220,-10.240417957990296
+Battery 1,dS_elec,221,-6.928363080297347
+Battery 1,dS_elec,222,-10.089818537704772
+Battery 1,dS_elec,223,-11.522250694770216
+Battery 1,dS_elec,224,-10.486489467727406
+Battery 1,dS_elec,225,-7.291665932961485
+Battery 1,dS_elec,226,-2.344928909291438
+Battery 1,dS_elec,227,0.0
+Battery 1,dS_elec,228,0.0
+Battery 1,dS_elec,229,0.0
+Battery 1,dS_elec,230,0.0
+Battery 1,dS_elec,231,0.0
+Battery 1,dS_elec,232,0.0
+Battery 1,dS_elec,233,0.0
+Battery 1,dS_elec,234,0.0
+Battery 1,dS_elec,235,0.0
+Battery 1,dS_elec,236,3.11524733216296
+Battery 1,dS_elec,237,19.104848940062787
+Battery 1,dS_elec,238,19.104848940062787
+Battery 1,dS_elec,239,19.104848940062787
+Battery 1,dS_elec,240,19.104848940062787
+Battery 1,dS_elec,241,16.343314746156587
+Battery 1,dS_elec,242,11.203769625825094
+Battery 1,dS_elec,243,5.513545734511012
+Battery 1,dS_elec,244,-0.21584979726714468
+Battery 1,dS_elec,245,-5.483419732870316
+Battery 1,dS_elec,246,-9.821115314706704
+Battery 1,dS_elec,247,-12.814058662845289
+Battery 1,dS_elec,248,-14.117645621212388
+Battery 1,dS_elec,249,-13.470812214741096
+Battery 1,dS_elec,250,-10.704965164238981
+Battery 1,dS_elec,251,-5.748312280624288
+Battery 1,dS_elec,252,-3.50269520975278
+Battery 1,dS_elec,253,-5.891449301769285
+Battery 1,dS_elec,254,-6.430228909587802
+Battery 1,dS_elec,255,-5.389624388177389
+Battery 1,dS_elec,256,-3.0964522503225607
+Battery 1,dS_elec,257,0.08282689820753608
+Battery 1,dS_elec,258,3.759629779208298
+Battery 1,dS_elec,259,7.540831650733776
+Battery 1,dS_elec,260,11.045576471552883
+Battery 1,dS_elec,261,13.920575124967199
+Battery 1,dS_elec,262,15.853274676279888
+Battery 1,dS_elec,263,16.58243055134653
+Battery 1,dS_elec,264,15.905777560892846
+Battery 1,dS_elec,265,13.684664555457829
+Battery 1,dS_elec,266,9.845681139252457
+Battery 1,dS_elec,267,4.37945412570106
+Battery 1,dS_elec,268,-0.23647947169097422
+Battery 1,dS_elec,269,0.0
+Battery 1,dS_elec,270,0.0
+Battery 1,dS_elec,271,0.30709762649964784
+Battery 1,dS_elec,272,0.0
+Battery 1,dS_elec,273,-0.9761056595694872
+Battery 1,dS_elec,274,-2.371629340758884
+Battery 1,dS_elec,275,-3.935226068541436
+Battery 1,dS_elec,276,-5.421539209359626
+Battery 1,dS_elec,277,-6.597917386444868
+Battery 1,dS_elec,278,-7.250027772330329
+Battery 1,dS_elec,279,-7.186369648453189
+Battery 1,dS_elec,280,-6.2417589339787485
+Battery 1,dS_elec,281,-4.279902795750469
+Battery 1,dS_elec,282,-1.1952110694061788
+Battery 1,dS_elec,283,0.0
+Battery 1,dS_elec,284,0.0
+Battery 1,dS_elec,285,-0.27726518752748625
+Battery 1,dS_elec,286,-3.8533226232285136
+Battery 1,dS_elec,287,-6.266646680440271
+Battery 1,dS_elec,288,-7.607420126696236
+Battery 1,dS_elec,289,-7.9971800723029896
+Battery 1,dS_elec,290,-7.5873222158673235
+Battery 1,dS_elec,291,-6.556916871381587
+Battery 1,dS_elec,292,-5.109684367055275
+Battery 1,dS_elec,293,-3.4699945876038156
+Battery 1,dS_elec,294,-1.877793909380933
+Battery 1,dS_elec,295,-0.5824210440801944
+Battery 1,dS_elec,296,0.16465192519045044
+Battery 1,dS_elec,297,0.11803063717949822
+Battery 1,dS_elec,298,-0.2428900314197095
+Battery 1,dS_elec,299,0.0
+Battery 1,dS_elec,300,0.7201316884217537
+Battery 1,dS_elec,301,7.046941031451846
+Battery 1,dS_elec,302,11.76405267595711
+Battery 1,dS_elec,303,14.850880037674745
+Battery 1,dS_elec,304,16.349351335176316
+Battery 1,dS_elec,305,16.366387141462464
+Battery 1,dS_elec,306,15.073681753357063
+Battery 1,dS_elec,307,12.704545659787243
+Battery 1,dS_elec,308,9.547705725001345
+Battery 1,dS_elec,309,5.938117413929241
+Battery 1,dS_elec,310,2.245010922032797
+Battery 1,dS_elec,311,-1.1424392581643625
+Battery 1,dS_elec,312,-3.8312742500716124
+Battery 1,dS_elec,313,-5.442055854463351
+Battery 1,dS_elec,314,-5.626524955446987
+Battery 1,dS_elec,315,-4.084751896984904
+Battery 1,dS_elec,316,-3.2404361239529376
+Battery 1,dS_elec,317,-9.177301704150697
+Battery 1,dS_elec,318,-12.923579960644307
+Battery 1,dS_elec,319,-14.503779166528068
+Battery 1,dS_elec,320,-14.039635722904857
+Battery 1,dS_elec,321,-11.748045914293614
+Battery 1,dS_elec,322,-7.934356081524851
+Battery 1,dS_elec,323,-2.981158270635196
+Battery 1,dS_elec,324,0.0
+Battery 1,dS_elec,325,0.0
+Battery 1,dS_elec,326,0.0
+Battery 1,dS_elec,327,0.0
+Battery 1,dS_elec,328,0.0
+Battery 1,dS_elec,329,0.0
+Battery 1,dS_elec,330,0.0
+Battery 1,dS_elec,331,0.0
+Battery 1,dS_elec,332,0.0
+Battery 1,dS_elec,333,0.0
+Battery 1,dS_elec,334,18.583150038536445
+Battery 1,dS_elec,335,19.104848940062787
+Battery 1,dS_elec,336,19.104848940062787
+Battery 1,dS_elec,337,19.104848940062787
+Battery 1,dS_elec,338,19.104848940062787
+Battery 1,dS_elec,339,12.297723284691902
+Battery 1,dS_elec,340,5.293703757604323
+Battery 1,dS_elec,341,-1.2610145592706297
+Battery 1,dS_elec,342,-6.80756082886518
+Battery 1,dS_elec,343,-10.830209577489741
+Battery 1,dS_elec,344,-12.880903467620215
+Battery 1,dS_elec,345,-12.600649777610572
+Battery 1,dS_elec,346,-9.736717861141805
+Battery 1,dS_elec,347,-6.977170427014574
+Battery 1,dS_elec,348,-10.228805391437486
+Battery 1,dS_elec,349,-10.868772351149152
+Battery 1,dS_elec,350,-9.132639177153633
+Battery 1,dS_elec,351,-5.364402042488395
+Battery 1,dS_elec,352,0.0
+Battery 1,dS_elec,353,0.0
+Battery 1,dS_elec,354,0.0
+Battery 1,dS_elec,355,0.0
+Battery 1,dS_elec,356,0.0
+Battery 1,dS_elec,357,0.0
+Battery 1,dS_elec,358,0.0
+Battery 1,dS_elec,359,0.0
+Battery 1,dS_elec,360,0.0
+Battery 1,dS_elec,361,0.0
+Battery 1,dS_elec,362,8.224071128711824
+Battery 1,dS_elec,363,19.104848940062787
+Battery 1,dS_elec,364,19.104848940062787
+Battery 1,dS_elec,365,19.104848940062787
+Battery 1,dS_elec,366,19.104848940062787
+Battery 1,dS_elec,367,14.892794052278688
+Battery 1,dS_elec,368,9.444341490659449
+Battery 1,dS_elec,369,3.6168784256473296
+Battery 1,dS_elec,370,-2.0790217582699477
+Battery 1,dS_elec,371,-7.151026459703947
+Battery 1,dS_elec,372,-11.146847894520008
+Battery 1,dS_elec,373,-13.673508719341653
+Battery 1,dS_elec,374,-14.413224439447127
+Battery 1,dS_elec,375,-13.13525601175496
+Battery 1,dS_elec,376,-9.703310880349322
+Battery 1,dS_elec,377,-4.078309166904182
+Battery 1,dS_elec,378,-3.8763488454923865
+Battery 1,dS_elec,379,-5.684557758398505
+Battery 1,dS_elec,380,-5.726612531003022
+Battery 1,dS_elec,381,-4.293766510647352
+Battery 1,dS_elec,382,-1.7280826566420284
+Battery 1,dS_elec,383,1.5945637310709433
+Battery 1,dS_elec,384,5.282123194556904
+Battery 1,dS_elec,385,8.943783069299009
+Battery 1,dS_elec,386,12.20634634031715
+Battery 1,dS_elec,387,14.72887579037782
+Battery 1,dS_elec,388,16.21503417635469
+Battery 1,dS_elec,389,16.42270630849568
+Battery 1,dS_elec,390,15.170655716271394
+Battery 1,dS_elec,391,12.342136779529039
+Battery 1,dS_elec,392,7.885542972393073
+Battery 1,dS_elec,393,1.8123144531132431
+Battery 1,dS_elec,394,-0.05880198276293946
+Battery 1,dS_elec,395,0.0
+Battery 1,dS_elec,396,0.0
+Battery 1,dS_elec,397,0.10037860932479838
+Battery 1,dS_elec,398,-0.5276555927358899
+Battery 1,dS_elec,399,-1.7415085043841225
+Battery 1,dS_elec,400,-3.29007681146541
+Battery 1,dS_elec,401,-4.923212375928443
+Battery 1,dS_elec,402,-6.399134442943661
+Battery 1,dS_elec,403,-7.49077976092619
+Battery 1,dS_elec,404,-7.991041943020715
+Battery 1,dS_elec,405,-7.716928261928003
+Battery 1,dS_elec,406,-6.512723069556249
+Battery 1,dS_elec,407,-4.252288627782563
+Battery 1,dS_elec,408,-0.8406545444163496
+Battery 1,dS_elec,409,0.0
+Battery 1,dS_elec,410,0.0
+Battery 1,dS_elec,411,-0.6694684526884613
+Battery 1,dS_elec,412,-3.915327400613465
+Battery 1,dS_elec,413,-6.025227841145546
+Battery 1,dS_elec,414,-7.100026132541321
+Battery 1,dS_elec,415,-7.271497270524693
+Battery 1,dS_elec,416,-6.700624882615575
+Battery 1,dS_elec,417,-5.575151156494085
+Battery 1,dS_elec,418,-4.106237676701492
+Battery 1,dS_elec,419,-2.5241125414649384
+Battery 1,dS_elec,420,-1.0726245231118265
+Battery 1,dS_elec,421,-0.0026893022991489155
+Battery 1,dS_elec,422,0.4353079006977073
+Battery 1,dS_elec,423,0.0
+Battery 1,dS_elec,424,-0.374019586560198
+Battery 1,dS_elec,425,0.0
+Battery 1,dS_elec,426,3.3208499931661555
+Battery 1,dS_elec,427,9.04333218404472
+Battery 1,dS_elec,428,13.142476023708772
+Battery 1,dS_elec,429,15.618289869466235
+Battery 1,dS_elec,430,16.534410922829863
+Battery 1,dS_elec,431,16.01971080305734
+Battery 1,dS_elec,432,14.267109207418715
+Battery 1,dS_elec,433,11.529397278865389
+Battery 1,dS_elec,434,8.112018679512307
+Battery 1,dS_elec,435,4.362918405168984
+Battery 1,dS_elec,436,0.6597380785274448
+Battery 1,dS_elec,437,-2.605198119970686
+Battery 1,dS_elec,438,-5.041510886606357
+Battery 1,dS_elec,439,-6.278282360228617
+Battery 1,dS_elec,440,-5.981642035919594
+Battery 1,dS_elec,441,-3.87154692689251
+Battery 1,dS_elec,442,-4.850029594403579
+Battery 1,dS_elec,443,-10.122194005286936
+Battery 1,dS_elec,444,-13.201198632517565
+Battery 1,dS_elec,445,-14.14419239704259
+Battery 1,dS_elec,446,-13.10537400815263
+Battery 1,dS_elec,447,-10.332361264555127
+Battery 1,dS_elec,448,-6.157941340769305
+Battery 1,dS_elec,449,-0.9874300969462028
+Battery 1,dS_elec,450,0.0
+Battery 1,dS_elec,451,0.0
+Battery 1,dS_elec,452,0.0
+Battery 1,dS_elec,453,0.0
+Battery 1,dS_elec,454,0.0
+Battery 1,dS_elec,455,0.0
+Battery 1,dS_elec,456,0.0
+Battery 1,dS_elec,457,0.0
+Battery 1,dS_elec,458,0.0
+Battery 1,dS_elec,459,0.9730743716365766
+Battery 1,dS_elec,460,18.21899885839596
+Battery 1,dS_elec,461,19.104848940062787
+Battery 1,dS_elec,462,19.104848940062787
+Battery 1,dS_elec,463,19.104848940062787
+Battery 1,dS_elec,464,19.05894517015275
+Battery 1,dS_elec,465,12.006710051616414
+Battery 1,dS_elec,466,5.021998803144463
+Battery 1,dS_elec,467,-1.3222058340378589
+Battery 1,dS_elec,468,-6.478660217032377
+Battery 1,dS_elec,469,-9.951788513177565
+Battery 1,dS_elec,470,-11.321284464824478
+Battery 1,dS_elec,471,-10.262206230296853
+Battery 1,dS_elec,472,-6.560555605120798
+Battery 1,dS_elec,473,-10.111381263847713
+Battery 1,dS_elec,474,-12.533019496817465
+Battery 1,dS_elec,475,-12.40922839215805
+Battery 1,dS_elec,476,-10.013572373456539
+Battery 1,dS_elec,477,-5.723041299273663
+Battery 1,dS_elec,478,0.0
+Battery 1,dS_elec,479,0.0
+Battery 1,dS_elec,480,0.0
+Battery 1,dS_elec,481,0.0
+Battery 1,dS_elec,482,0.0
+Battery 1,dS_elec,483,0.0
+Battery 1,dS_elec,484,0.0
+Battery 1,dS_elec,485,0.0
+Battery 1,dS_elec,486,0.0
+Battery 1,dS_elec,487,0.0
+Battery 1,dS_elec,488,15.452729553039292
+Battery 1,dS_elec,489,19.104848940062787
+Battery 1,dS_elec,490,19.104848940062787
+Battery 1,dS_elec,491,19.104848940062787
+Battery 1,dS_elec,492,18.020867283156832
+Battery 1,dS_elec,493,13.038474294373662
+Battery 1,dS_elec,494,7.3396301983350485
+Battery 1,dS_elec,495,1.434180976289182
+Battery 1,dS_elec,496,-4.170882510092069
+Battery 1,dS_elec,497,-8.99436666841242
+Battery 1,dS_elec,498,-12.601930640619909
+Battery 1,dS_elec,499,-14.624299286004021
+Battery 1,dS_elec,500,-14.77185180206573
+Battery 1,dS_elec,501,-12.845012660164016
+Battery 1,dS_elec,502,-8.740102431661827
+Battery 1,dS_elec,503,-2.4505461644290403
+Battery 1,dS_elec,504,-4.029146569097939
+Battery 1,dS_elec,505,-5.27940920714572
+Battery 1,dS_elec,506,-4.854690070103779
+Battery 1,dS_elec,507,-3.0651488079465663
+Battery 1,dS_elec,508,-0.2661651440903919
+Battery 1,dS_elec,509,3.1589729318787114
+Battery 1,dS_elec,510,6.816725549935765
+Battery 1,dS_elec,511,10.320450300873107
+Battery 1,dS_elec,512,13.306270061636532
+Battery 1,dS_elec,513,15.446998504823704
+Battery 1,dS_elec,514,16.463604261315073
+Battery 1,dS_elec,515,16.133854919313823
+Battery 1,dS_elec,516,14.297950455204901
+Battery 1,dS_elec,517,10.861122106961625
+Battery 1,dS_elec,518,5.793327600277142
+Battery 1,dS_elec,519,-0.23381140933349065
+Battery 1,dS_elec,520,0.0
+Battery 1,dS_elec,521,0.0
+Battery 1,dS_elec,522,0.23921889101145719
+Battery 1,dS_elec,523,0.07276217714494874
+Battery 1,dS_elec,524,-0.8425167059950466
+Battery 1,dS_elec,525,-2.259433850878818
+Battery 1,dS_elec,526,-3.926317643764087
+Battery 1,dS_elec,527,-5.595056312572141
+Battery 1,dS_elec,528,-7.02816365864894
+Battery 1,dS_elec,529,-8.004756968451627
+Battery 1,dS_elec,530,-8.325425766624273
+Battery 1,dS_elec,531,-7.816042097146038
+Battery 1,dS_elec,532,-6.330617804008638
+Battery 1,dS_elec,533,-3.7533488604414362
+Battery 1,dS_elec,534,0.0
+Battery 1,dS_elec,535,0.0
+Battery 1,dS_elec,536,0.0
+Battery 1,dS_elec,537,-1.3724691601538803
+Battery 1,dS_elec,538,-4.287607377185867
+Battery 1,dS_elec,539,-6.097029140123934
+Battery 1,dS_elec,540,-6.912138810096915
+Battery 1,dS_elec,541,-6.874757335787633
+Battery 1,dS_elec,542,-6.155180623140118
+Battery 1,dS_elec,543,-4.94944633130801
+Battery 1,dS_elec,544,-3.4756658750845593
+Battery 1,dS_elec,545,-1.9693099954489073
+Battery 1,dS_elec,546,-0.6773883250415932
+Battery 1,dS_elec,547,0.14846679472530128
+Battery 1,dS_elec,548,0.25991877762177057
+Battery 1,dS_elec,549,-0.35090359126604714
+Battery 1,dS_elec,550,0.0
+Battery 1,dS_elec,551,0.0
+Battery 1,dS_elec,552,5.725556459643396
+Battery 1,dS_elec,553,10.847620019599788
+Battery 1,dS_elec,554,14.339614284626427
+Battery 1,dS_elec,555,16.222606818011172
+Battery 1,dS_elec,556,16.582127893563303
+Battery 1,dS_elec,557,15.568867479849846
+Battery 1,dS_elec,558,13.396498560081922
+Battery 1,dS_elec,559,10.336475385635445
+Battery 1,dS_elec,560,6.709807827313189
+Battery 1,dS_elec,561,2.8759783295164407
+Battery 1,dS_elec,562,-0.7806632878613703
+Battery 1,dS_elec,563,-3.866529932517918
+Battery 1,dS_elec,564,-5.995810014587711
+Battery 1,dS_elec,565,-6.808102466098487
+Battery 1,dS_elec,566,-5.985830809431277
+Battery 1,dS_elec,567,-3.270552639699761
+Battery 1,dS_elec,568,-6.418107765840637
+Battery 1,dS_elec,569,-11.007937246372572
+Battery 1,dS_elec,570,-13.412782719880127
+Battery 1,dS_elec,571,-13.722546496213539
+Battery 1,dS_elec,572,-12.123479351115707
+Battery 1,dS_elec,573,-8.892985959472249
+Battery 1,dS_elec,574,-4.389861108113631
+Battery 1,dS_elec,575,0.0
+Battery 1,dS_elec,576,0.0
+Battery 1,dS_elec,577,0.0
+Battery 1,dS_elec,578,0.0
+Battery 1,dS_elec,579,0.0
+Battery 1,dS_elec,580,0.0
+Battery 1,dS_elec,581,0.0
+Battery 1,dS_elec,582,0.0
+Battery 1,dS_elec,583,0.0
+Battery 1,dS_elec,584,0.0
+Battery 1,dS_elec,585,2.5011901099781566
+Battery 1,dS_elec,586,19.104848940062787
+Battery 1,dS_elec,587,19.104848940062787
+Battery 1,dS_elec,588,19.104848940062787
+Battery 1,dS_elec,589,19.104848940062787
+Battery 1,dS_elec,590,18.283024325003517
+Battery 1,dS_elec,591,11.137675507514015
+Battery 1,dS_elec,592,4.253953111017279
+Battery 1,dS_elec,593,-1.8008297639005162
+Battery 1,dS_elec,594,-6.494000210256275
+Battery 1,dS_elec,595,-9.352811498117811
+Battery 1,dS_elec,596,-10.890609915585502
+Battery 1,dS_elec,597,-14.791571019045909
+Battery 1,dS_elec,598,-16.004678533159332
+Battery 1,dS_elec,599,-14.479223815549512
+Battery 1,dS_elec,600,-10.290326656548325
+Battery 1,dS_elec,601,-7.809104258067138
+Battery 1,dS_elec,602,-4.778602552411847
+Battery 1,dS_elec,603,0.0
+Battery 1,dS_elec,604,0.0
+Battery 1,dS_elec,605,0.0
+Battery 1,dS_elec,606,0.0
+Battery 1,dS_elec,607,0.0
+Battery 1,dS_elec,608,0.0
+Battery 1,dS_elec,609,0.0
+Battery 1,dS_elec,610,0.0
+Battery 1,dS_elec,611,0.0
+Battery 1,dS_elec,612,0.0
+Battery 1,dS_elec,613,0.0
+Battery 1,dS_elec,614,16.328274636224272
+Battery 1,dS_elec,615,19.104848940062787
+Battery 1,dS_elec,616,19.104848940062787
+Battery 1,dS_elec,617,19.104848940062787
+Battery 1,dS_elec,618,18.144765078004138
+Battery 1,dS_elec,619,12.81994503953529
+Battery 1,dS_elec,620,6.94921252674888
+Battery 1,dS_elec,621,1.0440877165625135
+Battery 1,dS_elec,622,-4.394625180832162
+Battery 1,dS_elec,623,-8.89926125746378
+Battery 1,dS_elec,624,-12.055493327575437
+Battery 1,dS_elec,625,-13.519403553231014
+Battery 1,dS_elec,626,-13.030713251311333
+Battery 1,dS_elec,627,-10.421673358975056
+Battery 1,dS_elec,628,-9.578889319017344
+Battery 1,dS_elec,629,-8.393381454842302
+Battery 1,dS_elec,630,-5.1594389420293485
+Battery 1,dS_elec,631,-5.041815585977608
+Battery 1,dS_elec,632,-4.163273019394126
+Battery 1,dS_elec,633,-2.034979187988612
+Battery 1,dS_elec,634,0.9763343016261123
+Battery 1,dS_elec,635,4.481970329150543
+Battery 1,dS_elec,636,8.088844173295305
+Battery 1,dS_elec,637,11.4162833479398
+Battery 1,dS_elec,638,14.111309428276737
+Battery 1,dS_elec,639,15.861786067718137
+Battery 1,dS_elec,640,16.406966498487563
+Battery 1,dS_elec,641,15.545137934333722
+Battery 1,dS_elec,642,13.138229150998157
+Battery 1,dS_elec,643,9.113411074334874
+Battery 1,dS_elec,644,3.461869295432671
+Battery 1,dS_elec,645,-0.36545185139928493
+Battery 1,dS_elec,646,0.0
+Battery 1,dS_elec,647,0.01737394690555754
+Battery 1,dS_elec,648,0.4397779318858891
+Battery 1,dS_elec,649,-0.04366402077216583
+Battery 1,dS_elec,650,-1.1935843630851504
+Battery 1,dS_elec,651,-2.760337515621161
+Battery 1,dS_elec,652,-4.4925958122397756
+Battery 1,dS_elec,653,-6.145084288098372
+Battery 1,dS_elec,654,-7.48528800469637
+Battery 1,dS_elec,655,-8.299055447102575
+Battery 1,dS_elec,656,-8.395102546831385
+Battery 1,dS_elec,657,-7.6084885483421205
+Battery 1,dS_elec,658,-5.803183170022048
+Battery 1,dS_elec,659,-2.8738719387994833
+Battery 1,dS_elec,660,0.0
+Battery 1,dS_elec,661,0.0
+Battery 1,dS_elec,662,0.0
+Battery 1,dS_elec,663,-2.213288417989468
+Battery 1,dS_elec,664,-4.780456079061836
+Battery 1,dS_elec,665,-6.275623462848185
+Battery 1,dS_elec,666,-6.8205972392146235
+Battery 1,dS_elec,667,-6.567026534667868
+Battery 1,dS_elec,668,-5.694212154597398
+Battery 1,dS_elec,669,-4.406073868781808
+Battery 1,dS_elec,670,-2.9271407807442893
+Battery 1,dS_elec,671,-1.4974684643693237
+Battery 1,dS_elec,672,-0.3664449810083872
+Battery 1,dS_elec,673,0.214477214655114
+Battery 1,dS_elec,674,0.0
+Battery 1,dS_elec,675,-0.18428031979981782
+Battery 1,dS_elec,676,0.0
+Battery 1,dS_elec,677,0.0
+Battery 1,dS_elec,678,0.0
+Battery 1,dS_elec,679,0.0
+Battery 1,dS_elec,680,4.5439929741225695
+Battery 1,dS_elec,681,19.104848940062787
+Battery 1,dS_elec,682,19.104848940062787
+Battery 1,dS_elec,683,19.104848940062787
+Battery 1,dS_elec,684,17.308366786271627
+Battery 1,dS_elec,685,13.991052719329751
+Battery 1,dS_elec,686,10.224595097841606
+Battery 1,dS_elec,687,6.378470431231585
+Battery 1,dS_elec,688,2.8419631247231916
+Battery 1,dS_elec,689,0.00799219994376549
+Battery 1,dS_elec,690,-4.312283618951564
+Battery 1,dS_elec,691,-10.415329062616319
+Battery 1,dS_elec,692,-14.789259432603545
+Battery 1,dS_elec,693,-17.198860769951473
+Battery 1,dS_elec,694,-17.486607809332856
+Battery 1,dS_elec,695,-15.583078316220472
+Battery 1,dS_elec,696,-11.513636874738674
+Battery 1,dS_elec,697,-5.400878171913504
+Battery 1,dS_elec,698,0.0
+Battery 1,dS_elec,699,0.0
+Battery 1,dS_elec,700,0.0
+Battery 1,dS_elec,701,0.0
+Battery 1,dS_elec,702,0.9541335060806097
+Battery 1,dS_elec,703,3.9389777542456432
+Battery 1,dS_elec,704,5.799733130465418
+Battery 1,dS_elec,705,6.231765389906971
+Battery 1,dS_elec,706,4.98739896980295
+Battery 1,dS_elec,707,1.8857910325602152
+Battery 1,dS_elec,708,0.0
+Battery 1,dS_elec,709,0.0
+Battery 1,dS_elec,710,0.0
+Battery 1,dS_elec,711,16.59932265040455
+Battery 1,dS_elec,712,19.104848940062787
+Battery 1,dS_elec,713,19.104848940062787
+Battery 1,dS_elec,714,17.89579148400766
+Battery 1,dS_elec,715,11.561134057467866
+Battery 1,dS_elec,716,4.540330080149402
+Battery 1,dS_elec,717,-2.6011133380361953
+Battery 1,dS_elec,718,-9.2876318869297
+Battery 1,dS_elec,719,-14.960620846602605
+Battery 1,dS_elec,720,-19.104848940062787

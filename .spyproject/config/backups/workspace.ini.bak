@@ -1,0 +1,12 @@
+[workspace]
+restore_data_on_startup = True
+save_data_on_exit = True
+save_history = True
+save_non_project_files = False
+project_type = 'empty-project-type'
+recent_files = ['python\\main.py', 'python\\model.py', 'python\\resultExport.py', 'python\\technologies\\electrolyzer.py', 'python\\technologies\\storage.py', 'python\\technologies\\powerPlants.py', 'python\\yamled.py', 'python\\scenario.py', 'python\\user_input.py', 'python\\technologies\\technology.py', 'python\\visualizer.py', 'python\\results\\Scenario Example 3 iter 0.csv', 'python\\results\\Scenario Example 3 iter 3.csv']
+
+[main]
+version = 0.2.0
+recent_files = []
+

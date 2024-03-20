@@ -1,0 +1,20 @@
+
+Scenario:
+  name: "My First Scenario"
+  nSmpl: 720
+  LHV_H2: 0.0333
+  demand:
+    D_Elec:
+      get_value_mode: "Const"
+      value: 100
+  technologies:
+    WindPowerPlant:
+      type: "technologies.powerPlants.WindPower"
+      CAPEX_G: 1200000
+      R: 0.005
+      FC_G: 1200
+      VC_G: 0
+      name: "Wind Power plant 1"
+      AF_config:
+        get_value_mode: "Const"
+        value: 0.8
